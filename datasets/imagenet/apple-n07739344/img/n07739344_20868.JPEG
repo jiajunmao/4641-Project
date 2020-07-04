@@ -1,0 +1,2215 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<style>/* @see https://github.com/aFarkas/lazysizes#broken-image-symbol */.js img.lazyload:not([src]) { visibility: hidden; }/* @see https://github.com/aFarkas/lazysizes#automatically-setting-the-sizes-attribute */.js img.lazyloaded[data-sizes=auto] { display: block; width: 100%; }</style>
+<meta name="twitter:card" content="summary" />
+<meta property="og:site_name" content="Denver Botanic Gardens" />
+<meta name="twitter:title" content="Blog" />
+<meta property="og:type" content="Component Page" />
+<meta name="twitter:site" content="@botanic" />
+<meta property="og:url" content="https://www.botanicgardens.org/blog" />
+<meta property="og:title" content="Blog" />
+<meta name="twitter:url" content="https://www.botanicgardens.org/blog" />
+<meta name="twitter:image:height" content="390" />
+<meta name="twitter:image:width" content="1366" />
+<meta name="twitter:image" content="https://www.botanicgardens.org/sites/default/files/styles/large/public/image/2020-05/blog1_400_0.jpg?itok=hfsarhcO" />
+<meta property="og:image" content="https://www.botanicgardens.org/sites/default/files/styles/large/public/image/2020-05/blog1_400_0.jpg?itok=hfsarhcO" />
+<meta property="og:image:width" content="1366" />
+<meta property="og:image:height" content="390" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="/themes/custom/themekit/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="canonical" href="https://www.botanicgardens.org/blog" />
+<link rel="shortlink" href="https://www.botanicgardens.org/node/4966" />
+<link rel="revision" href="https://www.botanicgardens.org/blog" />
+<script src="/sites/default/files/google_tag/primary/google_tag.script.js?qcv1pg" defer></script>
+
+    <title>Blog | Denver Botanic Gardens</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_HbPnQkQT6hZ1sRVc8F3MjubH6puakjBlIXTsQSfYzBo.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_Kz_uPAhv9XEkgu3hg3u8tx4D2P5WjbO8VqLIWiCL4aQ.css" />
+
+    
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_bQbcmkerWKDrfJfZjIJxkvuQMKfqNZi1UUV3ccIMz88.js"></script>
+<![endif]-->
+<script src="/core/assets/vendor/modernizr/modernizr.min.js?v=3.3.1"></script>
+<script src="//use.typekit.net/iqv1caz.js"></script>
+<script src="/sites/default/files/js/js_jHHpi6BPC0CllDMFvPZVHDKYZkUCzeEG_YOSnnNvX14.js"></script>
+
+    <meta name="theme-color" content="#8eabc3">
+  </head>
+  <body class="path-node page-node-type-component-page">
+        <div id="skip-to-content">
+      <a href="#main-content" class="skip-to-content-link">Skip to main content</a>
+    </div>
+    <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PHBQ87R" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+
+<div class="layout-container">
+
+  <header role="banner">
+    
+  <div class="region region-dmb">
+    
+
+<div id="block-dmbnotificationsblock" class="block block-dismissible-message-bar block-dmb-notifications-block block-dmbnotificationsblock">
+  <div><div class="dmb-notifications-ajax-wrapper"></div>
+</div>
+
+</div>
+
+  </div>
+
+    
+  <div class="region region-top-header">
+    <div class="header-search-form block block-dbg-search block-header-search-block block-searchformheader" data-drupal-selector="header-search-form" id="block-searchformheader">
+  
+      <h2>Search</h2>
+    
+      <form action="/search" method="get" id="header-search-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keyword form-item-keyword form-no-label">
+      <label for="edit-keyword" class="visually-hidden">Search</label>
+        <input title="Enter the keywords you wish to search for." data-drupal-selector="edit-keyword" type="search" id="edit-keyword" name="keyword" value="" size="15" maxlength="128" class="form-search" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" class="button js-form-submit form-submit" />
+</div>
+
+</form>
+
+  </div>
+<nav role="navigation" aria-labelledby="block-utility-menu" id="block-utility" class="block block-menu navigation menu--utility">
+            
+  <h2 class="visually-hidden" id="block-utility-menu">Utility</h2>
+  
+
+        
+              <ul data-region="top_header" class="menu">
+                    <li class="menu-item">
+        <a href="/membership" data-drupal-link-system-path="node/966">Become a Member</a>
+              </li>
+                <li class="menu-item">
+        <a href="/calendar" data-drupal-link-system-path="node/1436">Calendar</a>
+              </li>
+                <li class="menu-item">
+        <a href="/donate" data-drupal-link-system-path="node/4211">Donate</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://denver-botanic-gardens-inc.mybigcommerce.com/" target="_blank">Shop</a>
+              </li>
+                <li class="menu-item">
+        <a href="/Espa%C3%B1ol" data-drupal-link-system-path="node/4396">Español</a>
+              </li>
+                <li class="menu-item">
+        <a href="/tickets-log" class="menu-item--button" data-drupal-link-system-path="node/66">Buy Tickets</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+    
+  <div class="region region-header">
+    <div class="inner-container">
+      <div id="block-themekit-branding" class="block block-system block-system-branding-block block-themekit-branding">
+  
+    
+        <a href="/" rel="home" class="site-logo">
+      <img src="/themes/custom/themekit/logo.svg" alt="Home" />
+    </a>
+      </div>
+<nav role="navigation" aria-labelledby="block-themekit-main-menu-menu" id="block-themekit-main-menu" class="block block-menu navigation menu--main">
+            
+  <h2 class="visually-hidden" id="block-themekit-main-menu-menu">Main navigation</h2>
+  
+
+        
+<div class="toggle-container">
+  <span class="mobile-toggle">
+    <span class="line"></span>
+    <span class="line"></span>
+    <span class="line"></span>
+  </span>
+  <div>Menu</div>
+</div>
+<ul  data-region="header" class="menu mega-menu menu-collapsible large-horizontal menu-level-0" data-responsive-menu="accordion large-dropdown" data-submenu-toggle="true">
+      
+    <li class="menu-item menu-item--expanded menu-item-view-mode--flyout">
+      <a href="/" data-drupal-link-system-path="&lt;front&gt;">Visit</a>
+                    
+  
+              
+<ul class="menu menu-level-1">
+      
+    <li  class="menu-item menu-item--expanded menu-item-view-mode--flyout">
+      <a href="/york-street" class="york" data-drupal-link-system-path="node/71">York Street</a>
+
+      
+              
+  
+              
+            <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__item"><p>Urban oasis in Denver, CO</p>
+<ul></ul>
+</div>
+      
+<ul class="menu menu-level-2">
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/york-street" data-drupal-link-system-path="node/71">Plan Your Visit</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/york-street/our-gardens" data-drupal-link-system-path="node/106">Explore Our Gardens</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/york-street/tours" data-drupal-link-system-path="node/96">Tours</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/york-street/mordecai-childrens-garden" data-drupal-link-system-path="node/136">Mordecai Children’s Garden</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/helen-fowler-library" data-drupal-link-system-path="node/51">Helen Fowler Library</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/calendar?location%5B0%5D=231" data-drupal-link-query="{&quot;location&quot;:[&quot;231&quot;]}" data-drupal-link-system-path="node/1436">Event Calendar</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/tickets-log" data-drupal-link-system-path="node/66">Admission</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/york-street" data-drupal-link-system-path="node/71">Hours &amp; Directions</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/york-street/parking-transportation-accessibility-york-street" data-drupal-link-system-path="node/81">Parking</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/york-street/york-street-private-events" data-drupal-link-system-path="node/251">Private Events</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/york-street/dining" data-drupal-link-system-path="node/86">Dining</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/york-street/shop-gardens" data-drupal-link-system-path="node/91">Shop</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/york-street/visitor-guidelines" data-drupal-link-system-path="node/1441">Visitor Guidelines</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+  </ul>
+
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item--expanded menu-item-view-mode--flyout">
+      <a href="/chatfield-farms" class="chatfield" data-drupal-link-system-path="node/341">Chatfield Farms</a>
+
+      
+              
+  
+              
+            <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__item"><p>Farm &amp; historical homestead in Littleton, CO</p>
+</div>
+      
+<ul class="menu menu-level-2">
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/chatfield-farms" data-drupal-link-system-path="node/341">Plan Your Visit</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/chatfield-farms/our-gardens" data-drupal-link-system-path="node/166">Explore Our Gardens</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/chatfield-farms/tours" data-drupal-link-system-path="node/451">Tours</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/chatfield-farms/hildebrand-ranch" data-drupal-link-system-path="node/456">Hildebrand Ranch</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/calendar?location%5B0%5D=131" data-drupal-link-query="{&quot;location&quot;:[&quot;131&quot;]}" data-drupal-link-system-path="node/1436">Event Calendar</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/tickets-log#chatfield-farms" data-drupal-link-system-path="node/66">Admission</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/chatfield-farms" data-drupal-link-system-path="node/341">Hours &amp; Directions</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/chatfield-farms/parking-transportation-accessibility-chatfield-farms" data-drupal-link-system-path="node/1391">Parking</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/chatfield-farms/private-events" data-drupal-link-system-path="node/461">Private Events</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/chatfield-farms/chatfield-farms-visitor-guidelines" data-drupal-link-system-path="node/1386">Visitor Guidelines</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+  </ul>
+
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item--expanded menu-item-view-mode--flyout">
+      <a href="/" class="other-locations" data-drupal-link-system-path="&lt;front&gt;">Other Locations</a>
+
+      
+              
+  
+              
+<ul class="menu menu-level-2">
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/mount-goliath" data-drupal-link-system-path="node/466">Mount Goliath</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/plains-conservation-center" data-drupal-link-system-path="node/471">Plains Conservation Center</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+  </ul>
+
+    
+
+
+          </li>
+  </ul>
+
+    
+
+
+          </li>
+      
+    <li class="menu-item menu-item--expanded menu-item-view-mode--dropdown">
+      <a href="/our-collections-exhibitions" data-drupal-link-system-path="node/476">Collections &amp; Exhibitions</a>
+                    
+  
+              
+<ul class="menu menu-level-1">
+      
+    <li  class="menu-item menu-item--expanded menu-item-view-mode--column">
+      <span>Garden</span>
+
+      
+              
+    <div class="menu_link_content menu-link-contentmain view-mode-column">
+                    
+<ul class="menu menu-level-2">
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/living-collections" data-drupal-link-system-path="node/481">Living Collections</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="http://navigate.botanicgardens.org/ecmweb/ECM_Home.html">Search for Plants</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+  </ul>
+
+        </div>
+
+
+
+          </li>
+      
+    <li  class="menu-item menu-item--expanded menu-item-view-mode--column">
+      <span>Science</span>
+
+      
+              
+    <div class="menu_link_content menu-link-contentmain view-mode-column">
+                    
+<ul class="menu menu-level-2">
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/our-collections/natural-history-collections" data-drupal-link-system-path="node/556">Natural History Collections</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/our-collections/kathryn-kalmbach-herbarium-vascular-plants" data-drupal-link-system-path="node/571">Plant Collections</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/our-collections/sam-mitchel-herbarium-fungi" data-drupal-link-system-path="node/581">Fungal Collections</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/our-collections/dbg-collection-arthropods" data-drupal-link-system-path="node/566">Arthropod Collections</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/helen-fowler-library" data-drupal-link-system-path="node/51">Library Collections</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/science/science-exhibitions" data-drupal-link-system-path="node/486">Science Exhibitions</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+  </ul>
+
+        </div>
+
+
+
+          </li>
+      
+    <li  class="menu-item menu-item--expanded menu-item-view-mode--column">
+      <span>Art</span>
+
+      
+              
+    <div class="menu_link_content menu-link-contentmain view-mode-column">
+                    
+<ul class="menu menu-level-2">
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/art-exhibits/current-upcoming" data-drupal-link-system-path="node/1476">Current &amp; Upcoming Art Exhibitions</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/art-exhibits/past" data-drupal-link-system-path="node/1486">Past Art Exhibitions</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/art-exhibits/traveling" data-drupal-link-system-path="node/1491">Traveling Art Exhibitions</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/art-exhibits" data-drupal-link-system-path="node/1296">See All Art Exhibitions</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+  </ul>
+
+        </div>
+
+
+
+          </li>
+  </ul>
+
+    
+
+
+          </li>
+      
+    <li class="menu-item menu-item--expanded menu-item-view-mode--default">
+      <a href="/events" data-drupal-link-system-path="node/496">Events</a>
+                    
+  
+              
+<ul class="menu menu-level-1">
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/calendar" data-drupal-link-system-path="node/1436">Calendar</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/events/special-events" data-drupal-link-system-path="node/4256">Special Events</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/events/free-days" data-drupal-link-system-path="node/911">Free Days</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/events/member-events" data-drupal-link-system-path="node/4316">Member Events</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/events/plant-society-shows" data-drupal-link-system-path="node/4441">Plant Society Shows</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+  </ul>
+
+    
+
+
+          </li>
+      
+    <li class="menu-item menu-item--expanded menu-item-view-mode--default">
+      <a href="/education-programs" data-drupal-link-system-path="node/501">Education &amp; Programs</a>
+                    
+  
+              
+<ul class="menu menu-level-1">
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/calendar" data-drupal-link-system-path="node/1436">Programs Calendar</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="https://catalog.botanicgardens.org/default.aspx">Programs Catalog</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/education/adult-programs" data-drupal-link-system-path="node/4472">Adult Programs</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/education/school-botanical-art-illustration" data-drupal-link-system-path="node/46">School of Botanical Arts &amp; Illustration</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/education/children-family-programs" data-drupal-link-system-path="node/216">Children &amp; Family Programs</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/education/schools-teachers" data-drupal-link-system-path="node/4469">Schools &amp; Teachers Programs</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/education/gardening-resources" data-drupal-link-system-path="node/4391">Gardening Resources</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+  </ul>
+
+    
+
+
+          </li>
+      
+    <li class="menu-item menu-item--expanded menu-item-view-mode--dropdown">
+      <a href="/science-research" data-drupal-link-system-path="node/1451">Science &amp; Research</a>
+                    
+  
+              
+<ul class="menu menu-level-1">
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/science-research/horticultural-research" data-drupal-link-system-path="node/1456">Horticultural Research</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/science-research/biodiversity-research" data-drupal-link-system-path="node/1461">Biodiversity Research</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/science-research/phenology" data-drupal-link-system-path="node/516">Phenology</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/science-research/experts" data-drupal-link-system-path="node/1466">Experts</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/science-research/graduate-training-internships-seasonal-positions" data-drupal-link-system-path="node/656">Graduate Training &amp; Internships</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+  </ul>
+
+    
+
+
+          </li>
+      
+    <li class="menu-item menu-item--expanded menu-item-view-mode--dropdown">
+      <a href="/join-give" data-drupal-link-system-path="node/4206">Join &amp; Give</a>
+                    
+  
+              
+<ul class="menu menu-level-1">
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/membership" data-drupal-link-system-path="node/966">Membership</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/donate" data-drupal-link-system-path="node/4211">Donate</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/volunteer" data-drupal-link-system-path="node/201">Volunteer</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/corporate-partnership" data-drupal-link-system-path="node/4216">Corporate Partnership</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/career-opportunities" data-drupal-link-system-path="node/4221">Employment</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/internship-opportunities" data-drupal-link-system-path="node/661">Internships</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+  </ul>
+
+    
+
+
+          </li>
+      
+    <li class="menu-item menu-item--expanded menu-item-view-mode--dropdown">
+      <a href="/our-impact" data-drupal-link-system-path="node/4470">Our Impact</a>
+                    
+  
+              
+<ul class="menu menu-level-1">
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/our-impact/water-stewardship" data-drupal-link-system-path="node/4246">Water Stewardship</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/our-impact/food-programs" data-drupal-link-system-path="node/1401">Food Programs</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/our-impact/center-global-initiatives" data-drupal-link-system-path="node/4251">Global Initiatives</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/our-impact/free-shuttle-program" data-drupal-link-system-path="node/4467">Free Shuttle Program</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/our-impact/trips-travel" data-drupal-link-system-path="node/4406">Trips &amp; Travel</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/our-impact/therapeutic-horticulture" data-drupal-link-system-path="node/4461">Therapeutic Horticulture</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+  </ul>
+
+    
+
+
+          </li>
+  </ul>
+
+  </nav>
+
+      <a class="search" href="/search">Search</a>
+    </div>
+  </div>
+
+  </header>
+
+  
+  
+
+  
+  <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+
+  
+
+  <main id="main-content" role="main">
+    <div class="layout-content">
+      
+  <div class="region region-content">
+    <div id="block-themekit-content" class="block block-system block-system-main-block block-themekit-content">
+  
+    
+      
+
+
+
+
+<article data-history-node-id="4966" role="article" about="/blog" class="node node--type-component-page node--view-mode-full node--id-4966">
+      <div class="header">
+      
+  
+
+
+
+
+<div class="paragraph paragraph--type--banner-basic paragraph--view-mode--default">
+  <div class="bg-container">
+    
+            <div class="field field--name-field-media field--type-entity-reference field--label-hidden field__item">  <div class="media media--image">
+      <picture>
+                      <!--[if IE 9]><video style="display: none;"><![endif]-->
+                  <source media="all and (min-width: 1366px)" type="image/jpeg" data-srcset="/sites/default/files/styles/x_large_hq/public/image/2020-05/blog1_400_0.jpg?itok=vgX2dAmU 1x"/>
+                  <source media="all and (min-width: 786px)" type="image/jpeg" data-srcset="/sites/default/files/styles/large_hq/public/image/2020-05/blog1_400_0.jpg?itok=zf9K24aZ 1x, /sites/default/files/styles/x_large_hq/public/image/2020-05/blog1_400_0.jpg?itok=vgX2dAmU 2x"/>
+                  <source media="all and (min-width: 640px)" type="image/jpeg" data-srcset="/sites/default/files/styles/medium_hq/public/image/2020-05/blog1_400_0.jpg?itok=4sM7ATGj 1x"/>
+                  <source type="image/jpeg" data-srcset="/sites/default/files/styles/small_hq/public/image/2020-05/blog1_400_0.jpg?itok=U4Z79VO1 1x, /sites/default/files/styles/large_hq/public/image/2020-05/blog1_400_0.jpg?itok=zf9K24aZ 2x"/>
+                <!--[if IE 9]></video><![endif]-->
+                  <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="1400" height="400" alt="Flower" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/small_hq/public/image/2020-05/blog1_400_0.jpg?itok=U4Z79VO1" typeof="foaf:Image" />
+
+    </picture>
+  </div>
+
+</div>
+      
+  </div>
+  <div class="paragraph-content">
+    <div class="title-container">
+        <h1 class="field heading field--name-field-heading field--type-text-long field--label-hidden field__item">
+                      Blog
+                  </h1>
+      
+            <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__item"><p>Enjoy "Digging Into the Gardens" blog, written by Denver Botanic Gardens' staff.</p>
+</div>
+      
+    </div>
+      </div>
+</div>
+
+
+    </div>
+    <div class="node__content">
+    
+  <div class="layout onecol-layout has-bg-color bg-color--none">
+    <div class="layout-content">
+              <div  class="layout__region layout__region--first">
+          <div class="block block-views block-views-blockblog-blog-overview">
+  
+    
+      <div class="views-element-container">
+
+
+
+<div class="view view-blog view-id-blog view-display-id-blog_overview js-view-dom-id-02e49d181a06bcbabd240e705d645f1deebe6559bb444c533d416f13482859d8">
+  
+    
+        <div class="view-filters">
+      <form class="views-exposed-form bef-exposed-form" data-drupal-selector="views-exposed-form-blog-blog-overview" action="/blog" method="get" id="views-exposed-form-blog-blog-overview" accept-charset="UTF-8">
+  <div class="form--inline clearfix">
+  <div class="js-form-item form-item js-form-type-select form-type-select js-form-item-category form-item-category">
+      <label for="edit-category">Category</label>
+        <select data-drupal-selector="edit-category" id="edit-category" name="category" class="form-select"><option value="All" selected="selected">- Any -</option><option value="6">Art in the Gardens</option><option value="336">Chatfield Farms</option><option value="331">Conservation &amp; Ecology</option><option value="16">Education</option><option value="341">Green Living</option><option value="346">Mordecai Children&#039;s Garden</option><option value="12311">Outreach</option><option value="351">Rocky Mountain Gardening</option><option value="356">What&#039;s Blooming</option><option value="11">York Street</option></select>
+        </div>
+<div class="js-form-item form-item js-form-type-entity-autocomplete form-type-entity-autocomplete js-form-item-tags form-item-tags">
+      <label for="edit-tags">Keyword</label>
+        <input data-drupal-selector="edit-tags" class="form-autocomplete form-text" data-autocomplete-path="/entity_reference_autocomplete/taxonomy_term/default/3FEtA8X3t3hJWtHKrieCJoXRGxM3ikUplnouRG6V9VM" type="text" id="edit-tags" name="tags" value="" size="60" maxlength="128" />
+
+        </div>
+<div class="js-form-item form-item js-form-type-entity-autocomplete form-type-entity-autocomplete js-form-item-author form-item-author">
+      <label for="edit-author">Blog Author</label>
+        <input data-drupal-selector="edit-author" aria-describedby="edit-author--description" class="form-autocomplete form-text" data-autocomplete-path="/entity_reference_autocomplete/user/default/I-2IkQMFpQcD9z4VDrbxo4FIKbpNOKgKeMUClzouhbw" type="text" id="edit-author" name="author" value="" size="60" maxlength="128" />
+
+            <div id="edit-author--description" class="description">
+      Enter a comma separated list of user names.
+    </div>
+  </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit-blog" type="submit" id="edit-submit-blog" value="Submit" class="button js-form-submit form-submit" />
+</div>
+
+</div>
+
+</form>
+
+    </div>
+    
+      <div class="view-content">
+          <div class="views-row">
+
+
+
+
+
+<article data-history-node-id="5544" role="article" about="/blog/july-walking-tour" typeof="schema:Article" class="node node--type-article node--view-mode-teaser">
+
+  <div class="node__content">
+    
+            <div class="field field--name-field-teaser-image field--type-entity-reference field--label-hidden field__item">  <div class="media media--image">
+      <picture>
+                      <!--[if IE 9]><video style="display: none;"><![endif]-->
+                  <source media="all and (min-width: 640px)" type="image/webp" data-srcset="/sites/default/files/styles/x_small/public/image/2020-07/July%20Walking%20Tour%20thumbnail.jpg.webp?itok=NOT30JVQ 1x, /sites/default/files/styles/medium/public/image/2020-07/July%20Walking%20Tour%20thumbnail.jpg.webp?itok=COevIQ_i 2x"/>
+                  <source type="image/webp" data-srcset="/sites/default/files/styles/small/public/image/2020-07/July%20Walking%20Tour%20thumbnail.jpg.webp?itok=uS1F7wYX 1x, /sites/default/files/styles/large_hq/public/image/2020-07/July%20Walking%20Tour%20thumbnail.jpg?itok=_gr7bWrP 2x"/>
+                  <source media="all and (min-width: 640px)" type="image/jpeg" data-srcset="/sites/default/files/styles/x_small/public/image/2020-07/July%20Walking%20Tour%20thumbnail.jpg?itok=NOT30JVQ 1x, /sites/default/files/styles/medium/public/image/2020-07/July%20Walking%20Tour%20thumbnail.jpg?itok=COevIQ_i 2x"/>
+                  <source type="image/jpeg" data-srcset="/sites/default/files/styles/small/public/image/2020-07/July%20Walking%20Tour%20thumbnail.jpg?itok=uS1F7wYX 1x, /sites/default/files/styles/large_hq/public/image/2020-07/July%20Walking%20Tour%20thumbnail.jpg?itok=_gr7bWrP 2x"/>
+                <!--[if IE 9]></video><![endif]-->
+                  <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="500" height="300" alt="Victorian Secret Garden" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/small/public/image/2020-07/July%20Walking%20Tour%20thumbnail.jpg?itok=uS1F7wYX" typeof="foaf:Image" />
+
+    </picture>
+  </div>
+
+</div>
+      
+    <h4 >
+      <a href="/blog/july-walking-tour"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">July Walking Tour</span>
+</a>
+    </h4>
+        <div class="date-auth">July 2, 2020
+                        <span class="auth">Jennifer Miller</span>
+                  </div>
+    
+            <div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="trimmed"><p>Now that it’s July and seedlings have had time to root in, container displays around the Gardens are taking off -- bulking up in size, spilling over edges and launching flower stalks. Come with me as</p>
+<div class="more-link"><a href="/blog/july-walking-tour" class="more-link" hreflang="en">Learn more</a></div></div></div>
+      
+  </div>
+
+</article>
+
+</div>
+    <div class="views-row">
+
+
+
+
+
+<article data-history-node-id="5530" role="article" about="/blog/when-its-hard-imagine-future-its-powerful-contemplate-history" typeof="schema:Article" class="node node--type-article node--view-mode-teaser">
+
+  <div class="node__content">
+    
+            <div class="field field--name-field-teaser-image field--type-entity-reference field--label-hidden field__item">  <div class="media media--image">
+      <picture>
+                      <!--[if IE 9]><video style="display: none;"><![endif]-->
+                  <source media="all and (min-width: 640px)" type="image/webp" data-srcset="/sites/default/files/styles/x_small/public/image/2020-06/bench.jpg.webp?itok=j6bACn4s 1x, /sites/default/files/styles/medium/public/image/2020-06/bench.jpg.webp?itok=gmLUO5Br 2x"/>
+                  <source type="image/webp" data-srcset="/sites/default/files/styles/small/public/image/2020-06/bench.jpg.webp?itok=lKiTqu7t 1x, /sites/default/files/styles/large_hq/public/image/2020-06/bench.jpg?itok=fmoQwLF- 2x"/>
+                  <source media="all and (min-width: 640px)" type="image/jpeg" data-srcset="/sites/default/files/styles/x_small/public/image/2020-06/bench.jpg?itok=j6bACn4s 1x, /sites/default/files/styles/medium/public/image/2020-06/bench.jpg?itok=gmLUO5Br 2x"/>
+                  <source type="image/jpeg" data-srcset="/sites/default/files/styles/small/public/image/2020-06/bench.jpg?itok=lKiTqu7t 1x, /sites/default/files/styles/large_hq/public/image/2020-06/bench.jpg?itok=fmoQwLF- 2x"/>
+                <!--[if IE 9]></video><![endif]-->
+                  <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="500" height="300" alt="bench" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/small/public/image/2020-06/bench.jpg?itok=lKiTqu7t" typeof="foaf:Image" />
+
+    </picture>
+  </div>
+
+</div>
+      
+    <h4 >
+      <a href="/blog/when-its-hard-imagine-future-its-powerful-contemplate-history"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">When It’s Hard to Imagine the Future, It’s Powerful to Contemplate History</span>
+</a>
+    </h4>
+        <div class="date-auth">June 30, 2020
+                        <span class="auth">Brian Vogt</span>
+                  </div>
+    
+            <div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="trimmed"><p>When it’s hard to imagine the future, it’s powerful to contemplate history. We gain perspective, insight and maybe a few important lessons. We can find role models, people who persevered in tough</p>
+<div class="more-link"><a href="/blog/when-its-hard-imagine-future-its-powerful-contemplate-history" class="more-link" hreflang="en">Learn more</a></div></div></div>
+      
+  </div>
+
+</article>
+
+</div>
+    <div class="views-row">
+
+
+
+
+
+<article data-history-node-id="5506" role="article" about="/blog/weed-profile-canada-thistle-cirsium-arvense" typeof="schema:Article" class="node node--type-article node--view-mode-teaser">
+
+  <div class="node__content">
+    
+            <div class="field field--name-field-teaser-image field--type-entity-reference field--label-hidden field__item">  <div class="media media--image">
+      <picture>
+                      <!--[if IE 9]><video style="display: none;"><![endif]-->
+                  <source media="all and (min-width: 640px)" type="image/webp" data-srcset="/sites/default/files/styles/x_small/public/image/2020-06/Canada%20thistle%20thumbnail_0.jpg.webp?itok=iX7MGE_Z 1x, /sites/default/files/styles/medium/public/image/2020-06/Canada%20thistle%20thumbnail_0.jpg.webp?itok=R1D04y2o 2x"/>
+                  <source type="image/webp" data-srcset="/sites/default/files/styles/small/public/image/2020-06/Canada%20thistle%20thumbnail_0.jpg.webp?itok=mv660Bdz 1x, /sites/default/files/styles/large_hq/public/image/2020-06/Canada%20thistle%20thumbnail_0.jpg?itok=w2y-nFVe 2x"/>
+                  <source media="all and (min-width: 640px)" type="image/jpeg" data-srcset="/sites/default/files/styles/x_small/public/image/2020-06/Canada%20thistle%20thumbnail_0.jpg?itok=iX7MGE_Z 1x, /sites/default/files/styles/medium/public/image/2020-06/Canada%20thistle%20thumbnail_0.jpg?itok=R1D04y2o 2x"/>
+                  <source type="image/jpeg" data-srcset="/sites/default/files/styles/small/public/image/2020-06/Canada%20thistle%20thumbnail_0.jpg?itok=mv660Bdz 1x, /sites/default/files/styles/large_hq/public/image/2020-06/Canada%20thistle%20thumbnail_0.jpg?itok=w2y-nFVe 2x"/>
+                <!--[if IE 9]></video><![endif]-->
+                  <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="500" height="300" alt="Canada thistle" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/small/public/image/2020-06/Canada%20thistle%20thumbnail_0.jpg?itok=mv660Bdz" typeof="foaf:Image" />
+
+    </picture>
+  </div>
+
+</div>
+      
+    <h4 >
+      <a href="/blog/weed-profile-canada-thistle-cirsium-arvense"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Weed Profile: Canada thistle (Cirsium arvense) </span>
+</a>
+    </h4>
+        <div class="date-auth">June 24, 2020
+                        <span class="auth">Jen Toews</span>
+                  </div>
+    
+            <div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="trimmed"><p>Summer is officially underway. The cast of spring-blooming flowers we so eagerly awaited has been replaced by a rowdy and colorful mid-season crowd, who are having their day in the sun. And, while the</p>
+<div class="more-link"><a href="/blog/weed-profile-canada-thistle-cirsium-arvense" class="more-link" hreflang="en">Learn more</a></div></div></div>
+      
+  </div>
+
+</article>
+
+</div>
+    <div class="views-row">
+
+
+
+
+
+<article data-history-node-id="5500" role="article" about="/blog/representation-botany-and-horticulture" typeof="schema:Article" class="node node--type-article node--view-mode-teaser">
+
+  <div class="node__content">
+    
+            <div class="field field--name-field-teaser-image field--type-entity-reference field--label-hidden field__item">  <div class="media media--image">
+      <picture>
+                      <!--[if IE 9]><video style="display: none;"><![endif]-->
+                  <source media="all and (min-width: 640px)" type="image/webp" data-srcset="/sites/default/files/styles/x_small/public/image/2020-06/Dr%20Still%20thumbnail.jpg.webp?itok=xNiRDYf7 1x, /sites/default/files/styles/medium/public/image/2020-06/Dr%20Still%20thumbnail.jpg.webp?itok=DYizMeVF 2x"/>
+                  <source type="image/webp" data-srcset="/sites/default/files/styles/small/public/image/2020-06/Dr%20Still%20thumbnail.jpg.webp?itok=2bInvSsl 1x, /sites/default/files/styles/large_hq/public/image/2020-06/Dr%20Still%20thumbnail.jpg?itok=31jy1RPN 2x"/>
+                  <source media="all and (min-width: 640px)" type="image/jpeg" data-srcset="/sites/default/files/styles/x_small/public/image/2020-06/Dr%20Still%20thumbnail.jpg?itok=xNiRDYf7 1x, /sites/default/files/styles/medium/public/image/2020-06/Dr%20Still%20thumbnail.jpg?itok=DYizMeVF 2x"/>
+                  <source type="image/jpeg" data-srcset="/sites/default/files/styles/small/public/image/2020-06/Dr%20Still%20thumbnail.jpg?itok=2bInvSsl 1x, /sites/default/files/styles/large_hq/public/image/2020-06/Dr%20Still%20thumbnail.jpg?itok=31jy1RPN 2x"/>
+                <!--[if IE 9]></video><![endif]-->
+                  <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="500" height="300" alt="Dr. James Still" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/small/public/image/2020-06/Dr%20Still%20thumbnail.jpg?itok=2bInvSsl" typeof="foaf:Image" />
+
+    </picture>
+  </div>
+
+</div>
+      
+    <h4 >
+      <a href="/blog/representation-botany-and-horticulture"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Representation in Botany and Horticulture </span>
+</a>
+    </h4>
+        <div class="date-auth">June 19, 2020
+                        <span class="auth">Kathryn Downing</span>
+                  </div>
+    
+            <div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="trimmed"><p>The Gardens' mission is to connect people with plants. The actions we take in pursuit of that mission are guided by our core values, one of which remains especially relevant today: diversity. We have</p>
+<div class="more-link"><a href="/blog/representation-botany-and-horticulture" class="more-link" hreflang="en">Learn more</a></div></div></div>
+      
+  </div>
+
+</article>
+
+</div>
+    <div class="views-row">
+
+
+
+
+
+<article data-history-node-id="5497" role="article" about="/blog/nine-new-state-champion-trees-recognized-york-street" typeof="schema:Article" class="node node--type-article node--view-mode-teaser">
+
+  <div class="node__content">
+    
+            <div class="field field--name-field-teaser-image field--type-entity-reference field--label-hidden field__item">  <div class="media media--image">
+      <picture>
+                      <!--[if IE 9]><video style="display: none;"><![endif]-->
+                  <source media="all and (min-width: 640px)" type="image/webp" data-srcset="/sites/default/files/styles/x_small/public/image/2020-06/shrub%20live%20oak.jpg.webp?itok=b0mh5IQ2 1x, /sites/default/files/styles/medium/public/image/2020-06/shrub%20live%20oak.jpg.webp?itok=tNXewulk 2x"/>
+                  <source type="image/webp" data-srcset="/sites/default/files/styles/small/public/image/2020-06/shrub%20live%20oak.jpg.webp?itok=-u2jfLXy 1x, /sites/default/files/styles/large_hq/public/image/2020-06/shrub%20live%20oak.jpg?itok=SyYJTCBf 2x"/>
+                  <source media="all and (min-width: 640px)" type="image/jpeg" data-srcset="/sites/default/files/styles/x_small/public/image/2020-06/shrub%20live%20oak.jpg?itok=b0mh5IQ2 1x, /sites/default/files/styles/medium/public/image/2020-06/shrub%20live%20oak.jpg?itok=tNXewulk 2x"/>
+                  <source type="image/jpeg" data-srcset="/sites/default/files/styles/small/public/image/2020-06/shrub%20live%20oak.jpg?itok=-u2jfLXy 1x, /sites/default/files/styles/large_hq/public/image/2020-06/shrub%20live%20oak.jpg?itok=SyYJTCBf 2x"/>
+                <!--[if IE 9]></video><![endif]-->
+                  <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="500" height="300" alt="Shrub live oak" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/small/public/image/2020-06/shrub%20live%20oak.jpg?itok=-u2jfLXy" typeof="foaf:Image" />
+
+    </picture>
+  </div>
+
+</div>
+      
+    <h4 >
+      <a href="/blog/nine-new-state-champion-trees-recognized-york-street"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Nine New State Champion Trees Recognized at York Street</span>
+</a>
+    </h4>
+        <div class="date-auth">June 17, 2020
+                        <span class="auth">Cindy Newlander</span>
+                  </div>
+    
+            <div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="trimmed"><p>In late 2019, 15 trees from Denver Botanic Gardens’ York Street collections were nominated for Colorado Champion Tree status. This month we received the certificates for nine trees that are now</p>
+<div class="more-link"><a href="/blog/nine-new-state-champion-trees-recognized-york-street" class="more-link" hreflang="en">Learn more</a></div></div></div>
+      
+  </div>
+
+</article>
+
+</div>
+    <div class="views-row">
+
+
+
+
+
+<article data-history-node-id="5491" role="article" about="/blog/fathers-day-gift-guide" typeof="schema:Article" class="node node--type-article node--view-mode-teaser">
+
+  <div class="node__content">
+    
+            <div class="field field--name-field-teaser-image field--type-entity-reference field--label-hidden field__item">  <div class="media media--image">
+      <picture>
+                      <!--[if IE 9]><video style="display: none;"><![endif]-->
+                  <source media="all and (min-width: 640px)" type="image/webp" data-srcset="/sites/default/files/styles/x_small/public/image/2020-06/essential_oils_thumbnail.jpg.webp?itok=Lx0ZawH_ 1x, /sites/default/files/styles/medium/public/image/2020-06/essential_oils_thumbnail.jpg.webp?itok=alNz23gi 2x"/>
+                  <source type="image/webp" data-srcset="/sites/default/files/styles/small/public/image/2020-06/essential_oils_thumbnail.jpg.webp?itok=4c3YqTqI 1x, /sites/default/files/styles/large_hq/public/image/2020-06/essential_oils_thumbnail.jpg?itok=bL18LKMe 2x"/>
+                  <source media="all and (min-width: 640px)" type="image/jpeg" data-srcset="/sites/default/files/styles/x_small/public/image/2020-06/essential_oils_thumbnail.jpg?itok=Lx0ZawH_ 1x, /sites/default/files/styles/medium/public/image/2020-06/essential_oils_thumbnail.jpg?itok=alNz23gi 2x"/>
+                  <source type="image/jpeg" data-srcset="/sites/default/files/styles/small/public/image/2020-06/essential_oils_thumbnail.jpg?itok=4c3YqTqI 1x, /sites/default/files/styles/large_hq/public/image/2020-06/essential_oils_thumbnail.jpg?itok=bL18LKMe 2x"/>
+                <!--[if IE 9]></video><![endif]-->
+                  <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="500" height="250" alt="Essential Oils" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/small/public/image/2020-06/essential_oils_thumbnail.jpg?itok=4c3YqTqI" typeof="foaf:Image" />
+
+    </picture>
+  </div>
+
+</div>
+      
+    <h4 >
+      <a href="/blog/fathers-day-gift-guide"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Father’s Day Gift Guide</span>
+</a>
+    </h4>
+        <div class="date-auth">June 12, 2020
+                        <span class="auth">Kaitlyn Heinz</span>
+                  </div>
+    
+            <div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="trimmed"><p>Summer weather has arrived and so has our curated list of Father’s Day gifts. The Shop at the Gardens has the perfect gift for the dad in your life. Mix and match for a combination as unique as he is</p>
+<div class="more-link"><a href="/blog/fathers-day-gift-guide" class="more-link" hreflang="en">Learn more</a></div></div></div>
+      
+  </div>
+
+</article>
+
+</div>
+    <div class="views-row">
+
+
+
+
+
+<article data-history-node-id="5492" role="article" about="/blog/corporate-memberships-natural-solution-your-company-right-now" typeof="schema:Article" class="node node--type-article node--view-mode-teaser">
+
+  <div class="node__content">
+    
+            <div class="field field--name-field-teaser-image field--type-entity-reference field--label-hidden field__item">  <div class="media media--image">
+      <picture>
+                      <!--[if IE 9]><video style="display: none;"><![endif]-->
+                  <source media="all and (min-width: 640px)" type="image/webp" data-srcset="/sites/default/files/styles/x_small/public/image/2020-06/butterfly_thumbnail.jpg.webp?itok=dcAEhSVO 1x, /sites/default/files/styles/medium/public/image/2020-06/butterfly_thumbnail.jpg.webp?itok=REaL2BmA 2x"/>
+                  <source type="image/webp" data-srcset="/sites/default/files/styles/small/public/image/2020-06/butterfly_thumbnail.jpg.webp?itok=azjk_4AF 1x, /sites/default/files/styles/large_hq/public/image/2020-06/butterfly_thumbnail.jpg?itok=VQX9sOQV 2x"/>
+                  <source media="all and (min-width: 640px)" type="image/jpeg" data-srcset="/sites/default/files/styles/x_small/public/image/2020-06/butterfly_thumbnail.jpg?itok=dcAEhSVO 1x, /sites/default/files/styles/medium/public/image/2020-06/butterfly_thumbnail.jpg?itok=REaL2BmA 2x"/>
+                  <source type="image/jpeg" data-srcset="/sites/default/files/styles/small/public/image/2020-06/butterfly_thumbnail.jpg?itok=azjk_4AF 1x, /sites/default/files/styles/large_hq/public/image/2020-06/butterfly_thumbnail.jpg?itok=VQX9sOQV 2x"/>
+                <!--[if IE 9]></video><![endif]-->
+                  <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="500" height="250" alt="monarch butterfly" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/small/public/image/2020-06/butterfly_thumbnail.jpg?itok=azjk_4AF" typeof="foaf:Image" />
+
+    </picture>
+  </div>
+
+</div>
+      
+    <h4 >
+      <a href="/blog/corporate-memberships-natural-solution-your-company-right-now"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Corporate Memberships: a “Natural Solution” for Your Company Right Now </span>
+</a>
+    </h4>
+        <div class="date-auth">June 10, 2020
+                        <span class="auth">Melissa Schaap</span>
+                  </div>
+    
+            <div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="trimmed"><p>2020 promises to be a summer like no other. With an entirely new landscape, everyone is asking new questions and creating new solutions. Perhaps your company is asking how you can best care for your</p>
+<div class="more-link"><a href="/blog/corporate-memberships-natural-solution-your-company-right-now" class="more-link" hreflang="en">Learn more</a></div></div></div>
+      
+  </div>
+
+</article>
+
+</div>
+    <div class="views-row">
+
+
+
+
+
+<article data-history-node-id="5493" role="article" about="/blog/access-helen-fowler-library-virtually" typeof="schema:Article" class="node node--type-article node--view-mode-teaser">
+
+  <div class="node__content">
+    
+            <div class="field field--name-field-teaser-image field--type-entity-reference field--label-hidden field__item">  <div class="media media--image">
+      <picture>
+                      <!--[if IE 9]><video style="display: none;"><![endif]-->
+                  <source media="all and (min-width: 640px)" type="image/webp" data-srcset="/sites/default/files/styles/x_small/public/image/2020-06/library_thumbnail.jpg.webp?itok=GicX0mCt 1x, /sites/default/files/styles/medium/public/image/2020-06/library_thumbnail.jpg.webp?itok=cUwIKWgV 2x"/>
+                  <source type="image/webp" data-srcset="/sites/default/files/styles/small/public/image/2020-06/library_thumbnail.jpg.webp?itok=cOxbtRaD 1x, /sites/default/files/styles/large_hq/public/image/2020-06/library_thumbnail.jpg?itok=N12eysB0 2x"/>
+                  <source media="all and (min-width: 640px)" type="image/jpeg" data-srcset="/sites/default/files/styles/x_small/public/image/2020-06/library_thumbnail.jpg?itok=GicX0mCt 1x, /sites/default/files/styles/medium/public/image/2020-06/library_thumbnail.jpg?itok=cUwIKWgV 2x"/>
+                  <source type="image/jpeg" data-srcset="/sites/default/files/styles/small/public/image/2020-06/library_thumbnail.jpg?itok=cOxbtRaD 1x, /sites/default/files/styles/large_hq/public/image/2020-06/library_thumbnail.jpg?itok=N12eysB0 2x"/>
+                <!--[if IE 9]></video><![endif]-->
+                  <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="500" height="250" alt="helen fowler library" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/small/public/image/2020-06/library_thumbnail.jpg?itok=cOxbtRaD" typeof="foaf:Image" />
+
+    </picture>
+  </div>
+
+</div>
+      
+    <h4 >
+      <a href="/blog/access-helen-fowler-library-virtually"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Access the Helen Fowler Library Virtually</span>
+</a>
+    </h4>
+        <div class="date-auth">June 8, 2020
+                        <span class="auth">Anna Kongs</span>
+                  </div>
+    
+            <div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="trimmed"><p>Over a year ago, the Helen Fowler Library temporarily closed its doors to the public in preparation for its move to the new Freyer – Newman Center. We packed up our collections, moved them offsite and</p>
+<div class="more-link"><a href="/blog/access-helen-fowler-library-virtually" class="more-link" hreflang="en">Learn more</a></div></div></div>
+      
+  </div>
+
+</article>
+
+</div>
+    <div class="views-row">
+
+
+
+
+
+<article data-history-node-id="5494" role="article" about="/blog/gardens-haven-reflections-through-botanical-art-and-illustration" typeof="schema:Article" class="node node--type-article node--view-mode-teaser">
+
+  <div class="node__content">
+    
+            <div class="field field--name-field-teaser-image field--type-entity-reference field--label-hidden field__item">  <div class="media media--image">
+      <picture>
+                      <!--[if IE 9]><video style="display: none;"><![endif]-->
+                  <source media="all and (min-width: 640px)" type="image/webp" data-srcset="/sites/default/files/styles/x_small/public/image/2020-06/randy_raak_thumbnail.jpg.webp?itok=Pvv9bGFU 1x, /sites/default/files/styles/medium/public/image/2020-06/randy_raak_thumbnail.jpg.webp?itok=uyj4rQWE 2x"/>
+                  <source type="image/webp" data-srcset="/sites/default/files/styles/small/public/image/2020-06/randy_raak_thumbnail.jpg.webp?itok=mkZXdYe9 1x, /sites/default/files/styles/large_hq/public/image/2020-06/randy_raak_thumbnail.jpg?itok=lqlwhlVQ 2x"/>
+                  <source media="all and (min-width: 640px)" type="image/jpeg" data-srcset="/sites/default/files/styles/x_small/public/image/2020-06/randy_raak_thumbnail.jpg?itok=Pvv9bGFU 1x, /sites/default/files/styles/medium/public/image/2020-06/randy_raak_thumbnail.jpg?itok=uyj4rQWE 2x"/>
+                  <source type="image/jpeg" data-srcset="/sites/default/files/styles/small/public/image/2020-06/randy_raak_thumbnail.jpg?itok=mkZXdYe9 1x, /sites/default/files/styles/large_hq/public/image/2020-06/randy_raak_thumbnail.jpg?itok=lqlwhlVQ 2x"/>
+                <!--[if IE 9]></video><![endif]-->
+                  <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="355" height="190" alt="spring snow at DBG" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/small/public/image/2020-06/randy_raak_thumbnail.jpg?itok=mkZXdYe9" typeof="foaf:Image" />
+
+    </picture>
+  </div>
+
+</div>
+      
+    <h4 >
+      <a href="/blog/gardens-haven-reflections-through-botanical-art-and-illustration"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Gardens as Haven: Reflections Through Botanical Art and Illustration</span>
+</a>
+    </h4>
+        <div class="date-auth">June 5, 2020
+                        <span class="auth">Srishti Sankaranarayanan</span>
+                  </div>
+    
+            <div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="trimmed"><p>As Denver Botanic Gardens opens its doors to welcome its visitors back, I have received so many heartwarming messages about how the Gardens’ spaces bring joy to people. It truly makes me happy to be</p>
+<div class="more-link"><a href="/blog/gardens-haven-reflections-through-botanical-art-and-illustration" class="more-link" hreflang="en">Learn more</a></div></div></div>
+      
+  </div>
+
+</article>
+
+</div>
+    <div class="views-row">
+
+
+
+
+
+<article data-history-node-id="5495" role="article" about="/blog/june-walking-tour-shade-gardens" typeof="schema:Article" class="node node--type-article node--view-mode-teaser">
+
+  <div class="node__content">
+    
+            <div class="field field--name-field-teaser-image field--type-entity-reference field--label-hidden field__item">  <div class="media media--image">
+      <picture>
+                      <!--[if IE 9]><video style="display: none;"><![endif]-->
+                  <source media="all and (min-width: 640px)" type="image/webp" data-srcset="/sites/default/files/styles/x_small/public/image/2020-06/woodlandmosaic_gallery.jpg.webp?itok=Nl4_q59V 1x, /sites/default/files/styles/medium/public/image/2020-06/woodlandmosaic_gallery.jpg.webp?itok=3qp6vPg- 2x"/>
+                  <source type="image/webp" data-srcset="/sites/default/files/styles/small/public/image/2020-06/woodlandmosaic_gallery.jpg.webp?itok=L80fzN6X 1x, /sites/default/files/styles/large_hq/public/image/2020-06/woodlandmosaic_gallery.jpg?itok=nwoTR4o_ 2x"/>
+                  <source media="all and (min-width: 640px)" type="image/jpeg" data-srcset="/sites/default/files/styles/x_small/public/image/2020-06/woodlandmosaic_gallery.jpg?itok=Nl4_q59V 1x, /sites/default/files/styles/medium/public/image/2020-06/woodlandmosaic_gallery.jpg?itok=3qp6vPg- 2x"/>
+                  <source type="image/jpeg" data-srcset="/sites/default/files/styles/small/public/image/2020-06/woodlandmosaic_gallery.jpg?itok=L80fzN6X 1x, /sites/default/files/styles/large_hq/public/image/2020-06/woodlandmosaic_gallery.jpg?itok=nwoTR4o_ 2x"/>
+                <!--[if IE 9]></video><![endif]-->
+                  <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="1000" height="486" alt="woodland mosaic gallery" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/small/public/image/2020-06/woodlandmosaic_gallery.jpg?itok=L80fzN6X" typeof="foaf:Image" />
+
+    </picture>
+  </div>
+
+</div>
+      
+    <h4 >
+      <a href="/blog/june-walking-tour-shade-gardens"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">June Walking Tour - Shade Gardens</span>
+</a>
+    </h4>
+        <div class="date-auth">June 3, 2020
+                        <span class="auth">Mario Bertelmann</span>
+                  </div>
+    
+            <div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="trimmed"><p>As we approach the heat of summer, shade becomes an invaluable resource for rest, relaxation and refuge from the intense Colorado sunshine. Denver Botanic Gardens has several shade gardens at York</p>
+<div class="more-link"><a href="/blog/june-walking-tour-shade-gardens" class="more-link" hreflang="en">Learn more</a></div></div></div>
+      
+  </div>
+
+</article>
+
+</div>
+    <div class="views-row">
+
+
+
+
+
+<article data-history-node-id="4965" role="article" about="/blog/remote-yet-resolute-planning-new-buildings-worth-art-exhibits-home" typeof="schema:Article" class="node node--type-article node--view-mode-teaser">
+
+  <div class="node__content">
+    
+            <div class="field field--name-field-teaser-image field--type-entity-reference field--label-hidden field__item">  <div class="media media--image">
+      <picture>
+                      <!--[if IE 9]><video style="display: none;"><![endif]-->
+                  <source media="all and (min-width: 640px)" type="image/webp" data-srcset="/sites/default/files/styles/x_small/public/temple_of_flora_thumbnail.jpg.webp?itok=7Y_zXeTE 1x, /sites/default/files/styles/medium/public/temple_of_flora_thumbnail.jpg.webp?itok=8KN4CkMp 2x"/>
+                  <source type="image/webp" data-srcset="/sites/default/files/styles/small/public/temple_of_flora_thumbnail.jpg.webp?itok=s08YAdnX 1x, /sites/default/files/styles/large_hq/public/temple_of_flora_thumbnail.jpg?itok=hkexGKfa 2x"/>
+                  <source media="all and (min-width: 640px)" type="image/jpeg" data-srcset="/sites/default/files/styles/x_small/public/temple_of_flora_thumbnail.jpg?itok=7Y_zXeTE 1x, /sites/default/files/styles/medium/public/temple_of_flora_thumbnail.jpg?itok=8KN4CkMp 2x"/>
+                  <source type="image/jpeg" data-srcset="/sites/default/files/styles/small/public/temple_of_flora_thumbnail.jpg?itok=s08YAdnX 1x, /sites/default/files/styles/large_hq/public/temple_of_flora_thumbnail.jpg?itok=hkexGKfa 2x"/>
+                <!--[if IE 9]></video><![endif]-->
+                  <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="355" height="190" alt="17560" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/small/public/temple_of_flora_thumbnail.jpg?itok=s08YAdnX" typeof="foaf:Image" />
+
+    </picture>
+  </div>
+
+</div>
+      
+    <h4 >
+      <a href="/blog/remote-yet-resolute-planning-new-buildings-worth-art-exhibits-home"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Remote Yet Resolute: Planning a New Building’s Worth of Art Exhibits From Home</span>
+</a>
+    </h4>
+        <div class="date-auth">May 28, 2020
+                        <span class="auth">Kathryn Fay</span>
+                  </div>
+    
+            <div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="trimmed">Despite working from home these last two months, the exhibits team has been busy! We had a long-planned exhibition installation for the new galleries in the Freyer – Newman Center set to begin in<div class="more-link"><a href="/blog/remote-yet-resolute-planning-new-buildings-worth-art-exhibits-home" class="more-link" hreflang="en">Learn more</a></div></div></div>
+      
+  </div>
+
+</article>
+
+</div>
+    <div class="views-row">
+
+
+
+
+
+<article data-history-node-id="4964" role="article" about="/blog/shade-gardening-colorado" typeof="schema:Article" class="node node--type-article node--view-mode-teaser">
+
+  <div class="node__content">
+    
+            <div class="field field--name-field-teaser-image field--type-entity-reference field--label-hidden field__item">  <div class="media media--image">
+      <picture>
+                      <!--[if IE 9]><video style="display: none;"><![endif]-->
+                  <source media="all and (min-width: 640px)" type="image/webp" data-srcset="/sites/default/files/styles/x_small/public/shade_garden_thumbnail.jpg.webp?itok=m0mdXCS3 1x, /sites/default/files/styles/medium/public/shade_garden_thumbnail.jpg.webp?itok=ZJbl8GOZ 2x"/>
+                  <source type="image/webp" data-srcset="/sites/default/files/styles/small/public/shade_garden_thumbnail.jpg.webp?itok=qqyC20vz 1x, /sites/default/files/styles/large_hq/public/shade_garden_thumbnail.jpg?itok=tFmvbmzb 2x"/>
+                  <source media="all and (min-width: 640px)" type="image/jpeg" data-srcset="/sites/default/files/styles/x_small/public/shade_garden_thumbnail.jpg?itok=m0mdXCS3 1x, /sites/default/files/styles/medium/public/shade_garden_thumbnail.jpg?itok=ZJbl8GOZ 2x"/>
+                  <source type="image/jpeg" data-srcset="/sites/default/files/styles/small/public/shade_garden_thumbnail.jpg?itok=qqyC20vz 1x, /sites/default/files/styles/large_hq/public/shade_garden_thumbnail.jpg?itok=tFmvbmzb 2x"/>
+                <!--[if IE 9]></video><![endif]-->
+                  <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="355" height="190" alt="17415" loading="lazy" class="lazyload" data-src="/sites/default/files/styles/small/public/shade_garden_thumbnail.jpg?itok=qqyC20vz" typeof="foaf:Image" />
+
+    </picture>
+  </div>
+
+</div>
+      
+    <h4 >
+      <a href="/blog/shade-gardening-colorado"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Shade Gardening in Colorado</span>
+</a>
+    </h4>
+        <div class="date-auth">May 20, 2020
+                        <span class="auth">Mario Bertelmann</span>
+                  </div>
+    
+            <div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="trimmed">Shade is an essential resource for all life, providing refuge from the heat as the days grow longer. Denver Botanic Gardens has several shaded gardens where visitors can seek shelter from the intense<div class="more-link"><a href="/blog/shade-gardening-colorado" class="more-link" hreflang="en">Learn more</a></div></div></div>
+      
+  </div>
+
+</article>
+
+</div>
+
+    </div>
+  
+        <nav class="pager" role="navigation" aria-labelledby="pagination-heading">
+    <h4 id="pagination-heading" class="visually-hidden">Pagination</h4>
+    <ul class="pager__items js-pager__items">
+                                                        <li class="pager__item is-active">
+                                          <a href="?category=All&amp;tags&amp;author&amp;page=0" title="Current page">
+            <span class="visually-hidden">
+              Current page
+            </span>1</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?category=All&amp;tags&amp;author&amp;page=1" title="Go to page 2">
+            <span class="visually-hidden">
+              Page
+            </span>2</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?category=All&amp;tags&amp;author&amp;page=2" title="Go to page 3">
+            <span class="visually-hidden">
+              Page
+            </span>3</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?category=All&amp;tags&amp;author&amp;page=3" title="Go to page 4">
+            <span class="visually-hidden">
+              Page
+            </span>4</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?category=All&amp;tags&amp;author&amp;page=4" title="Go to page 5">
+            <span class="visually-hidden">
+              Page
+            </span>5</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?category=All&amp;tags&amp;author&amp;page=5" title="Go to page 6">
+            <span class="visually-hidden">
+              Page
+            </span>6</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?category=All&amp;tags&amp;author&amp;page=6" title="Go to page 7">
+            <span class="visually-hidden">
+              Page
+            </span>7</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?category=All&amp;tags&amp;author&amp;page=7" title="Go to page 8">
+            <span class="visually-hidden">
+              Page
+            </span>8</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?category=All&amp;tags&amp;author&amp;page=8" title="Go to page 9">
+            <span class="visually-hidden">
+              Page
+            </span>9</a>
+        </li>
+                          <li class="pager__item pager__item--ellipsis" role="presentation">&hellip;</li>
+                          <li class="pager__item pager__item--next">
+          <a href="?category=All&amp;tags&amp;author&amp;page=1" title="Go to next page" rel="next">
+            <span class="visually-hidden">Next page</span>
+            <span aria-hidden="true">Next ›</span>
+          </a>
+        </li>
+                          <li class="pager__item pager__item--last">
+          <a href="?category=All&amp;tags&amp;author&amp;page=41" title="Go to last page">
+            <span class="visually-hidden">Last page</span>
+            <span aria-hidden="true">Last »</span>
+          </a>
+        </li>
+          </ul>
+  </nav>
+
+          </div>
+</div>
+
+  </div>
+
+        </div>
+          </div>
+  </div>
+
+  </div>
+</article>
+
+
+  </div>
+<div id="block-newslettersignup" class="block block-block-content block-block-content0c207266-4304-4f87-9fc7-6ef7a65275ff block-newslettersignup">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h3>Sign up for our e-newsletters!</h3>
+<p><a class="primary btn" href="https://botanicgardens.us2.list-manage.com/subscribe?u=cbad7b587235ab57c0ed048d8&amp;id=46ae68fad9">Subscribe</a></p>
+</div>
+      
+  </div>
+
+  </div>
+
+    </div>
+    
+        <div id="to-top"></div>
+  </main>
+
+      <footer role="contentinfo">
+      
+  <div class="region region-footer">
+    <div id="block-sitebranding-2" class="block block-system block-system-branding-block block-sitebranding-2">
+  
+    
+        <a href="/" rel="home" class="site-logo">
+      <img src="/themes/custom/themekit/logo.svg" alt="Home" />
+    </a>
+      </div>
+<nav role="navigation" aria-labelledby="block-themekit-footer-menu" id="block-themekit-footer" class="block block-menu navigation menu--footer">
+            
+  <h2 class="visually-hidden" id="block-themekit-footer-menu">Footer menu</h2>
+  
+
+        
+
+<ul  data-region="footer" class="menu menu-level-0">
+      
+    <li class="menu-item menu-item--expanded menu-item-view-mode--column is-dropdown-submenu-item">
+      <span>Column</span>
+                    
+  
+              
+<ul class="menu menu-level-1">
+      
+    <li  class="menu-item menu-item--expanded menu-item-view-mode--default">
+      <a href="/york-street" class="york" data-drupal-link-system-path="node/71">York Street</a>
+
+      
+              
+  
+              
+            <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__item"><p>1007 York Street<br />
+Denver, CO 80206<br />
+720-865-3500</p>
+</div>
+      
+<ul class="menu menu-level-2">
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/york-street" data-drupal-link-system-path="node/71">Hours</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/york-street/parking-transportation-accessibility-york-street" data-drupal-link-system-path="node/81">Parking</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/york-street" data-drupal-link-system-path="node/71">Tickets</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="https://www.google.com/maps/place/1007+York+Street+Denver+CO+80206+United+States" target="_blank">Directions</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+  </ul>
+
+    
+
+
+          </li>
+  </ul>
+
+    
+
+
+          </li>
+      
+    <li class="menu-item menu-item--expanded menu-item-view-mode--column is-dropdown-submenu-item">
+      <span>Column</span>
+                    
+  
+              
+<ul class="menu menu-level-1">
+      
+    <li  class="menu-item menu-item--expanded menu-item-view-mode--default">
+      <a href="/chatfield-farms" class="chatfield" data-drupal-link-system-path="node/341">Chatfield Farms</a>
+
+      
+              
+  
+              
+            <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__item"><p>8500 West Deer Creek Canyon Road<br />
+Littleton, CO 80128<br />
+720-865-3500</p>
+</div>
+      
+<ul class="menu menu-level-2">
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/chatfield-farms" data-drupal-link-system-path="node/341">Hours</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/chatfield-farms/parking-transportation-accessibility-chatfield-farms" data-drupal-link-system-path="node/1391">Parking</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/chatfield-farms" data-drupal-link-system-path="node/341">Tickets</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="https://www.google.com/maps/place/8500+W+Deer+Creek+Canyon+Rd+Littleton+CO+80128+United+States" target="_blank">Directions</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+  </ul>
+
+    
+
+
+          </li>
+  </ul>
+
+    
+
+
+          </li>
+      
+    <li class="menu-item menu-item--expanded menu-item--active-trail menu-item-view-mode--column is-dropdown-submenu-item">
+      <span>Column</span>
+                    
+  
+              
+<ul class="menu menu-level-1">
+      
+    <li  class="menu-item menu-item-view-mode--column">
+      <a href="/about-us" data-drupal-link-system-path="node/4471">About Us</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/contact-us" data-drupal-link-system-path="node/1406">Contact Us</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/career-opportunities" data-drupal-link-system-path="node/4221">Employment</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/press-room" data-drupal-link-system-path="node/4276">Press Room</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item--active-trail menu-item-view-mode--default">
+      <a href="/blog" data-drupal-link-system-path="node/4966" class="is-active">Our Blog</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+      
+    <li  class="menu-item menu-item-view-mode--default">
+      <a href="/inside-gardens" data-drupal-link-system-path="node/5505">Magazine</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+  </ul>
+
+    
+
+
+          </li>
+      
+    <li class="menu-item menu-item--expanded menu-item-view-mode--column is-dropdown-submenu-item">
+      <span>Column</span>
+                    
+  
+              
+<ul class="menu menu-level-1">
+      
+    <li  class="menu-item menu-item-view-mode--featured">
+      <a href="/tickets-log" class="button" data-drupal-link-system-path="node/66">Buy Tickets</a>
+
+      
+              
+  
+              
+    
+
+
+          </li>
+  </ul>
+
+    
+
+
+          </li>
+  </ul>
+
+  </nav>
+
+  </div>
+
+      
+  <div class="region region-secondary-footer">
+    <div id="block-cdatecustomysitenameallrightsreserved" class="block block-block-content block-block-contentcd5f6e06-501f-4f55-8af3-ece7ca7341c2 block-cdatecustomysitenameallrightsreserved">
+  
+      <h2>©2020 Denver Botanic Gardens. All Rights Reserved.</h2>
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="cd7336f4-eee0-4dfe-a34e-5b5585d7c475" href="/privacy-policy">Privacy Policy</a><br />
+A tax-exempt 501(c)(3) nonprofit organization<br />
+EIN #84-0440359</p>
+</div>
+      
+  </div>
+<nav role="navigation" aria-labelledby="block-associatedorganization-menu" id="block-associatedorganization" class="block block-menu navigation menu--associated-organization">
+            
+  <h2 class="visually-hidden" id="block-associatedorganization-menu">Associated Organization</h2>
+  
+
+        
+              <ul data-region="secondary_footer" class="menu">
+                    <li class="menu-item">
+        <a href="https://scfd.org/">SCFD</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.aam-us.org/">AAM - US</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.publicgardens.org/">Public Gardens</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-social-menu" id="block-social" class="block block-menu navigation menu--social">
+            
+  <h2 class="visually-hidden" id="block-social-menu">Social</h2>
+  
+
+        
+              <ul data-region="secondary_footer" class="menu">
+                    <li class="menu-item">
+        <a href="https://www.facebook.com/denverbotanicgardens">Facebook</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://twitter.com/botanic">Twitter</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.instagram.com/denverbotanic/">Instagram</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.youtube.com/user/DenverBotanicGardens">YouTube</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://vimeo.com/channels/denverbotanicgardens">Vimeo</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+    </footer>
+  
+</div>
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/4966","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"better_exposed_filters\/general,classy\/base,classy\/messages,classy\/node,core\/Drupal,core\/drupal.autocomplete,core\/html5shiv,core\/normalize,core\/picturefill,dismissible_message_bar\/dismissible_message_bar,fastly\/fastly,lazy\/lazy,paragraphs\/drupal.paragraphs.unpublished,system\/base,themekit\/article--teaser,themekit\/banner-basic,themekit\/base,themekit\/blog--view,themekit\/component-page--full,themekit\/content,themekit\/dismissible-message-bar,themekit\/dmb,themekit\/footer,themekit\/header,themekit\/highlighted,themekit\/layout--onecol,themekit\/page,themekit\/secondary-footer,themekit\/top-header,themekit\/views,views\/views.ajax,views\/views.module","theme":"themekit","theme_token":null},"ajaxTrustedUrl":{"\/blog":true,"\/search":true},"ckeditorheight":{"offset":1,"line_height":1.5,"unit":"em","disable_autogrow":null},"lazy":{"lazysizes":{"lazyClass":"lazyload","loadedClass":"lazyloaded","loadingClass":"lazyloading","preloadClass":"lazypreload","errorClass":"lazyerror","autosizesClass":"lazyautosizes","srcAttr":"data-src","srcsetAttr":"data-srcset","sizesAttr":"data-sizes","minSize":40,"customMedia":[],"init":true,"expFactor":1.5,"hFac":0.80000000000000004,"loadMode":2,"loadHidden":true,"ricTimeout":0,"throttleDelay":125,"plugins":[]},"placeholderSrc":"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==","preferNative":false},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:02e49d181a06bcbabd240e705d645f1deebe6559bb444c533d416f13482859d8":{"view_name":"blog","view_display_id":"blog_overview","view_args":"","view_path":"\/node\/4966","view_base_path":null,"view_dom_id":"02e49d181a06bcbabd240e705d645f1deebe6559bb444c533d416f13482859d8","pager_element":0}}},"dmbNotifications":{"dmb-notifications-ajax-wrapper":{"notificationWrapper":".dmb-notifications-ajax-wrapper","contentType":"component_page","contentPath":"\/blog","notificationType":""}},"user":{"uid":0,"permissionsHash":"53abe5fb5af13393501c480124faf3d411cfc4d9c9db31dbd8379f6b6d49f6ad"}}</script>
+<script src="/sites/default/files/js/js_sf00ckHnZ0vke97f4pwJdFQX38FSp2N7d6sxHUMSenU.js"></script>
+
+  </body>
+</html>

@@ -1,0 +1,899 @@
+<!DOCTYPE html>
+<html lang="en-US" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:addthis="https://www.addthis.com/help/api-spec" >
+    <head>
+        <script type="text/javascript">
+            function hide_all() {
+                document.getElementById("topinfobox").style.display = 'none';
+            }
+        </script>
+		
+		<!-- The jQuery library is needed in order to make the generic event tracking take place for Google Analytics -->
+<script type="text/javascript" src="jquery-1.12.3.js"></script>
+<!-- The following script will set up generic event tracking for downloaded files in Google Analytics.
+		Source: http://www.blastam.com/blog/index.php/2013/03/how-to-track-downloads-in-google-analytics-v2
+		Tracks file downloads as events for the following extensions: .zip, .exe, dmg, .pdf, .doc, .docx, .xls, .xlsx, .ppt, .pptx, .mp3, .txt, rar, wma, mov, avi, wmv, flv, wav -->
+<script type="text/javascript">
+if (typeof jQuery != 'undefined') {
+  jQuery(document).ready(function($) {
+    var filetypes = /\.(zip|exe|dmg|pdf|doc.*|xls.*|ppt.*|mp3|txt|rar|wma|mov|avi|wmv|flv|wav)$/i;
+    var baseHref = '';
+    if (jQuery('base').attr('href') != undefined) baseHref = jQuery('base').attr('href');
+
+    jQuery('a').on('click', function(event) {
+      var el = jQuery(this);
+      var track = true;
+      var href = (typeof(el.attr('href')) != 'undefined' ) ? el.attr('href') :"";
+      var isThisDomain = href.match(document.domain.split('.').reverse()[1] + '.' + document.domain.split('.').reverse()[0]);
+      if (!href.match(/^javascript:/i)) {
+    	var elEv = []; elEv.value=0, elEv.non_i=false;
+        if (href.match(/^mailto\:/i)) {
+          elEv.category = "email";
+          elEv.action = "click";
+          elEv.label = href.replace(/^mailto\:/i, '');
+          elEv.loc = href;
+        }
+        else if (href.match(filetypes)) {
+          var extension = (/[.]/.exec(href)) ? /[^.]+$/.exec(href) : undefined;
+          elEv.category = "download";
+          elEv.action = "click-" + extension[0];
+          elEv.label = href.replace(/ /g,"-");
+          elEv.loc = baseHref + href;
+        }
+        else if (href.match(/^https?\:/i) && !isThisDomain) {
+          elEv.category = "external";
+          elEv.action = "click";
+          elEv.label = href.replace(/^https?\:\/\//i, '');
+          elEv.non_i = true;
+          elEv.loc = href;
+        }
+        else if (href.match(/^tel\:/i)) {
+          elEv.category = "telephone";
+          elEv.action = "click";
+          elEv.label = href.replace(/^tel\:/i, '');
+          elEv.loc = href;
+        }
+        else track = false;
+
+       	if (track) {
+          _gaq.push(['_trackEvent', elEv.category.toLowerCase(), elEv.action.toLowerCase(), elEv.label.toLowerCase(), elEv.value, elEv.non_i]);
+          if ( el.attr('target') == undefined || el.attr('target').toLowerCase() != '_blank') {
+            setTimeout(function() { location.href = elEv.loc; }, 400);
+            return false;
+	  }
+	}
+      }
+    });
+  });
+}
+
+</script>
+
+                <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+        <link rel="profile" href="http://gmpg.org/xfn/11" />
+        <link rel="pingback" href="https://denver.extension.colostate.edu/xmlrpc.php" />
+        <link rel="stylesheet" type="text/css" media="all" href="https://denver.extension.colostate.edu/wp-content/themes/infowaytheme/style.css" />
+        
+	<!-- This site is optimized with the Yoast SEO Premium plugin v14.4.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Yard &amp; Garden / Horticulture - Denver County Extension</title>
+	<meta name="robots" content="index, follow" />
+	<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://denver.extension.colostate.edu/programs/horticulture/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Yard &amp; Garden / Horticulture - Denver County Extension" />
+	<meta property="og:description" content="The CSU Denver Extension – Horticulture Program provides outreach &amp; engagement in all areas of environmental horticulture to the Denver community, including: Denver Master Gardener Program Research-based information on gardening questions Educational programs in horticulture Demonstration gardens Grow &amp; Give: Modern Victory Garden Lets Grow Together- Grow Food and Share the Harvest: Learn to grow [&hellip;]" />
+	<meta property="og:url" content="https://denver.extension.colostate.edu/programs/horticulture/" />
+	<meta property="og:site_name" content="Denver County Extension" />
+	<meta property="article:modified_time" content="2020-04-11T06:11:29+00:00" />
+	<meta property="og:image" content="https://denver.extension.colostate.edu/wp-content/uploads/sites/3/2020/04/9.png" />
+	<meta name="twitter:card" content="summary" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://denver.extension.colostate.edu/#website","url":"https://denver.extension.colostate.edu/","name":"Denver County Extension","description":"Providing trusted, practical education to help you solve problems, develop skills and build a better future.","potentialAction":[{"@type":"SearchAction","target":"https://denver.extension.colostate.edu/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://denver.extension.colostate.edu/programs/horticulture/#primaryimage","inLanguage":"en-US","url":"https://denver.extension.colostate.edu/wp-content/uploads/sites/3/2020/04/9.png","width":1024,"height":268},{"@type":"WebPage","@id":"https://denver.extension.colostate.edu/programs/horticulture/#webpage","url":"https://denver.extension.colostate.edu/programs/horticulture/","name":"Yard &amp; Garden / Horticulture - Denver County Extension","isPartOf":{"@id":"https://denver.extension.colostate.edu/#website"},"primaryImageOfPage":{"@id":"https://denver.extension.colostate.edu/programs/horticulture/#primaryimage"},"datePublished":"2016-01-11T16:45:20+00:00","dateModified":"2020-04-11T06:11:29+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://denver.extension.colostate.edu/programs/horticulture/"]}]}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Denver County Extension &raquo; Feed" href="https://denver.extension.colostate.edu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Denver County Extension &raquo; Comments Feed" href="https://denver.extension.colostate.edu/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="Denver County Extension &raquo; iCal Feed" href="https://denver.extension.colostate.edu/events/?ical=1" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/denver.extension.colostate.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=c4057e648cbfbf45439ba42df2c17baa"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='scap.flashblock-css'  href='https://denver.extension.colostate.edu/wp-content/plugins/compact-wp-audio-player/css/flashblock.css?ver=c4057e648cbfbf45439ba42df2c17baa' type='text/css' media='all' />
+<link rel='stylesheet' id='scap.player-css'  href='https://denver.extension.colostate.edu/wp-content/plugins/compact-wp-audio-player/css/player.css?ver=c4057e648cbfbf45439ba42df2c17baa' type='text/css' media='all' />
+<link rel='stylesheet' id='skillbar-css-css'  href='http://denver.extension.colostate.edu/wp-content/plugins/skillbars/css/skillbar-css.css?ver=c4057e648cbfbf45439ba42df2c17baa' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-color-picker-css'  href='https://denver.extension.colostate.edu/wp-admin/css/color-picker.min.css?ver=c4057e648cbfbf45439ba42df2c17baa' type='text/css' media='all' />
+<link rel='stylesheet' id='coloroptions-css'  href='https://denver.extension.colostate.edu/wp-content/themes/infowaytheme/color/darkgreen.css?ver=c4057e648cbfbf45439ba42df2c17baa' type='text/css' media='all' />
+<link rel='stylesheet' id='shortcodes-css'  href='https://denver.extension.colostate.edu/wp-content/themes/infowaytheme/css/shortcode.css?ver=c4057e648cbfbf45439ba42df2c17baa' type='text/css' media='all' />
+<link rel='stylesheet' id='font_awesome-css'  href='https://denver.extension.colostate.edu/wp-content/themes/infowaytheme/fonts/font-awesome/css/font-awesome.min.css?ver=c4057e648cbfbf45439ba42df2c17baa' type='text/css' media='all' />
+<link rel='stylesheet' id='sb_instagram_styles-css'  href='https://denver.extension.colostate.edu/wp-content/plugins/instagram-feed/css/sb-instagram-2-2.min.css?ver=2.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-common-skeleton-style-css'  href='https://denver.extension.colostate.edu/wp-content/plugins/the-events-calendar/common/src/resources/css/common-skeleton.min.css?ver=4.12.5' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-tooltip-css'  href='https://denver.extension.colostate.edu/wp-content/plugins/the-events-calendar/common/src/resources/css/tooltip.min.css?ver=4.12.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://denver.extension.colostate.edu/wp-includes/css/dist/block-library/style.min.css?ver=c4057e648cbfbf45439ba42df2c17baa' type='text/css' media='all' />
+<link rel='stylesheet' id='connections-blocks-css'  href='//denver.extension.colostate.edu/wp-content/plugins/connections/assets/dist/css/blocks-editor.css?ver=9.7.2-1593624537' type='text/css' media='all' />
+<link rel='stylesheet' id='awsm-ead-public-css'  href='https://denver.extension.colostate.edu/wp-content/plugins/embed-any-document/css/embed-public.min.css?ver=2.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ctct_form_styles-css'  href='https://denver.extension.colostate.edu/wp-content/plugins/constant-contact-forms/assets/css/style.css?ver=1.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://denver.extension.colostate.edu/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.9' type='text/css' media='all' />
+<link rel='stylesheet' id='orchestrated_corona_virus_banner-frontend-css'  href='https://denver.extension.colostate.edu/wp-content/plugins/corona-virus-covid-19-banner/assets/css/frontend.css?ver=1.7.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='orchestrated_corona_virus_banner-font-css'  href='https://fonts.googleapis.com/css2?family=Open+Sans%3Awght%40300%3B400%3B600%3B700&#038;display=swap&#038;ver=1.7.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='cff-css'  href='https://denver.extension.colostate.edu/wp-content/plugins/custom-facebook-feed/css/cff-style.css?ver=2.15.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-font-awesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=c4057e648cbfbf45439ba42df2c17baa' type='text/css' media='all' />
+<link rel='stylesheet' id='epa_styling-css'  href='https://denver.extension.colostate.edu/wp-content/plugins/easy-popup-announcement/assets/css/epa_styling.css?ver=c4057e648cbfbf45439ba42df2c17baa' type='text/css' media='all' />
+<link rel='stylesheet' id='collapseomatic-css-css'  href='https://denver.extension.colostate.edu/wp-content/plugins/jquery-collapse-o-matic/light_style.css?ver=1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='printomatic-css-css'  href='https://denver.extension.colostate.edu/wp-content/plugins/print-o-matic/css/style.css?ver=1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://denver.extension.colostate.edu/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.1.6' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='shortcode-toggle-css-css'  href='https://denver.extension.colostate.edu/wp-content/plugins/shortcode-toggle/style.min.css?ver=c4057e648cbfbf45439ba42df2c17baa' type='text/css' media='all' />
+<link rel='stylesheet' id='ffwd_frontend-css'  href='https://denver.extension.colostate.edu/wp-content/plugins/wd-facebook-feed/css/ffwd_frontend.css?ver=1.1.23' type='text/css' media='all' />
+<link rel='stylesheet' id='ffwd_fonts-css'  href='https://denver.extension.colostate.edu/wp-content/plugins/wd-facebook-feed/css/fonts.css?ver=1.1.23' type='text/css' media='all' />
+<link rel='stylesheet' id='ffwd_mCustomScrollbar-css'  href='https://denver.extension.colostate.edu/wp-content/plugins/wd-facebook-feed/css/jquery.mCustomScrollbar.css?ver=1.1.23' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='https://denver.extension.colostate.edu/wp-content/plugins/tablepress/css/default.min.css?ver=1.11' type='text/css' media='all' />
+<link rel='stylesheet' id='wpgform-css-css'  href='https://denver.extension.colostate.edu/wp-content/plugins/wpgform/css/wpgform.css?ver=c4057e648cbfbf45439ba42df2c17baa' type='text/css' media='all' />
+<link rel='stylesheet' id='cn-public-css'  href='//denver.extension.colostate.edu/wp-content/plugins/connections/assets/dist/css/frontend.css?ver=9.7.2-1593624537' type='text/css' media='all' />
+<link rel='stylesheet' id='cnt-profile-css'  href='//denver.extension.colostate.edu/wp-content/plugins/connections/templates/profile/profile.css?ver=3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='addthis_all_pages-css'  href='https://denver.extension.colostate.edu/wp-content/plugins/addthis/frontend/build/addthis_wordpress_public.min.css?ver=c4057e648cbfbf45439ba42df2c17baa' type='text/css' media='all' />
+<link rel='stylesheet' id='__EPYT__style-css'  href='https://denver.extension.colostate.edu/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=13.4' type='text/css' media='all' />
+<style id='__EPYT__style-inline-css' type='text/css'>
+
+                .epyt-gallery-thumb {
+                        width: 33.333%;
+                }
+                
+</style>
+<link rel='stylesheet' id='cn-brandicons-css'  href='//denver.extension.colostate.edu/wp-content/plugins/connections/assets/vendor/icomoon-brands/style.css?ver=9.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='leaflet-css'  href='//denver.extension.colostate.edu/wp-content/plugins/connections/vendor/leaflet/leaflet.min.css?ver=1.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='leaflet-control-geocoder-css'  href='//denver.extension.colostate.edu/wp-content/plugins/connections/vendor/leaflet/geocoder/Control.Geocoder.min.css?ver=1.11' type='text/css' media='all' />
+<link rel='stylesheet' id='cn-chosen-css'  href='//denver.extension.colostate.edu/wp-content/plugins/connections/assets/vendor/chosen/chosen.min.css?ver=1.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='chld_thm_cfg_separate-css'  href='https://denver.extension.colostate.edu/wp-content/themes/infowaytheme-child/ctc-style.css?ver=1.7.2.1568667418' type='text/css' media='all' />
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/plugins/compact-wp-audio-player/js/soundmanager2-nodebug-jsmin.js?ver=c4057e648cbfbf45439ba42df2c17baa'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/plugins/jquery-updater/js/jquery-3.5.1.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/plugins/jquery-updater/js/jquery-migrate-3.3.0.min.js?ver=3.3.0'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/plugins/skillbars/js/shortcodes_skillbar.js?ver=1.0'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/themes/infowaytheme/js/jquery.aw-showcase.js?ver=c4057e648cbfbf45439ba42df2c17baa'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/themes/infowaytheme/js/jcarousellite_1.0.1.min.js?ver=c4057e648cbfbf45439ba42df2c17baa'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/themes/infowaytheme/js/ddsmoothmenu.js?ver=c4057e648cbfbf45439ba42df2c17baa'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/themes/infowaytheme/js/jquery.prettyPhoto.js?ver=c4057e648cbfbf45439ba42df2c17baa'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/themes/infowaytheme/js/jquery.validate.min.js?ver=c4057e648cbfbf45439ba42df2c17baa'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/themes/infowaytheme/js/menu/jquery.meanmenu.2.0.min.js?ver=c4057e648cbfbf45439ba42df2c17baa'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/themes/infowaytheme/js/menu/jquery.meanmenu.options.js?ver=c4057e648cbfbf45439ba42df2c17baa'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/themes/infowaytheme/js/custom.js?ver=c4057e648cbfbf45439ba42df2c17baa'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/themes/infowaytheme/js/slider-init.js?ver=c4057e648cbfbf45439ba42df2c17baa'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/plugins/corona-virus-covid-19-banner/assets/js/frontend.min.js?ver=1.7.0.4'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/plugins/corona-virus-covid-19-banner/assets/js/js.cookie.min.js?ver=1.7.0.4'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/plugins/easy-popup-announcement/js/jquery.popupoverlay.js?ver=1.6.5'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/plugins/easy-popup-announcement/js/jquery.cookie.js?ver=1.6.5'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/plugins/responsive-scrolling-tables/js/responsivescrollingtables.js?ver=c4057e648cbfbf45439ba42df2c17baa'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.1.6'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.1.6'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/plugins/shortcode-toggle/script.min.js?ver=c4057e648cbfbf45439ba42df2c17baa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ffwd_frontend_text = {"comment_reply":"Reply","view":"View","more_comments":"more comments","year":"year","years":"years","hour":"hour","hours":"hours","months":"months","month":"month","weeks":"weeks","week":"week","days":"days","day":"day","minutes":"minutes","minute":"minute","seconds":"seconds","second":"second","ago":"ago","ajax_url":"https:\/\/denver.extension.colostate.edu\/wp-admin\/admin-ajax.php","and":"and","others":"others"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/plugins/wd-facebook-feed/js/ffwd_frontend.js?ver=1.1.23'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/plugins/wd-facebook-feed/js/jquery.mobile.js?ver=1.1.23'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/plugins/wd-facebook-feed/js/jquery.mCustomScrollbar.concat.min.js?ver=1.1.23'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/plugins/wd-facebook-feed/js/jquery.fullscreen-0.4.1.js?ver=0.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ffwd_objectL10n = {"ffwd_field_required":"field is required.","ffwd_mail_validation":"This is not a valid email address.","ffwd_search_result":"There are no images matching your search."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/plugins/wd-facebook-feed/js/ffwd_gallery_box.js?ver=1.1.23'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _EPYT_ = {"ajaxurl":"https:\/\/denver.extension.colostate.edu\/wp-admin\/admin-ajax.php","security":"062f8484f1","gallery_scrolloffset":"20","eppathtoscripts":"https:\/\/denver.extension.colostate.edu\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","eppath":"https:\/\/denver.extension.colostate.edu\/wp-content\/plugins\/youtube-embed-plus\/","epresponsiveselector":"[\"iframe.__youtube_prefs_widget__\"]","epdovol":"1","version":"13.4","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","ytapi_load":"light","pause_others":"","stopMobileBuffer":"1","vi_active":"","vi_js_posttypes":[]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=13.4'></script>
+<link rel='https://api.w.org/' href='https://denver.extension.colostate.edu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://denver.extension.colostate.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://denver.extension.colostate.edu/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='shortlink' href='https://denver.extension.colostate.edu/?p=16' />
+<link rel="alternate" type="application/json+oembed" href="https://denver.extension.colostate.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdenver.extension.colostate.edu%2Fprograms%2Fhorticulture%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://denver.extension.colostate.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdenver.extension.colostate.edu%2Fprograms%2Fhorticulture%2F&#038;format=xml" />
+<style type="text/css" media="screen">.menu-item.hide_this_item{ display:none !important; }</style><script type="text/javascript">
+	jQuery(document).ready(function(){
+		jQuery('img[usemap]').rwdImageMaps();
+	});
+</script>
+<style type="text/css">
+	img[usemap] { max-width: 100%; height: auto; }
+</style>
+<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://denver.extension.colostate.edu"><link rel="https://theeventscalendar.com/" href="https://denver.extension.colostate.edu/wp-json/tribe/events/v1/" /><link rel="shortcut icon" href="http://extension.colostate.edu/wp-content/uploads/2015/05/ram.jpg"/>
+<!-- Custom Styling -->
+<style type="text/css">
+a {color:#307743;}
+a:hover {color:#666;}
+.footer a {color:#fff;}
+.footer a:hover {color:#ccc;}
+form .searchform {background-color:none;}
+.info a {color:#ead469;}
+.storefront {color:#CC0033;font-weight:bold;}
+.no_border td {border:0 !important;}
+
+
+</style>
+<style>.taptocall a.btn-tap {}</style>
+<!-- Google Universal Analytics for WordPress v2.4.3 -->
+
+<script>
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-131243908-1', 'auto');
+
+
+
+
+	ga('set', 'forceSSL', true);
+	ga('send', 'pageview');
+
+</script>
+<!-- Google Universal Analytics for WordPress v2.4.3 - https://wordpress.org/plugins/google-universal-analytics -->
+
+<script type='text/javascript'>
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', '']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><style type="text/css">
+/*  Tabby Responsive Tabs: cubecolour.co.uk/tabby-responsive-tabs-customiser */
+.responsive-tabs .responsive-tabs__heading {display: none;}.responsive-tabs .responsive-tabs__list__item {display: inline;cursor: pointer;}.responsive-tabs-wrapper {clear: both;margin-bottom: 20px;zoom: 1;}.responsive-tabs-wrapper:before,.responsive-tabs-wrapper:after {content: "";display: table;}.responsive-tabs-wrapper:after {clear: both;}.responsive-tabs .responsive-tabs__heading:focus,.responsive-tabs .responsive-tabs__list__item:focus {outline: 1px solid transparent;}.responsive-tabs .responsive-tabs__heading--active:focus,.responsive-tabs .responsive-tabs__list__item--active:focus {outline: none;}.responsive-tabs ul.responsive-tabs__list {font-size: 18px;line-height: 18px;margin: 20px 0 0 12px;padding: 0;}.responsive-tabs .responsive-tabs__list__item {background: transparent;border: 1px solid transparent;border-bottom: none;-webkit-border-top-left-radius: 3px;-webkit-border-top-right-radius: 3px;-moz-border-radius-topleft: 3px;-moz-border-radius-topright: 3px;border-top-left-radius: 3px;border-top-right-radius: 3px;color: #999999;font-size: 18px;line-height: 19px;text-transform: inherit;margin: 1px 12px 0 0;padding: 10px 12px 10px;white-space: nowrap;float: left;-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;}.responsive-tabs .responsive-tabs__list__item .fa {margin-right: 8px;line-height: 0.8;}.responsive-tabs .responsive-tabs__list__item:hover {color: #333333;background: transparent;}.responsive-tabs .responsive-tabs__list__item--active, .responsive-tabs .responsive-tabs__list__item--active:hover {background: #ffffff;border-color: #dddddd;color: #666666;padding-bottom: 11px;margin-top: 0;position: relative;top: 1px;}.responsive-tabs .responsive-tabs__panel {background: #ffffff;border: 1px solid #dddddd;border-top: 1px solid #dddddd;-webkit-border-radius: 0px;-moz-border-radius: 0px;border-radius: 0px;-webkit-border-top-left-radius: 0px;-moz-border-radius-topleft: 0px;border-top-left-radius: 0px;clear: left;margin-bottom: 0;padding: 20px 20px 0;word-wrap: break-word;}.responsive-tabs .responsive-tabs__panel:after { content: "";display: block; height: 0; clear: both;}.responsive-tabs__list .fa {display:none;}@media (min-width: 768px) {.responsive-tabs .responsive-tabs__panel--closed-accordion-only {display: block;}}@media (max-width: 767px) {.responsive-tabs .responsive-tabs__list {display: none;}.responsive-tabs .responsive-tabs__heading {display: block;cursor: pointer;}.responsive-tabs-wrapper {border-top: 1px solid #cccccc;}.responsive-tabs .responsive-tabs__heading {background: #ffffff;border: 1px solid #cccccc;border-top: none;color: #777777;font-size: 18px;font-weight: normal;text-transform: inherit;margin: 0;padding: 10px 0;padding-left: 20px;position: relative;}.responsive-tabs .responsive-tabs__heading .fa {margin-right: 8px;display:none;}.responsive-tabs .responsive-tabs__heading:after {border-left: 6px solid transparent;border-right: 6px solid transparent;border-top: 6px solid #777777;content:"";display: block;position: absolute;right: 20px;top: 20px;height: 0; width: 0; }.responsive-tabs .responsive-tabs__heading:hover {background: #eeeeee;color: #777777;}.responsive-tabs .responsive-tabs__heading:hover:after {border-top: 6px solid #777777;}.responsive-tabs .responsive-tabs__heading--active,.responsive-tabs .responsive-tabs__heading--active:hover {background: #cccccc;color: #ffffff;}.responsive-tabs .responsive-tabs__heading--active:after,.responsive-tabs .responsive-tabs__heading--active:hover:after {border-bottom: 6px solid #ffffff;border-top: 0;top: 18px;}.responsive-tabs .responsive-tabs__panel {background: #ffffff;border: 1px solid #cccccc;-webkit-border-radius: 0;-moz-border-radius: 0;border-radius: 0;border-top: none;margin: 0;padding: 0 20px;padding-top: 20px;}}</style><meta name="generator" content="Powered by Slider Revolution 5.1.6 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script data-cfasync="false" type="text/javascript">if (window.addthis_product === undefined) { window.addthis_product = "wpp"; } if (window.wp_product_version === undefined) { window.wp_product_version = "wpp-6.2.6"; } if (window.addthis_share === undefined) { window.addthis_share = {}; } if (window.addthis_config === undefined) { window.addthis_config = {"data_track_clickback":true,"ignore_server_config":true,"ui_atversion":300}; } if (window.addthis_layers === undefined) { window.addthis_layers = {}; } if (window.addthis_layers_tools === undefined) { window.addthis_layers_tools = []; } else {  } if (window.addthis_plugin_info === undefined) { window.addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","plugin_name":"Share Buttons by AddThis","plugin_version":"6.2.6","plugin_mode":"WordPress","anonymous_profile_id":"wp-4c02a94b1655238ee275939d9799996c","page_info":{"template":"pages","post_type":""},"sharing_enabled_on_post_via_metabox":false}; } 
+                    (function() {
+                      var first_load_interval_id = setInterval(function () {
+                        if (typeof window.addthis !== 'undefined') {
+                          window.clearInterval(first_load_interval_id);
+                          if (typeof window.addthis_layers !== 'undefined' && Object.getOwnPropertyNames(window.addthis_layers).length > 0) {
+                            window.addthis.layers(window.addthis_layers);
+                          }
+                          if (Array.isArray(window.addthis_layers_tools)) {
+                            for (i = 0; i < window.addthis_layers_tools.length; i++) {
+                              window.addthis.layers(window.addthis_layers_tools[i]);
+                            }
+                          }
+                        }
+                     },1000)
+                    }());
+                </script> <script data-cfasync="false" type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=wp-4c02a94b1655238ee275939d9799996c" async="async"></script>    </head>
+
+    <!--[if IE 7]>
+    <style>
+    #carousel-full .carousel-posts {
+            margin:0;
+            width:620px !important;
+     }
+    </style>
+    <![endif]-->
+
+
+    <body class="page-template-default page page-id-16 page-parent page-child parent-pageid-62 infowaytheme tribe-no-js ctct-infowaytheme" style=" background: fixed url('http://extension.colostate.edu/wp-content/uploads/2016/01/bg.jpg') ">
+	<div class="wrapper-csu-logo">
+        <!-- <div align="left"><a href="http://www.colostate.edu/" onclick="this.target='_blank';"><img src="https://denver.extension.colostate.edu/wp-content/themes/infowaytheme/images/csu-logo-linear-white-285.png" alt="Offsite Link: Colorado State University"  /></a></div> -->
+    </div>
+        <div class="wrapper">
+		<!-- Begin CSU Branding Header -->
+<section id="BrandLogo">
+<script>(function(){BrandLogo.style.cssText = 'opacity:0; height:67px; overflow:hidden;'})();</script>
+<h1><a href="http://colostate.edu">Colorado State University</a></h1>
+<!-- <h2><a href=""></a></h2> -->
+<h2><a href="http://extension.colostate.edu">Extension</a></h2>
+<script src="//static.colostate.edu/logo/reslogo/logo.min.js" async defer></script>
+<script>
+var logosettings = {
+screenSM: 480
+,screenMD: 768
+,screenLG: 992
+,baseSize: 380
+,fontSize: 'large' //large or small (default is small)
+};
+</script>
+</section>
+<!-- End CSU Branding Header -->
+            <div class="body_wrapper">
+                <div class="topmain_wrapper">
+                    <div class="topinfobar" id="topinfobox">
+                        <div class="container_24">
+                            <div class="grid_24">
+                                <div class="grid_5 alpha">
+                                    <div class="socialicon">
+                                        <ul class="social_logos">
+                                                                                            <li class="sl-2"><a title="Share on Facebook" href="https://www.facebook.com/DenverExtension"><span></span></a></li>
+                                                                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="grid_15"> <div class="info">
+                                                                                    <p>Visit our <a href="http://extension.colostate.edu" target="_blank">Colorado State Extension office</a> for more news, tools and resources.</p>
+                                                                            </div></div>
+                                <div class="grid_2">
+                                    <div class="siteinfourl"><a href="http://extension.colostate.edu/staff-directory/?cn-s=&cn-cat=77">
+                                                                                            <p>Online Directory</p>
+                                                                                    </a></div>
+                                </div>
+                                <div class="grid_2 omega">
+                                    <div class="closeicon"><a href="javascript:hide_all();"><img src="https://denver.extension.colostate.edu/wp-content/themes/infowaytheme/images/close-icon.png" alt="Close Icon"  /></a></div>
+                                </div>
+                            </div>
+                            <div class="clear"></div>
+                            <div class="toptip"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container_24">
+                    <div class="grid_24">
+                        <div class="header" id="#top">
+                            <div class="grid_12 alpha">
+                                <div class="logo"><a href="https://denver.extension.colostate.edu"><img src="http://denver.extension.colostate.edu/wp-content/uploads/sites/3/2018/01/denver-graphical-header-1.png" alt="Denver County Extension" /></a></div>
+                            </div>
+                            <div class="grid_12 omega">&nbsp;&nbsp;&nbsp;
+                                <div class="contactinfo"><!-- <img src="<// ?php echo get_template_directory_uri(); ?>/images/mobile-icon.png" alt="Contact Info" />&nbsp;&nbsp;&nbsp;&nbsp; -->
+                                                                            <span class="calldetails"> Colorado State University Extension offices like the one in Denver County bring the research and resources of the university within easy reach, and our staff are here to help.  </span> <br/>
+                                        
+                                </div>
+                            </div>
+                        </div>
+                        <div class="clear"></div>
+                        <div class="wrapper_menu">
+                            <div class="menu_container">
+                                <div class="menu_bar">
+                                    <div id="MainNav"> 
+                                        <div id="menu" class="menu-topnav-container"><ul id="menu-topnav" class="ddsmoothmenu"><li id="menu-item-9" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-9"><a href="http://denver.extension.colostate.edu/">Home</a></li>
+<li id="menu-item-342" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-342"><a href="https://denver.extension.colostate.edu/programs/">Denver Extension Programs</a>
+<ul class="sub-menu">
+	<li id="menu-item-1143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1143"><a href="https://denver.extension.colostate.edu/programs/4-h/">4-H Youth Development</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1144"><a href="https://denver.extension.colostate.edu/programs/4-h/4-h-programming-and-frequently-asked-questions/">4-H Programming and Frequently Asked Questions</a></li>
+		<li id="menu-item-1146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1146"><a href="https://denver.extension.colostate.edu/programs/4-h/denver-4-h-embryology-2/">Denver 4-H Embryology</a></li>
+		<li id="menu-item-1145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1145"><a href="https://denver.extension.colostate.edu/programs/4-h/denver-4-h-volunteers/">Denver 4-H Volunteers</a></li>
+		<li id="menu-item-1148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1148"><a href="https://denver.extension.colostate.edu/programs/4-h/4-h-stem-americorps/">4-H STEM AmeriCorps</a></li>
+		<li id="menu-item-1545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1545"><a href="https://denver.extension.colostate.edu/virtual-at-home-learning/">Virtual &amp; At-Home Learning</a>
+		<ul class="sub-menu">
+			<li id="menu-item-1546" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1546"><a href="https://denver.extension.colostate.edu/denver-4-h-virtual-videos/">Denver 4-H Virtual Videos</a></li>
+		</ul>
+</li>
+		<li id="menu-item-1147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1147"><a href="https://denver.extension.colostate.edu/programs/4-h/denver-4-h-contact/">Denver 4-H Contact</a></li>
+	</ul>
+</li>
+	<li id="menu-item-131" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-16 current_page_item menu-item-has-children menu-item-131"><a href="https://denver.extension.colostate.edu/programs/horticulture/" aria-current="page">Yard &amp; Garden / Horticulture</a>
+	<ul class="sub-menu">
+		<li id="menu-item-143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143"><a href="https://denver.extension.colostate.edu/programs/horticulture/colorado-master-gardener/">Colorado Master Gardener</a></li>
+		<li id="menu-item-371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-371"><a href="https://denver.extension.colostate.edu/programs/horticulture/agriculture/">Urban Agriculture</a></li>
+		<li id="menu-item-577" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-577"><a href="https://denver.extension.colostate.edu/programs/horticulture/japanese-beetle/">Japanese Beetle</a></li>
+		<li id="menu-item-518" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-518"><a href="https://denver.extension.colostate.edu/programs/horticulture/emerald-ash-borer/">Emerald Ash Borer</a></li>
+		<li id="menu-item-515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-515"><a href="https://denver.extension.colostate.edu/programs/horticulture/denver-residential-sales-ordinance-information-and-resources/">Denver Residential Sales Ordinance Information and Resources</a></li>
+	</ul>
+</li>
+	<li id="menu-item-148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148"><a href="https://denver.extension.colostate.edu/programs/nutrition-education-efnep/">Nutrition Education</a></li>
+</ul>
+</li>
+<li id="menu-item-350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-350"><a href="https://denver.extension.colostate.edu/about-us/">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-526" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-526"><a href="https://denver.extension.colostate.edu/about-us/csu-metropolitan-extension-center-at-the-national-wester-center/">CSU Metropolitan Extension Center at the NWC</a>
+	<ul class="sub-menu">
+		<li id="menu-item-604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-604"><a href="https://denver.extension.colostate.edu/about-us/csu-metropolitan-extension-center-at-the-national-wester-center/summary-of-mec-programs-and-impacts/">Summary of MEC Programs and Impacts:</a></li>
+	</ul>
+</li>
+	<li id="menu-item-613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-613"><a href="https://denver.extension.colostate.edu/about-us/denver-extension-newsletter/">Denver Extension Newsletter</a>
+	<ul class="sub-menu">
+		<li id="menu-item-620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-620"><a href="https://denver.extension.colostate.edu/about-us/denver-extension-newsletter/previous-newsletters/">Previous Newsletters</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-907" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-907"><a href="https://denver.extension.colostate.edu/meet-our-staff/">Meet Our Staff</a></li>
+<li id="menu-item-690" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-690"><a href="https://denver.extension.colostate.edu/current-job-postings/">Current Job Postings</a></li>
+<li id="menu-item-343" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-343"><a href="https://ask.extension.org/groups/1955/ask">Ask an Expert</a></li>
+<li id="menu-item-1207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1207"><a href="https://denver.extension.colostate.edu/denver-covid-19-resources/">COVID-19 Info</a></li>
+</ul></div>                                    </div>
+                                    <div class="taptocall">
+                                                                                <a class="btn-tap" href="tel:(720) 913-5270"><i class="fa fa-phone"></i>(720) 913-5270</a>
+                                    </div>
+                                </div>                               
+                            </div>
+                        </div>
+                        <div class="clear"></div>
+<div class="heading_wrapper">
+    <div class="heading_container">
+        <div class="page-heading">
+            <h1>
+                Yard &amp; Garden / Horticulture                &nbsp;&nbsp;<img src="https://denver.extension.colostate.edu/wp-content/themes/infowaytheme/images/arrow.png"  alt="arrow"/></h1>
+        </div>
+    </div>
+</div>
+<div class="clear"></div>
+<div class="page-content">
+    <div class="grid_16 alpha">
+        <div class="content-bar sample">
+            <!--post start-->
+            <div class="at-above-post-page addthis_tool" data-url="https://denver.extension.colostate.edu/programs/horticulture/"></div>
+<figure class="wp-block-image size-large"><img src="https://denver.extension.colostate.edu/wp-content/uploads/sites/3/2020/04/9.png" alt="" class="wp-image-1447" srcset="https://denver.extension.colostate.edu/wp-content/uploads/sites/3/2020/04/9.png 1024w, https://denver.extension.colostate.edu/wp-content/uploads/sites/3/2020/04/9-300x79.png 300w, https://denver.extension.colostate.edu/wp-content/uploads/sites/3/2020/04/9-768x201.png 768w, https://denver.extension.colostate.edu/wp-content/uploads/sites/3/2020/04/9-250x65.png 250w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<div class="wp-block-media-text alignwide" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><img src="http://denver.extension.colostate.edu/wp-content/uploads/sites/3/2020/04/1575675216.jpeg" alt="" class="wp-image-1234" srcset="https://denver.extension.colostate.edu/wp-content/uploads/sites/3/2020/04/1575675216.jpeg 200w, https://denver.extension.colostate.edu/wp-content/uploads/sites/3/2020/04/1575675216-150x150.jpeg 150w, https://denver.extension.colostate.edu/wp-content/uploads/sites/3/2020/04/1575675216-48x48.jpeg 48w" sizes="(max-width: 200px) 100vw, 200px" /></figure><div class="wp-block-media-text__content">
+<p class="has-normal-font-size">The CSU Denver Extension – Horticulture Program provides outreach &amp; engagement in all areas of environmental horticulture to the Denver community, including:</p>
+
+
+
+<ul><li>Denver Master Gardener Program</li><li>Research-based information on gardening questions</li><li>Educational programs in horticulture</li><li>Demonstration gardens</li></ul>
+</div></div>
+
+
+
+<h4>Grow &amp; Give: Modern Victory Garden</h4>
+
+
+
+<p>Lets Grow Together- Grow Food and Share the Harvest: <strong>Learn to grow food and donate extra locally. </strong>&nbsp;<strong>You got this, Colorado!&nbsp;</strong>Colorado State University Extension &amp; Master Gardeners are here to help every step of the way. More resources are added weekly and will change with the season.</p>
+
+
+
+<p>Interested in helping and joining the local food movement? Click the button below and explore our Lets Grow Together website and how you can start growing your own food today and beyond!</p>
+
+
+<span class='mb-center maxbutton-4-center'><span class='maxbutton-4-container mb-container'><a class="maxbutton-4 maxbutton maxbutton-draft" href="https://cmg.extension.colostate.edu/grow-give/"><span class='mb-text'>Grow your own food and help!</span></a></span></span>
+
+
+<p> </p>
+
+
+
+<figure class="wp-block-image size-large"><img src="http://denver.extension.colostate.edu/wp-content/uploads/sites/3/2020/04/Grow-and-Give-1-1024x268.png" alt="" class="wp-image-1241" srcset="https://denver.extension.colostate.edu/wp-content/uploads/sites/3/2020/04/Grow-and-Give-1-1024x268.png 1024w, https://denver.extension.colostate.edu/wp-content/uploads/sites/3/2020/04/Grow-and-Give-1-300x79.png 300w, https://denver.extension.colostate.edu/wp-content/uploads/sites/3/2020/04/Grow-and-Give-1-768x201.png 768w, https://denver.extension.colostate.edu/wp-content/uploads/sites/3/2020/04/Grow-and-Give-1-250x65.png 250w, https://denver.extension.colostate.edu/wp-content/uploads/sites/3/2020/04/Grow-and-Give-1.png 1536w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h3>&gt;&gt;&nbsp;<a href="https://planttalk.colostate.edu/planttalk-coloradotm-espaol/">Plant<em>talk</em>&nbsp;Colorado&nbsp;– Español</a><br>&gt;&gt;&nbsp;<a href="https://extension.colostate.edu/publications-2/spanish-publications/">Hojas Informativas en Español</a></h3>
+
+
+
+<h4>Have gardening questions? &nbsp;We are here to help!</h4>
+
+
+
+<p>Come see our Colorado Master Gardeners in person at:</p>
+
+
+
+<ul><li><strong>Cherry Creek Farmers Market</strong> <br>Saturdays from 7:30 am- 1:00 pm (May- October) <br>Wednesdays 8:30 am- 1:00 pm (June-September)</li><li>Denver Botanic Garden<br>Stop by the Gardening Help Desk in the Helen Fowler Library (free with Gardens admission)<br>Tuesday, Thursday and Saturday from 12:00 pm- 4:00 pm (April-October)<br>Tuesdays from 12:00 pm- 4:00 pm (November- March)</li></ul>
+
+
+
+<h4>Contact a Master Gardener:</h4>
+
+
+
+<ul><li><strong>Denver Botanic Garden</strong><br>720-865-3575<br><a href="mailto:gardeninghelp@botanicgardens.org">gardeninghelp@botanicgardens.org</a></li><li><strong>Denver Master Gardener&nbsp;HELP Line/Email</strong><br>720-913-5278<br><a href="mailto:denvermg@colostate.edu">denvermg@colostate.edu</a></li></ul>
+
+
+
+<h4>Additional Resources:</h4>
+
+
+
+<ul><li><a rel="noreferrer noopener" href="https://extension.colostate.edu/topic-areas/yard-garden/?target=publications#basics" target="_blank"><strong>Gardening Basics</strong></a></li><li><a rel="noreferrer noopener" href="https://extension.colostate.edu/topic-areas/yard-garden/?target=publications#diseases" target="_blank"><strong>Diseases</strong></a></li><li><a rel="noreferrer noopener" href="https://extension.colostate.edu/topic-areas/yard-garden/?target=publications#flowers" target="_blank"><strong>Flowers</strong></a></li><li><a rel="noreferrer noopener" href="https://extension.colostate.edu/topic-areas/yard-garden/?target=publications#fruits" target="_blank"><strong>Fruits &amp; Vegetables</strong></a></li><li><a rel="noreferrer noopener" href="https://cmg.extension.colostate.edu/volunteer-information/cmg-gardennotes-class-handouts/" target="_blank"><strong>GardenNotes (Master Gardener Publications)</strong></a></li><li><a rel="noreferrer noopener" href="http://extension.colostate.edu/topic-areas/insects/?target=publications" target="_blank"><strong>Insects</strong></a></li><li><a rel="noreferrer noopener" href="https://extension.colostate.edu/topic-areas/yard-garden/?target=publications#native" target="_blank"><strong>Native Plants</strong></a></li><li><a rel="noreferrer noopener" href="https://extension.colostate.edu/topic-areas/yard-garden/?target=publications#trees" target="_blank"><strong>Trees and Shrubs</strong></a></li><li><a rel="noreferrer noopener" href="https://extension.colostate.edu/topic-areas/yard-garden/?target=publications#yard" target="_blank"><strong>Yard</strong></a></li></ul>
+
+
+
+<p>CSU Extension has a long list of publications, fact sheets, and resources on a variety of topics. Check out their website to explore and answer all your yard, horticulture and gardening questions and needs. <a href="https://extension.colostate.edu/topic-areas/yard-garden/?target=publications" target="_blank" rel="noreferrer noopener">https://extension.colostate.edu/topic-areas/yard-garden/?target=publications</a></p>
+
+
+
+<div class='white' style='background:rgba(0,0,0,0); border:solid 0px rgba(0,0,0,0); border-radius:0px; padding:0px 0px 0px 0px;'>
+<div id='slider_1290' class='owl-carousel sa_owl_theme owl-pagination-true autohide-arrows' data-slider-id='slider_1290' style='visibility:hidden;'>
+<div id='slider_1290_slide01' class='sa_hover_container' style='padding:5% 5%; margin:0px 0%; '><p><a href="http://denver.extension.colostate.edu/wp-content/uploads/sites/3/2020/04/Governors-Mansion-Denver-CO-5-19-14-2.jpg"><img class="alignnone size-full wp-image-1279" src="http://denver.extension.colostate.edu/wp-content/uploads/sites/3/2020/04/Governors-Mansion-Denver-CO-5-19-14-2.jpg" alt="" width="2558" height="1706" /></a></p></div>
+<div id='slider_1290_slide02' class='sa_hover_container' style='padding:5% 5%; margin:0px 0%; '><p><a href="http://denver.extension.colostate.edu/wp-content/uploads/sites/3/2020/04/DBG.jpg"><img class="alignnone size-full wp-image-1278" src="http://denver.extension.colostate.edu/wp-content/uploads/sites/3/2020/04/DBG.jpg" alt="" width="1500" height="1125" /></a></p></div>
+<div id='slider_1290_slide03' class='sa_hover_container' style='padding:5% 5%; margin:0px 0%; '><p><a href="http://denver.extension.colostate.edu/wp-content/uploads/sites/3/2020/04/DBG-Plant-Sale-2013.jpg"><img class="alignnone size-full wp-image-1277" src="http://denver.extension.colostate.edu/wp-content/uploads/sites/3/2020/04/DBG-Plant-Sale-2013.jpg" alt="" width="1452" height="1090" /></a></p></div>
+<div id='slider_1290_slide04' class='sa_hover_container' style='padding:5% 5%; margin:0px 0%; '><p><a href="http://denver.extension.colostate.edu/wp-content/uploads/sites/3/2020/04/Plant-Sale-2014-004-scaled.jpg"><img class="alignnone size-full wp-image-1272" src="http://denver.extension.colostate.edu/wp-content/uploads/sites/3/2020/04/Plant-Sale-2014-004-scaled.jpg" alt="" width="2560" height="1920" /></a></p></div>
+<div id='slider_1290_slide05' class='sa_hover_container' style='padding:5% 5%; margin:0px 0%; '><p><a href="http://denver.extension.colostate.edu/wp-content/uploads/sites/3/2020/04/planting-seeds-scaled.jpg"><img class="alignnone size-full wp-image-1273" src="http://denver.extension.colostate.edu/wp-content/uploads/sites/3/2020/04/planting-seeds-scaled.jpg" alt="" width="2560" height="1920" /></a></p></div>
+<div id='slider_1290_slide06' class='sa_hover_container' style='padding:5% 5%; margin:0px 0%; '><p><a href="http://denver.extension.colostate.edu/wp-content/uploads/sites/3/2020/04/IMG_0502.jpg"><img class="alignnone size-full wp-image-1267" src="http://denver.extension.colostate.edu/wp-content/uploads/sites/3/2020/04/IMG_0502.jpg" alt="" width="640" height="480" /></a></p></div>
+<div id='slider_1290_slide07' class='sa_hover_container' style='padding:5% 5%; margin:0px 0%; '><p><a href="http://denver.extension.colostate.edu/wp-content/uploads/sites/3/2020/04/IMG_0506.jpg"><img class="alignnone size-full wp-image-1268" src="http://denver.extension.colostate.edu/wp-content/uploads/sites/3/2020/04/IMG_0506.jpg" alt="" width="640" height="480" /></a></p></div>
+</div>
+</div>
+<script type='text/javascript'>
+	jQuery(document).ready(function() {
+		jQuery('#slider_1290').owlCarousel({
+			items : 1,
+			smartSpeed : 200,
+			autoplay : true,
+			autoplayTimeout : 5000,
+			autoplayHoverPause : true,
+			smartSpeed : 200,
+			fluidSpeed : 200,
+			autoplaySpeed : 200,
+			navSpeed : 200,
+			dotsSpeed : 200,
+			loop : true,
+			nav : true,
+			navText : ['',''],
+			dots : true,
+			responsiveRefreshRate : 200,
+			slideBy : 1,
+			mergeFit : true,
+			autoHeight : false,
+			mouseDrag : false,
+			touchDrag : true
+		});
+		jQuery('#slider_1290').css('visibility', 'visible');
+		sa_resize_slider_1290();
+		window.addEventListener('resize', sa_resize_slider_1290);
+		function sa_resize_slider_1290() {
+			var min_height = '50';
+			var win_width = jQuery(window).width();
+			var slider_width = jQuery('#slider_1290').width();
+			if (win_width < 480) {
+				var slide_width = slider_width / 1;
+			} else if (win_width < 768) {
+				var slide_width = slider_width / 1;
+			} else if (win_width < 980) {
+				var slide_width = slider_width / 1;
+			} else if (win_width < 1200) {
+				var slide_width = slider_width / 1;
+			} else if (win_width < 1500) {
+				var slide_width = slider_width / 1;
+			} else {
+				var slide_width = slider_width / 1;
+			}
+			slide_width = Math.round(slide_width);
+			var slide_height = '0';
+			if (min_height == 'aspect43') {
+				slide_height = (slide_width / 4) * 3;				slide_height = Math.round(slide_height);
+			} else if (min_height == 'aspect169') {
+				slide_height = (slide_width / 16) * 9;				slide_height = Math.round(slide_height);
+			} else {
+				slide_height = (slide_width / 100) * min_height;				slide_height = Math.round(slide_height);
+			}
+			jQuery('#slider_1290 .owl-item .sa_hover_container').css('min-height', slide_height+'px');
+		}
+		var resize_1290 = jQuery('.owl-carousel');
+		resize_1290.on('initialized.owl.carousel', function(e) {
+			window.dispatchEvent(new Event('resize'));
+		});
+	});
+</script>
+<br><br></p>
+<!-- AddThis Advanced Settings above via filter on the_content --><!-- AddThis Advanced Settings below via filter on the_content --><!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons above via filter on the_content --><!-- AddThis Share Buttons below via filter on the_content --><div class="at-below-post-page addthis_tool" data-url="https://denver.extension.colostate.edu/programs/horticulture/"></div><!-- AddThis Share Buttons generic via filter on the_content -->            <!--End Post-->
+        </div>
+    </div>
+    <div class="grid_8 omega">
+        <!--Start Sidebar-->
+        <div class="sidebar">
+    <h3><a href="#">Announcement</a></h3>			<div class="textwidget"><p>Colorado State University Extension in Denver County has canceled all in-person classes and workshops until June 30th due to COVID-19 concerns.</p>
+</div>
+		<h3><a href="#">Social Media</a></h3><div class="textwidget custom-html-widget"><ul>
+	<li><a href="https://www.facebook.com/CSUDenverExtension/" target="_blank" rel="noopener noreferrer">Facebook</a></li>
+	<li><a href="https://www.instagram.com/denver4h/" target="_blank" rel="noopener noreferrer">Instagram</a></li>
+</ul></div><h3><a href="#">Additional Resources</a></h3><div class="menu-sidebar-container"><ul id="menu-sidebar" class="menu"><li id="menu-item-11" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11"><a href="http://extension.colostate.edu">CSU Extension</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a href="http://extension.colostate.edu/staff-directory/?cn-s=&#038;cn-cat=77">Denver Extension Online Directory</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="http://extension.org/">eXtension</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14"><a href="http://search.colostate.edu/">Search CSU</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15"><a href="https://ask.extension.org/groups/1955/ask">Ask an Expert</a></li>
+</ul></div><h3><a href="#">Social Media</a></h3><div class="textwidget custom-html-widget"><ul>
+<li><a href="https://www.facebook.com/CSUDenverExtension/" target="_blank" rel="noopener noreferrer">'Like' us on Facebook</a></li>
+<li><a href="https://denvergardeners.wordpress.com/" target="_blank" rel="noopener noreferrer">Follow our blog</a></li>
+	</ul></div></div>        <!--End Sidebar-->
+    </div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+    <!--Start Footer-->
+<div class="footer-wrapper">
+        <div class="footer">
+
+		<div class="container_24">
+      <div class="grid_24">
+		 <div class="grid_6 alpha">
+    <div class="footer_widget first">
+        <h4>Contact Us!</h4><div class="textwidget custom-html-widget">888 East Iliff Avenue
+
+Denver, CO 80210
+
+Phone: 720-913-5270
+</div>    </div>
+</div>
+<div class="grid_6">
+    <div class="footer_widget second">
+        <h4>Quick Links</h4><div class="menu-horticuture-quick-links-container"><ul id="menu-horticuture-quick-links" class="menu"><li id="menu-item-87" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87"><a href="http://www.soiltestinglab.colostate.edu/">CSU Soil Testing</a></li>
+<li id="menu-item-88" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-88"><a href="http://csuturf.colostate.edu/">CSU Turfgrass</a></li>
+</ul></div>  
+    </div>
+</div>
+<div class="grid_6">
+    <div class="footer_widget third">
+        <h4>CSU Metropolitan Extension Center</h4><div class="textwidget custom-html-widget">Extension in Denver will have a new beginning at the Metropolitan Extension Center!
+Read <a href="http://denver.extension.colostate.edu/about-us/csu-metropolitan-extension-center-at-the-national-wester-center/" target="_blank" rel="noopener noreferrer">more!</a></div>    </div>
+</div>
+<div class="grid_6 omega">
+    <div class="footer_widget last">
+        <h4>Search</h4><div class="side-search">
+    <form role="search" method="get" class="searchform" action="https://denver.extension.colostate.edu/">
+        <div>
+            <input onfocus="if (this.value == 'Search') {
+                        this.value = '';
+                    }" onblur="if (this.value == '') {
+                                this.value = 'Search';
+                            }"  value="Search" type="text" name="s" id="s" />
+            <input type="submit" value="" name="submit"/>
+        </div>
+    </form>
+</div>
+<div class="clear"></div>
+    </div>
+</div>
+        </div>
+        <div class="clear"></div>
+		</div>
+        <div class="footersep"></div>
+        <div class="clear"></div>
+	  <div class="footer-bottom-wrapper">
+        <div class="footer-bottom">
+		<div class="container_24">
+      <div class="grid_24">
+      	            <!--<div class="grid_10 alpha">-->
+            <div class="copyrightinfo">
+			              <p><span style="font-size:.9em;padding64px;">
+        <a href="http://extension.colostate.edu/employment/">Employment</a> |
+        <a href="http://www.colostate.edu/equal-opportunity/" onclick="this.target='_blank';" title="Offsite link">Equal Opportunity</a> |
+        <a href="http://www.colostate.edu/disclaimer/" onclick="this.target='_blank';" title="Offsite link">Disclaimer</a> |
+        <a href="http://extension.colostate.edu/?p=4054">Non-Discrimination Statement</a> |
+        <a href="http://www.colostate.edu/privacy/" onclick="this.target='_blank';" title="Offsite link">Privacy Statement</a> |
+        <a href="http://extension.colostate.edu/webmaster/">Webmaster</a> |
+        <a href="http://admissions.colostate.edu/" onclick="this.target='_blank';" title="Offsite link">Apply to CSU</a> |
+        <!-- <a href="http://www.colostate.edu/" onclick="this.target='_blank';" title="Offsite link">CSU Home</a><br /> -->
+        <a href="http://www.colostate.edu/search" onclick="this.target='_blank';" title="Offsite link">CSU A-Z Search</a><br />
+        &copy;2020, Colorado State University Extension, Fort Collins, Colorado 80523 USA</span></p>
+			            </div>
+            <div id="responsive-img" style="margin-top:-12px;"><a href="http://giving.colostate.edu/" onclick="this.target='_blank';" title="Offsite link - Giving page for CSU's State Your Purpose Campaign"><img src="http://extension.colostate.edu/wp-content/uploads/2016/02/csu-state-your-purpose-325.png" alt="CSU State Your Purpose - The Giving Campaign for Colorado State University" /></a></div>
+            
+            <!-- Begin Constant Contact Active Forms -->
+<script> var _ctct_m = "8ec80b8e22d8e41f1bf8318d8dd34b2d"; </script>
+<script id="signupScript" src="//static.ctctcdn.com/js/signup-form-widget/current/signup-form-widget.min.js" async defer></script>
+<!-- End Constant Contact Active Forms -->
+
+          <!--</div>-->
+                    <!--<div class="grid_14 omega">
+            <div class="copyright_right"><a id="scroll-top" href="#top"><img src="https://denver.extension.colostate.edu/wp-content/themes/infowaytheme/images/topsroll-icon.png" alt="Topscroll Icon" /></a>
+             </div>-->
+          </div>
+        </div>
+        <div class="clear">
+        </div>
+		</div>
+		</div>
+      </div>
+	   </div>
+  </div>
+</div>
+</div>
+<!-- container -->
+
+<!-- WP Audio player plugin v1.9.6 - https://www.tipsandtricks-hq.com/wordpress-audio-music-player-plugin-4556/ -->
+    <script type="text/javascript">
+        soundManager.useFlashBlock = true; // optional - if used, required flashblock.css
+        soundManager.url = 'https://denver.extension.colostate.edu/wp-content/plugins/compact-wp-audio-player/swf/soundmanager2.swf';
+        function play_mp3(flg, ids, mp3url, volume, loops)
+        {
+            //Check the file URL parameter value
+            var pieces = mp3url.split("|");
+            if (pieces.length > 1) {//We have got an .ogg file too
+                mp3file = pieces[0];
+                oggfile = pieces[1];
+                //set the file URL to be an array with the mp3 and ogg file
+                mp3url = new Array(mp3file, oggfile);
+            }
+
+            soundManager.createSound({
+                id: 'btnplay_' + ids,
+                volume: volume,
+                url: mp3url
+            });
+
+            if (flg == 'play') {
+                    soundManager.play('btnplay_' + ids, {
+                    onfinish: function() {
+                        if (loops == 'true') {
+                            loopSound('btnplay_' + ids);
+                        }
+                        else {
+                            document.getElementById('btnplay_' + ids).style.display = 'inline';
+                            document.getElementById('btnstop_' + ids).style.display = 'none';
+                        }
+                    }
+                });
+            }
+            else if (flg == 'stop') {
+    //soundManager.stop('btnplay_'+ids);
+                soundManager.pause('btnplay_' + ids);
+            }
+        }
+        function show_hide(flag, ids)
+        {
+            if (flag == 'play') {
+                document.getElementById('btnplay_' + ids).style.display = 'none';
+                document.getElementById('btnstop_' + ids).style.display = 'inline';
+            }
+            else if (flag == 'stop') {
+                document.getElementById('btnplay_' + ids).style.display = 'inline';
+                document.getElementById('btnstop_' + ids).style.display = 'none';
+            }
+        }
+        function loopSound(soundID)
+        {
+            window.setTimeout(function() {
+                soundManager.play(soundID, {onfinish: function() {
+                        loopSound(soundID);
+                    }});
+            }, 1);
+        }
+        function stop_all_tracks()
+        {
+            soundManager.stopAll();
+            var inputs = document.getElementsByTagName("input");
+            for (var i = 0; i < inputs.length; i++) {
+                if (inputs[i].id.indexOf("btnplay_") == 0) {
+                    inputs[i].style.display = 'inline';//Toggle the play button
+                }
+                if (inputs[i].id.indexOf("btnstop_") == 0) {
+                    inputs[i].style.display = 'none';//Hide the stop button
+                }
+            }
+        }
+    </script>
+    			<style>
+				#ocvb-container #ocvb-body {
+					color: #FFFFFF;
+					background-color: #CC0000;
+					text-align: center;
+					
+				}
+				@media screen and (max-width: 480px) {
+					#ocvb-container #ocvb-body {
+						
+					}
+				}
+				#ocvb-container #ocvb-body h1,
+				#ocvb-container #ocvb-body h2,
+				#ocvb-container #ocvb-body h3,
+				#ocvb-container #ocvb-body h4,
+				#ocvb-container #ocvb-body h5,
+				#ocvb-container #ocvb-body h6 {
+					color: #FFFFFF;
+					text-align: center;
+					margin-top: 4px;
+					margin-bottom: 10px;
+				}
+				#ocvb-container #ocvb-body p {
+					color: #FFFFFF;
+					text-align: center;
+				}
+				#ocvb-container #ocvb-body a {
+					color: #FFFFFF;
+					text-align: center;
+				}
+				#ocvb-container[data-message-alignment="right"][data-allow-close="true"] #ocvb-container-notice-text {
+					padding-right: 30px;
+				}
+				#ocvb-container[data-allow-close="true"] #ocvb-container-notice-text {
+					padding-right: 20px;
+				}
+			</style>
+			<script>
+				if ( typeof Cookies != 'undefined' ) 
+					if ( "false" == false && ( "banner" == "leaderboard" || "banner" == "banner" ) )
+						Cookies.set( 'ocvb-keep-banner-closed', 'false' );
+			</script>
+			<div id="ocvb-container" class="not-ready ocvb-enabled ocvb-display-type-banner" data-message-alignment="center" data-display-type="banner" data-allow-close="false" data-title-header-size="h4">
+				<div id="ocvb-body">
+					<div id="ocvb-container-close-button" class="ocvb-disabled"><a href="#">x</a></div>
+					<div id="ocvb-container-notice-text">
+						<h4>COVID-19</h4>
+						<p>COVID-19 Support Services offered by the City and County of Denver.</p>
+						<div id="ocvb-container-notice-link" class="ocvb-enabled">
+							<a href="https://www.denvergov.org/content/denvergov/en/environmental-health/news/coronavirus-info/support-services.html" target="_blank">More Information</a>
+						</div>
+					</div>
+				</div>
+			</div>		<script>
+			jQuery( function () { window.ocvb.init( 2 ); });
+		</script><!-- Custom Facebook Feed JS -->
+<script type="text/javascript">
+var cfflinkhashtags = "true";
+</script>
+<script>jQuery(document).ready(function($) { $('#my_popup').popup({autoopen: true, transition: 'all 0.3s', blur: true, color: ''}); }); </script><script type='text/javascript'>
+var colomatduration = 'fast';
+var colomatslideEffect = 'slideFade';
+var colomatpauseInit = '';
+var colomattouchstart = '';
+</script><!--noptimize--><!--email_off--><style type='text/css'>.mb-center.maxbutton-4-center{display:block;text-align:center}.mb-center.maxbutton-4-center .maxbutton-4-container.mb-container{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;display:block}.mb-center.maxbutton-4-center .maxbutton-4-container.mb-container .maxbutton-4.maxbutton.maxbutton-draft{position:relative;text-decoration:none;display:inline-block;vertical-align:middle;border-color:#1f4f33;width:220px;height:50px;border-top-left-radius:4px;border-top-right-radius:4px;border-bottom-left-radius:4px;border-bottom-right-radius:4px;border-style:solid;border-width:2px;background-color:#1f4f33;-webkit-box-shadow:0px 0px 2px 0px #1f4f33;-moz-box-shadow:0px 0px 2px 0px #1f4f33;box-shadow:0px 0px 2px 0px #1f4f33}.mb-center.maxbutton-4-center .maxbutton-4-container.mb-container .maxbutton-4.maxbutton.maxbutton-draft:hover{border-color:#1f4f33;background-color:white;-webkit-box-shadow:0px 0px 2px 0px #1f4f33;-moz-box-shadow:0px 0px 2px 0px #1f4f33;box-shadow:0px 0px 2px 0px #1f4f33}.mb-center.maxbutton-4-center .maxbutton-4-container.mb-container .maxbutton-4.maxbutton.maxbutton-draft .mb-text{color:#ffffff;font-family:Tahoma;font-size:15px;text-align:center;font-style:normal;font-weight:normal;padding-top:18px;padding-right:0px;padding-bottom:0px;padding-left:0px;line-height:1em;box-sizing:border-box;display:block;background-color:unset}.mb-center.maxbutton-4-center .maxbutton-4-container.mb-container .maxbutton-4.maxbutton.maxbutton-draft:hover .mb-text{color:#1f4f33}
+</style><!--/email_off--><!--/noptimize-->
+		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://denver.extension.colostate.edu/wp-admin/admin-ajax.php";
+</script>
+<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script><link rel='stylesheet' id='owl_carousel_css-css'  href='https://denver.extension.colostate.edu/wp-content/plugins/slide-anything/owl-carousel/owl.carousel.css?ver=2.2.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='owl_theme_css-css'  href='https://denver.extension.colostate.edu/wp-content/plugins/slide-anything/owl-carousel/sa-owl-theme.css?ver=2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='owl_animate_css-css'  href='https://denver.extension.colostate.edu/wp-content/plugins/slide-anything/owl-carousel/animate.min.css?ver=2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='ivory-search-styles-css'  href='https://denver.extension.colostate.edu/wp-content/plugins/add-search-to-menu/public/css/ivory-search.css?ver=4.4.14' type='text/css' media='all' />
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-includes/js/comment-reply.min.js?ver=c4057e648cbfbf45439ba42df2c17baa'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.15'></script>
+<script type='text/javascript'>
+window.lodash = _.noConflict();
+</script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4'></script>
+<script type='text/javascript'>
+( 'fetch' in window ) || document.write( '<script src="https://denver.extension.colostate.edu/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://denver.extension.colostate.edu/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://denver.extension.colostate.edu/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://denver.extension.colostate.edu/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://denver.extension.colostate.edu/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://denver.extension.colostate.edu/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-includes/js/dist/vendor/react.min.js?ver=16.9.0'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-includes/js/dist/vendor/react-dom.min.js?ver=16.9.0'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-includes/js/dist/escape-html.min.js?ver=4198c7c0e05a9f34f4126334be746ddd'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-includes/js/dist/element.min.js?ver=a7bf20cbfb0791e9fc65111e966d5592'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-includes/js/dist/html-entities.min.js?ver=81efc2ce02f13b864d66666c7bec2136'></script>
+<script type='text/javascript' src='//denver.extension.colostate.edu/wp-content/plugins/connections/assets/dist/js/blocks-public.js?ver=9.7.2-1593624537'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/plugins/embed-any-document/js/pdfobject.min.js?ver=2.6.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var eadPublic = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/plugins/embed-any-document/js/embed-public.min.js?ver=2.6.1'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/plugins/add-search-to-menu/public/js/ivory-search.js?ver=4.4.14'></script>
+<script type='text/javascript' src='//denver.extension.colostate.edu/wp-content/plugins/connections/assets/vendor/picturefill/picturefill.min.js?ver=3.0.2'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-recaptcha-v2.min.js?ver=1.8.5'></script>
+<script async="async" defer type='text/javascript' src='//www.google.com/recaptcha/api.js?onload=renderReCaptcha&#038;render=explicit&#038;ver=1.8.5'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-frontend.min.js?ver=1.8.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/denver.extension.colostate.edu\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.9'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/plugins/custom-facebook-feed/js/cff-scripts.js?ver=2.15.1'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/plugins/jquery-collapse-o-matic/js/collapse.js?ver=1.6.19'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/plugins/responsive-image-maps/jquery.rwdImageMaps.min.js?ver=1.5'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=13.4'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-includes/js/wp-embed.min.js?ver=c4057e648cbfbf45439ba42df2c17baa'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/plugins/slide-anything/owl-carousel/owl.carousel.min.js?ver=2.2.1'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/plugins/print-o-matic/printomat.js?ver=1.8.9'></script>
+<script type='text/javascript' src='https://denver.extension.colostate.edu/wp-content/themes/infowaytheme/js/mobile-menu.js?ver=c4057e648cbfbf45439ba42df2c17baa'></script>
+</body>
+</html>
