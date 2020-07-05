@@ -1,0 +1,1099 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+
+<title>Select Pet Supplies &#8211; Stuff for Dogs</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Select Pet Supplies &raquo; Feed" href="https://selectpetsupplies.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Select Pet Supplies &raquo; Comments Feed" href="https://selectpetsupplies.com/comments/feed/" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.9.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var mi_version         = '7.9.0';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-130649868-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-130649868-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/selectpetsupplies.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='thickbox.css-css'  href='https://selectpetsupplies.com/wp-includes/js/thickbox/thickbox.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='astra-theme-css-css'  href='https://selectpetsupplies.com/wp-content/themes/astra/assets/css/minified/style.min.css?ver=1.6.1' type='text/css' media='all' />
+<style id='astra-theme-css-inline-css' type='text/css'>
+html{font-size:93.75%;}a,.page-title{color:#434343;}a:hover,a:focus{color:#602bb7;}body,button,input,select,textarea{font-family:'Poppins',sans-serif;font-weight:400;font-size:15px;font-size:1rem;}blockquote{border-color:rgba(67,67,67,0.05);}h1,.entry-content h1,.entry-content h1 a,h2,.entry-content h2,.entry-content h2 a,h3,.entry-content h3,.entry-content h3 a,h4,.entry-content h4,.entry-content h4 a,h5,.entry-content h5,.entry-content h5 a,h6,.entry-content h6,.entry-content h6 a,.site-title,.site-title a{font-family:'Poppins',sans-serif;font-weight:700;}.site-title{font-size:35px;font-size:2.33333333333rem;}header .site-logo-img .custom-logo-link img{max-width:98px;}.astra-logo-svg{width:98px;}.ast-archive-description .ast-archive-title{font-size:40px;font-size:2.66666666667rem;}.site-header .site-description{font-size:15px;font-size:1rem;}.entry-title{font-size:30px;font-size:2rem;}.comment-reply-title{font-size:24px;font-size:1.6rem;}.ast-comment-list #cancel-comment-reply-link{font-size:15px;font-size:1rem;}h1,.entry-content h1,.entry-content h1 a{font-size:48px;font-size:3.2rem;}h2,.entry-content h2,.entry-content h2 a{font-size:42px;font-size:2.8rem;}h3,.entry-content h3,.entry-content h3 a{font-size:30px;font-size:2rem;}h4,.entry-content h4,.entry-content h4 a{font-size:20px;font-size:1.33333333333rem;}h5,.entry-content h5,.entry-content h5 a{font-size:18px;font-size:1.2rem;}h6,.entry-content h6,.entry-content h6 a{font-size:15px;font-size:1rem;}.ast-single-post .entry-title,.page-title{font-size:30px;font-size:2rem;}#secondary,#secondary button,#secondary input,#secondary select,#secondary textarea{font-size:15px;font-size:1rem;}::selection{background-color:#434343;color:#ffffff;}body,h1,.entry-title a,.entry-content h1,.entry-content h1 a,h2,.entry-content h2,.entry-content h2 a,h3,.entry-content h3,.entry-content h3 a,h4,.entry-content h4,.entry-content h4 a,h5,.entry-content h5,.entry-content h5 a,h6,.entry-content h6,.entry-content h6 a{color:#3a3a3a;}.tagcloud a:hover,.tagcloud a:focus,.tagcloud a.current-item{color:#ffffff;border-color:#434343;background-color:#434343;}.main-header-menu a,.ast-header-custom-item a{color:#3a3a3a;}.main-header-menu li:hover > a,.main-header-menu li:hover > .ast-menu-toggle,.main-header-menu .ast-masthead-custom-menu-items a:hover,.main-header-menu li.focus > a,.main-header-menu li.focus > .ast-menu-toggle,.main-header-menu .current-menu-item > a,.main-header-menu .current-menu-ancestor > a,.main-header-menu .current_page_item > a,.main-header-menu .current-menu-item > .ast-menu-toggle,.main-header-menu .current-menu-ancestor > .ast-menu-toggle,.main-header-menu .current_page_item > .ast-menu-toggle{color:#434343;}input:focus,input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="reset"]:focus,input[type="search"]:focus,textarea:focus{border-color:#434343;}input[type="radio"]:checked,input[type=reset],input[type="checkbox"]:checked,input[type="checkbox"]:hover:checked,input[type="checkbox"]:focus:checked,input[type=range]::-webkit-slider-thumb{border-color:#434343;background-color:#434343;box-shadow:none;}.site-footer a:hover + .post-count,.site-footer a:focus + .post-count{background:#434343;border-color:#434343;}.ast-small-footer{color:#000000;}.ast-small-footer > .ast-footer-overlay{background-color:#ffffff;}.ast-small-footer a{color:#434343;}.ast-small-footer a:hover{color:#602bb7;}.footer-adv .widget-title,.footer-adv .widget-title a{color:#000000;}.footer-adv{color:#434343;}.footer-adv a{color:#434343;}.footer-adv .tagcloud a:hover,.footer-adv .tagcloud a.current-item{border-color:#434343;background-color:#434343;}.footer-adv a:hover,.footer-adv .no-widget-text a:hover,.footer-adv a:focus,.footer-adv .no-widget-text a:focus{color:#602bb7;}.footer-adv .calendar_wrap #today,.footer-adv a:hover + .post-count{background-color:#434343;}.footer-adv-overlay{background-color:#ffffff;}.ast-comment-meta{line-height:1.666666667;font-size:12px;font-size:0.8rem;}.single .nav-links .nav-previous,.single .nav-links .nav-next,.single .ast-author-details .author-title,.ast-comment-meta{color:#434343;}.menu-toggle,button,.ast-button,.button,input#submit,input[type="button"],input[type="submit"],input[type="reset"]{border-radius:0;padding:10px 40px;color:#ffffff;border-color:#434343;background-color:#434343;}button:focus,.menu-toggle:hover,button:hover,.ast-button:hover,.button:hover,input[type=reset]:hover,input[type=reset]:focus,input#submit:hover,input#submit:focus,input[type="button"]:hover,input[type="button"]:focus,input[type="submit"]:hover,input[type="submit"]:focus{color:#ffffff;border-color:#2d2d2d;background-color:#2d2d2d;}.entry-meta,.entry-meta *{line-height:1.45;color:#434343;}.entry-meta a:hover,.entry-meta a:hover *,.entry-meta a:focus,.entry-meta a:focus *{color:#602bb7;}blockquote,blockquote a{color:#000000;}.ast-404-layout-1 .ast-404-text{font-size:200px;font-size:13.3333333333rem;}.widget-title{font-size:21px;font-size:1.4rem;color:#3a3a3a;}#cat option,.secondary .calendar_wrap thead a,.secondary .calendar_wrap thead a:visited{color:#434343;}.secondary .calendar_wrap #today,.ast-progress-val span{background:#434343;}.secondary a:hover + .post-count,.secondary a:focus + .post-count{background:#434343;border-color:#434343;}.calendar_wrap #today > a{color:#ffffff;}.ast-pagination a,.page-links .page-link,.single .post-navigation a{color:#434343;}.ast-pagination a:hover,.ast-pagination a:focus,.ast-pagination > span:hover:not(.dots),.ast-pagination > span.current,.page-links > .page-link,.page-links .page-link:hover,.post-navigation a:hover{color:#602bb7;}.ast-header-break-point .ast-mobile-menu-buttons-minimal.menu-toggle{background:transparent;color:#dddddd;}.ast-header-break-point .ast-mobile-menu-buttons-outline.menu-toggle{background:transparent;border:1px solid #dddddd;color:#dddddd;}.ast-header-break-point .ast-mobile-menu-buttons-fill.menu-toggle{background:#dddddd;color:#000000;}.footer-adv .tagcloud a:hover,.footer-adv .tagcloud a.current-item{color:#ffffff;}.footer-adv .calendar_wrap #today{color:#ffffff;}@media (min-width:545px){.ast-page-builder-template .comments-area,.single.ast-page-builder-template .entry-header,.single.ast-page-builder-template .post-navigation{max-width:1240px;margin-left:auto;margin-right:auto;}}body,.ast-separate-container{background-color:#f9f9f9;}@media (max-width:768px){.ast-archive-description .ast-archive-title{font-size:40px;}.entry-title{font-size:30px;}h1,.entry-content h1,.entry-content h1 a{font-size:30px;}h2,.entry-content h2,.entry-content h2 a{font-size:25px;}h3,.entry-content h3,.entry-content h3 a{font-size:20px;}.ast-single-post .entry-title,.page-title{font-size:30px;}}@media (max-width:544px){.ast-archive-description .ast-archive-title{font-size:40px;}.entry-title{font-size:30px;}h1,.entry-content h1,.entry-content h1 a{font-size:30px;}h2,.entry-content h2,.entry-content h2 a{font-size:25px;}h3,.entry-content h3,.entry-content h3 a{font-size:20px;}.ast-single-post .entry-title,.page-title{font-size:30px;}}@media (max-width:768px){html{font-size:85.5%;}}@media (max-width:544px){html{font-size:85.5%;}}@media (min-width:769px){.ast-container{max-width:1240px;}}@font-face {font-family: "Astra";src: url( https://selectpetsupplies.com/wp-content/themes/astra/assets/fonts/astra.woff) format("woff"),url( https://selectpetsupplies.com/wp-content/themes/astra/assets/fonts/astra.ttf) format("truetype"),url( https://selectpetsupplies.com/wp-content/themes/astra/assets/fonts/astra.svg#astra) format("svg");font-weight: normal;font-style: normal;}@media (max-width:921px) {.main-header-bar .main-header-bar-navigation{display:none;}}.ast-desktop .main-header-menu.submenu-with-border .sub-menu,.ast-desktop .main-header-menu.submenu-with-border .children,.ast-desktop .main-header-menu.submenu-with-border .astra-full-megamenu-wrapper{border-color:#dddddd;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu,.ast-desktop .main-header-menu.submenu-with-border .children{border-top-width:1px;border-right-width:1px;border-left-width:1px;border-bottom-width:1px;border-style:solid;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu .sub-menu,.ast-desktop .main-header-menu.submenu-with-border .children .children{top:-1px;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu a,.ast-desktop .main-header-menu.submenu-with-border .children a{border-bottom-width:1px;border-style:solid;border-color:#eaeaea;}@media (min-width:769px){.main-header-menu .sub-menu li.ast-left-align-sub-menu:hover > ul,.main-header-menu .sub-menu li.ast-left-align-sub-menu.focus > ul{margin-left:-2px;}}.ast-small-footer{border-top-style:solid;border-top-width:1px;border-top-color:rgba(122,122,122,0.13);}@media (max-width:920px){.ast-404-layout-1 .ast-404-text{font-size:100px;font-size:6.66666666667rem;}}
+.ast-header-break-point .site-header{border-bottom-width:1px;}@media (min-width:769px){.main-header-bar{border-bottom-width:1px;}}.ast-flex{-webkit-align-content:center;-ms-flex-line-pack:center;align-content:center;-webkit-box-align:center;-webkit-align-items:center;-moz-box-align:center;-ms-flex-align:center;align-items:center;}.main-header-bar{padding:1em 0;}.ast-site-identity{padding:0;}
+#masthead .ast-container{max-width:100%;padding-left:35px;padding-right:35px;}@media (max-width:921px){#masthead .ast-container{padding-left:20px;padding-right:20px;}}#masthead .ast-container{max-width:100%;padding-left:35px;padding-right:35px;}@media (max-width:921px){#masthead .ast-container{padding-left:20px;padding-right:20px;}}
+.ast-theme-transparent-header #masthead .site-logo-img .transparent-custom-logo .astra-logo-svg{width:140px;}.ast-theme-transparent-header #masthead .site-logo-img .transparent-custom-logo img{ max-width:140px;}@media (min-width:769px){.ast-theme-transparent-header #masthead{position:absolute;left:0;right:0;}.ast-theme-transparent-header .main-header-bar, .ast-theme-transparent-header.ast-header-break-point .main-header-bar{background:none;}body.elementor-editor-active.ast-theme-transparent-header #masthead, .fl-builder-edit .ast-theme-transparent-header #masthead, body.vc_editor.ast-theme-transparent-header #masthead{z-index:0;}.ast-header-break-point.ast-replace-site-logo-transparent.ast-theme-transparent-header .ast-mobile-header-logo{display:none;}.ast-header-break-point.ast-replace-site-logo-transparent.ast-theme-transparent-header .transparent-custom-logo .custom-logo{display:inline-block;}.ast-theme-transparent-header .ast-above-header{background-image:none;background-color:transparent;}.ast-theme-transparent-header .ast-below-header{background-image:none;background-color:transparent;}}.ast-theme-transparent-header .site-title a, .ast-theme-transparent-header .site-title a:focus, .ast-theme-transparent-header .site-title a:hover, .ast-theme-transparent-header .site-title a:visited{color:#ffffff;}.ast-theme-transparent-header .site-header .site-description{color:#ffffff;}.ast-theme-transparent-header .main-header-menu ul.sub-menu li a,.ast-theme-transparent-header .main-header-menu ul.sub-menu li > .ast-menu-toggle{color:#969696;}.ast-theme-transparent-header .main-header-menu ul.sub-menu a:hover,.ast-theme-transparent-header .main-header-menu ul.sub-menu li:hover > a, .ast-theme-transparent-header .main-header-menu ul.sub-menu li.focus > a,.ast-theme-transparent-header .main-header-menu ul.sub-menu li.current-menu-item > a, .ast-theme-transparent-header .main-header-menu ul.sub-menu li.current-menu-item > .ast-menu-toggle,.ast-theme-transparent-header .main-header-menu ul.sub-menu li:hover > .ast-menu-toggle, .ast-theme-transparent-header .main-header-menu ul.sub-menu li.focus > .ast-menu-toggle{color:#000000;}.ast-theme-transparent-header .main-header-menu, .ast-theme-transparent-header .main-header-menu a, .ast-theme-transparent-header .ast-masthead-custom-menu-items, .ast-theme-transparent-header .ast-masthead-custom-menu-items a,.ast-theme-transparent-header .main-header-menu li > .ast-menu-toggle, .ast-theme-transparent-header .main-header-menu li > .ast-menu-toggle{color:rgba(255,255,255,0.69);}.ast-theme-transparent-header .main-header-menu li:hover > a, .ast-theme-transparent-header .main-header-menu li:hover > .ast-menu-toggle, .ast-theme-transparent-header .main-header-menu .ast-masthead-custom-menu-items a:hover, .ast-theme-transparent-header .main-header-menu .focus > a, .ast-theme-transparent-header .main-header-menu .focus > .ast-menu-toggle, .ast-theme-transparent-header .main-header-menu .current-menu-item > a, .ast-theme-transparent-header .main-header-menu .current-menu-ancestor > a, .ast-theme-transparent-header .main-header-menu .current_page_item > a, .ast-theme-transparent-header .main-header-menu .current-menu-item > .ast-menu-toggle, .ast-theme-transparent-header .main-header-menu .current-menu-ancestor > .ast-menu-toggle, .ast-theme-transparent-header .main-header-menu .current_page_item > .ast-menu-toggle{color:#ffffff;}.ast-theme-transparent-header div.ast-masthead-custom-menu-items, .ast-theme-transparent-header div.ast-masthead-custom-menu-items .widget, .ast-theme-transparent-header div.ast-masthead-custom-menu-items .widget-title{color:#000000;}.ast-theme-transparent-header div.ast-masthead-custom-menu-items a, .ast-theme-transparent-header div.ast-masthead-custom-menu-items .widget a{color:#969696;}.ast-theme-transparent-header div.ast-masthead-custom-menu-items a:hover, .ast-theme-transparent-header div.ast-masthead-custom-menu-items .widget a:hover{color:#000000;}.ast-theme-transparent-header.ast-header-break-point .site-header {border-bottom-width:0;border-bottom-color:;}@media (max-width:768px){.ast-theme-transparent-header #masthead{position:absolute;left:0;right:0;}.ast-theme-transparent-header .main-header-bar, .ast-theme-transparent-header.ast-header-break-point .main-header-bar{background:none;}body.elementor-editor-active.ast-theme-transparent-header #masthead, .fl-builder-edit .ast-theme-transparent-header #masthead, body.vc_editor.ast-theme-transparent-header #masthead{z-index:0;}.ast-header-break-point.ast-replace-site-logo-transparent.ast-theme-transparent-header .ast-mobile-header-logo{display:none;}.ast-header-break-point.ast-replace-site-logo-transparent.ast-theme-transparent-header .transparent-custom-logo .custom-logo{display:inline-block;}.ast-theme-transparent-header .ast-above-header{background-image:none;background-color:transparent;}.ast-theme-transparent-header .ast-below-header{background-image:none;background-color:transparent;}}@media (max-width:768px){.ast-theme-transparent-header .main-header-bar, .ast-theme-transparent-header.ast-header-break-point .main-header-menu, .ast-theme-transparent-header.ast-header-break-point .main-header-bar{background-color:rgba(0,0,0,0.6);}.ast-theme-transparent-header .main-header-bar .ast-search-menu-icon form{background-color:rgba(0,0,0,0.6);}.ast-theme-transparent-header .ast-above-header, .ast-theme-transparent-header .ast-below-header{background-color:rgba(0,0,0,0.6);}.ast-theme-transparent-header .main-header-menu, .ast-theme-transparent-header.ast-header-break-point .main-header-menu{background-color:#ffffff;}.ast-theme-transparent-header .main-header-menu, .ast-theme-transparent-header .main-header-menu a, .ast-theme-transparent-header .ast-masthead-custom-menu-items, .ast-theme-transparent-header .ast-masthead-custom-menu-items a,.ast-theme-transparent-header .main-header-menu li > .ast-menu-toggle, .ast-theme-transparent-header .main-header-menu li > .ast-menu-toggle{color:#7c7c7c;}.ast-theme-transparent-header .main-header-menu li:hover > a, .ast-theme-transparent-header .main-header-menu li:hover > .ast-menu-toggle, .ast-theme-transparent-header .main-header-menu .ast-masthead-custom-menu-items a:hover, .ast-theme-transparent-header .main-header-menu .focus > a, .ast-theme-transparent-header .main-header-menu .focus > .ast-menu-toggle, .ast-theme-transparent-header .main-header-menu .current-menu-item > a, .ast-theme-transparent-header .main-header-menu .current-menu-ancestor > a, .ast-theme-transparent-header .main-header-menu .current_page_item > a, .ast-theme-transparent-header .main-header-menu .current-menu-item > .ast-menu-toggle, .ast-theme-transparent-header .main-header-menu .current-menu-ancestor > .ast-menu-toggle, .ast-theme-transparent-header .main-header-menu .current_page_item > .ast-menu-toggle{color:#000000;}}@media (min-width: 769px) {.ast-theme-transparent-header .main-header-bar {border-bottom-width:0;border-bottom-color:;}}
+</style>
+<link rel='stylesheet' id='astra-google-fonts-css'  href='//fonts.googleapis.com/css?family=Poppins%3A400%2C%2C700&#038;ver=1.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='astra-menu-animation-css'  href='https://selectpetsupplies.com/wp-content/themes/astra/assets/css/minified/menu-animation.min.css?ver=1.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://selectpetsupplies.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='https://selectpetsupplies.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=2.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='WooZoneLite-frontend-style-css'  href='https://selectpetsupplies.com/wp-content/plugins/woocommerce-amazon-affiliates-light-version/lib/frontend/css/frontend.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://selectpetsupplies.com/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-layout.min.css?ver=1.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://selectpetsupplies.com/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-smallscreen.min.css?ver=1.6.1' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://selectpetsupplies.com/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce.min.css?ver=1.6.1' type='text/css' media='all' />
+<style id='woocommerce-general-inline-css' type='text/css'>
+.woocommerce span.onsale{background-color:#434343;color:#ffffff;}.woocommerce a.button, .woocommerce button.button, .woocommerce .woocommerce-message a.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce input.button,.woocommerce input.button:disabled, .woocommerce input.button:disabled[disabled], .woocommerce input.button:disabled:hover, .woocommerce input.button:disabled[disabled]:hover, .woocommerce #respond input#submit, .woocommerce button.button.alt.disabled{color:#ffffff;border-color:#434343;background-color:#434343;}.woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce .woocommerce-message a.button:hover,.woocommerce #respond input#submit:hover,.woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce input.button:hover, .woocommerce button.button.alt.disabled:hover{color:#ffffff;border-color:#2d2d2d;background-color:#2d2d2d;}.woocommerce-message, .woocommerce-info{border-top-color:#434343;}.woocommerce-message::before,.woocommerce-info::before{color:#434343;}.woocommerce ul.products li.product .price, .woocommerce div.product p.price, .woocommerce div.product span.price, .widget_layered_nav_filters ul li.chosen a, .woocommerce-page ul.products li.product .ast-woo-product-category, .wc-layered-nav-rating a{color:#3a3a3a;}.woocommerce nav.woocommerce-pagination ul,.woocommerce nav.woocommerce-pagination ul li{border-color:#434343;}.woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current{background:#434343;color:#ffffff;}.woocommerce-MyAccount-navigation-link.is-active a{color:#602bb7;}.woocommerce .widget_price_filter .ui-slider .ui-slider-range, .woocommerce .widget_price_filter .ui-slider .ui-slider-handle{background-color:#434343;}.woocommerce a.button, .woocommerce button.button, .woocommerce .woocommerce-message a.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce input.button,.woocommerce-cart table.cart td.actions .button, .woocommerce form.checkout_coupon .button, .woocommerce #respond input#submit{border-radius:0;padding:10px 40px;}.woocommerce .star-rating, .woocommerce .comment-form-rating .stars a, .woocommerce .star-rating::before{color:#434343;}.woocommerce div.product .woocommerce-tabs ul.tabs li.active:before{background:#434343;}.ast-site-header-cart a{color:#3a3a3a;}.ast-site-header-cart a:focus, .ast-site-header-cart a:hover, .ast-site-header-cart .current-menu-item a{color:#434343;}.ast-cart-menu-wrap .count, .ast-cart-menu-wrap .count:after{border-color:#434343;color:#434343;}.ast-cart-menu-wrap:hover .count{color:#ffffff;background-color:#434343;}.ast-site-header-cart .widget_shopping_cart .total .woocommerce-Price-amount{color:#434343;}.woocommerce a.remove:hover, .ast-woocommerce-cart-menu .main-header-menu .woocommerce-custom-menu-item li:hover > a.remove:hover{color:#434343;border-color:#434343;background-color:#ffffff;}.ast-site-header-cart .widget_shopping_cart .buttons .button.checkout, .woocommerce .widget_shopping_cart .woocommerce-mini-cart__buttons .checkout.wc-forward{color:#ffffff;border-color:#2d2d2d;background-color:#2d2d2d;}.site-header .ast-site-header-cart-data .button.wc-forward, .site-header .ast-site-header-cart-data .button.wc-forward:hover{color:#ffffff;}.below-header-user-select .ast-site-header-cart .widget, .ast-above-header-section .ast-site-header-cart .widget a, .below-header-user-select .ast-site-header-cart .widget_shopping_cart a{color:#3a3a3a;}.below-header-user-select .ast-site-header-cart .widget_shopping_cart a:hover, .ast-above-header-section .ast-site-header-cart .widget_shopping_cart a:hover, .below-header-user-select .ast-site-header-cart .widget_shopping_cart a.remove:hover, .ast-above-header-section .ast-site-header-cart .widget_shopping_cart a.remove:hover{color:#434343;}@media (min-width:769px){.ast-woo-shop-archive .site-content > .ast-container{max-width:1240px;}}
+</style>
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='astra-addon-css-css'  href='https://selectpetsupplies.com/wp-content/plugins/astra-addon/addons/advanced-search/assets/css/minified/style.min.css?ver=2.1.1' type='text/css' media='all' />
+<style id='astra-addon-css-inline-css' type='text/css'>
+.ast-theme-transparent-header .ast-above-header-navigation li.current-menu-item > a,.ast-theme-transparent-header .ast-above-header-navigation li.current-menu-ancestor > a{color:#ffffff;}.ast-theme-transparent-header .ast-above-header-navigation li:hover > a{color:#ffffff;}.ast-theme-transparent-header .ast-above-header-navigation a{color:rgba(255,255,255,0.69);}.ast-theme-transparent-header .ast-above-header-menu .sub-menu li:hover > a, .ast-theme-transparent-header .ast-above-header-menu .sub-menu li:focus > a, .ast-theme-transparent-header .ast-above-header-menu .sub-menu li.focus > a,.ast-theme-transparent-header .ast-above-header-menu .sub-menu li:hover > .ast-menu-toggle, .ast-theme-transparent-header .ast-above-header-menu .sub-menu li:focus > .ast-menu-toggle, .ast-theme-transparent-header .ast-above-header-menu .sub-menu li.focus > .ast-menu-toggle{color:#000000;}.ast-theme-transparent-header .ast-above-header-menu .sub-menu li.current-menu-ancestor > .ast-menu-toggle, .ast-theme-transparent-header .ast-above-header-menu .sub-menu li.current-menu-item > .ast-menu-toggle, .ast-theme-transparent-header .ast-above-header-menu .sub-menu li.current-menu-ancestor:hover > .ast-menu-toggle, .ast-theme-transparent-header .ast-above-header-menu .sub-menu li.current-menu-ancestor:focus > .ast-menu-toggle, .ast-theme-transparent-header .ast-above-header-menu .sub-menu li.current-menu-ancestor.focus > .ast-menu-toggle, .ast-theme-transparent-header .ast-above-header-menu .sub-menu li.current-menu-item:hover > .ast-menu-toggle, .ast-theme-transparent-header .ast-above-header-menu .sub-menu li.current-menu-item:focus > .ast-menu-toggle, .ast-theme-transparent-header .ast-above-header-menu .sub-menu li.current-menu-item.focus > .ast-menu-toggle{color:#000000;}.ast-theme-transparent-header .ast-above-header-menu .sub-menu li.current-menu-ancestor > a, .ast-theme-transparent-header .ast-above-header-menu .sub-menu li.current-menu-item > a, .ast-theme-transparent-header .ast-above-header-menu .sub-menu li.current-menu-ancestor:hover > a, .ast-theme-transparent-header .ast-above-header-menu .sub-menu li.current-menu-ancestor:focus > a, .ast-theme-transparent-header .ast-above-header-menu .sub-menu li.current-menu-ancestor.focus > a, .ast-theme-transparent-header .ast-above-header-menu .sub-menu li.current-menu-item:hover > a, .ast-theme-transparent-header .ast-above-header-menu .sub-menu li.current-menu-item:focus > a, .ast-theme-transparent-header .ast-above-header-menu .sub-menu li.current-menu-item.focus > a{color:#000000;}.ast-theme-transparent-header .ast-above-header-menu .sub-menu, .ast-theme-transparent-header .ast-above-header-menu .sub-menu a{color:#969696;}.ast-theme-transparent-header .ast-above-header-section .user-select, .ast-theme-transparent-header .ast-above-header-section .widget, .ast-theme-transparent-header .ast-above-header-section .widget-title{color:#000000;}.ast-theme-transparent-header .ast-above-header-section .user-select a, .ast-theme-transparent-header .ast-above-header-section .widget a{color:#969696;}.ast-theme-transparent-header .ast-above-header-section .user-select a:hover, .ast-theme-transparent-header .ast-above-header-section .widget a:hover{color:#000000;}@media (max-width:768px){.ast-theme-transparent-header .ast-above-header-menu, .ast-theme-transparent-header.ast-header-break-point .ast-above-header-section-separated .ast-above-header-navigation ul.ast-above-header-menu, .ast-theme-transparent-header.ast-header-break-point .ast-below-header-section-separated .ast-below-header-actual-nav{background-color:#ffffff;}.ast-theme-transparent-header .ast-above-header .ast-search-menu-icon form{background-color:rgba(0,0,0,0.6);}.ast-theme-transparent-header .ast-above-header .slide-search .search-field{background-color:rgba(0,0,0,0.6);}.ast-theme-transparent-header .ast-above-header .slide-search .search-field:focus{background-color:rgba(0,0,0,0.6);}.ast-theme-transparent-header .ast-above-header-navigation li.current-menu-item > a,.ast-theme-transparent-header .ast-above-header-navigation li.current-menu-ancestor > a{color:#000000;}.ast-theme-transparent-header .ast-above-header-navigation li:hover > a{color:#000000;}.ast-theme-transparent-header .ast-above-header-navigation a{color:#7c7c7c;}}.ast-theme-transparent-header .ast-below-header-menu, .ast-theme-transparent-header .ast-below-header-menu a{color:rgba(255,255,255,0.69);}.ast-theme-transparent-header .ast-below-header-menu li:hover > a, .ast-theme-transparent-header .ast-below-header-menu li:focus > a, .ast-theme-transparent-header .ast-below-header-menu li.focus > a{color:#ffffff;}.ast-theme-transparent-header .ast-below-header-menu li.current-menu-ancestor > a, .ast-theme-transparent-header .ast-below-header-menu li.current-menu-item > a, .ast-theme-transparent-header .ast-below-header-menu li.current-menu-ancestor > .ast-menu-toggle, .ast-theme-transparent-header .ast-below-header-menu li.current-menu-item > .ast-menu-toggle, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-ancestor:hover > a, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-ancestor:focus > a, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-ancestor.focus > a, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-item:hover > a, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-item:focus > a, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-item.focus > a, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-ancestor:hover > .ast-menu-toggle, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-ancestor:focus > .ast-menu-toggle, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-ancestor.focus > .ast-menu-toggle, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-item:hover > .ast-menu-toggle, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-item:focus > .ast-menu-toggle, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-item.focus > .ast-menu-toggle{color:#ffffff;}.ast-theme-transparent-header .ast-below-header-menu .sub-menu li:hover > a, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li:focus > a, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.focus > a{color:#000000;}.ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-ancestor > a, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-item > a, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-ancestor:hover > a, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-ancestor:focus > a, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-ancestor.focus > a, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-item:hover > a, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-item:focus > a, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-item.focus > a{color:#000000;}.ast-theme-transparent-header .ast-below-header-menu .sub-menu, .ast-theme-transparent-header .ast-below-header-menu .sub-menu a{color:#969696;}.ast-theme-transparent-header .below-header-user-select, .ast-theme-transparent-header .below-header-user-select .widget,.ast-theme-transparent-header .below-header-user-select .widget-title{color:#000000;}.ast-theme-transparent-header .below-header-user-select a, .ast-theme-transparent-header .below-header-user-select .widget a{color:#969696;}.ast-theme-transparent-header .below-header-user-select a:hover, .ast-theme-transparent-header .below-header-user-select .widget a:hover{color:#000000;}@media (max-width:768px){.ast-theme-transparent-header.ast-no-toggle-below-menu-enable.ast-header-break-point .ast-below-header-navigation-wrap, .ast-theme-transparent-header .ast-below-header-actual-nav, .ast-theme-transparent-header.ast-header-break-point .ast-below-header-actual-nav{background-color:#ffffff;}.ast-theme-transparent-header .ast-below-header .ast-search-menu-icon form{background-color:rgba(0,0,0,0.6);}.ast-theme-transparent-header .ast-below-header .slide-search .search-field{background-color:rgba(0,0,0,0.6);}.ast-theme-transparent-header .ast-below-header .slide-search .search-field:focus{background-color:rgba(0,0,0,0.6);}.ast-theme-transparent-header .ast-below-header-menu, .ast-theme-transparent-header .ast-below-header-menu a{color:#7c7c7c;}.ast-theme-transparent-header .ast-below-header-menu li:hover > a, .ast-theme-transparent-header .ast-below-header-menu li:focus > a, .ast-theme-transparent-header .ast-below-header-menu li.focus > a{color:#000000;}.ast-theme-transparent-header .ast-below-header-menu li.current-menu-ancestor > a, .ast-theme-transparent-header .ast-below-header-menu li.current-menu-item > a, .ast-theme-transparent-header .ast-below-header-menu li.current-menu-ancestor > .ast-menu-toggle, .ast-theme-transparent-header .ast-below-header-menu li.current-menu-item > .ast-menu-toggle, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-ancestor:hover > a, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-ancestor:focus > a, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-ancestor.focus > a, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-item:hover > a, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-item:focus > a, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-item.focus > a, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-ancestor:hover > .ast-menu-toggle, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-ancestor:focus > .ast-menu-toggle, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-ancestor.focus > .ast-menu-toggle, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-item:hover > .ast-menu-toggle, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-item:focus > .ast-menu-toggle, .ast-theme-transparent-header .ast-below-header-menu .sub-menu li.current-menu-item.focus > .ast-menu-toggle{color:#000000;}}
+</style>
+<link rel='stylesheet' id='elementor-icons-css'  href='https://selectpetsupplies.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://selectpetsupplies.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://selectpetsupplies.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='https://selectpetsupplies.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=2.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='uael-frontend-css'  href='https://selectpetsupplies.com/wp-content/plugins/ultimate-elementor/assets/min-css/uael-frontend.min.css?ver=1.18.0' type='text/css' media='all' />
+<link rel='stylesheet' id='uael-woocommerce-css'  href='https://selectpetsupplies.com/wp-content/plugins/ultimate-elementor/assets/min-css/uael-woocommerce.min.css?ver=1.18.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://selectpetsupplies.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='https://selectpetsupplies.com/wp-content/uploads/elementor/css/global.css?ver=1570695428' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-1640-css'  href='https://selectpetsupplies.com/wp-content/uploads/elementor/css/post-1640.css?ver=1570789067' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Montserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.2.3' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uael_script = {"post_loader":"https:\/\/selectpetsupplies.com\/wp-content\/plugins\/ultimate-elementor\/assets\/img\/post-loader.gif","url":"https:\/\/selectpetsupplies.com\/wp-admin\/admin-ajax.php","search_str":"Search:","table_length_string":"Show _MENU_ Entries","uael_particles_url":"https:\/\/selectpetsupplies.com\/wp-content\/plugins\/ultimate-elementor\/assets\/min-js\/uael-particles.min.js","particles_url":"https:\/\/selectpetsupplies.com\/wp-content\/plugins\/ultimate-elementor\/assets\/lib\/particles\/particles.min.js"};
+var uael = {"ajax_url":"https:\/\/selectpetsupplies.com\/wp-admin\/admin-ajax.php","is_cart":"","is_single_product":"","view_cart":"View cart","cart_url":"https:\/\/selectpetsupplies.com\/cart\/"};
+var uaelRegistration = {"invalid_mail":"Enter valid Email!","pass_unmatch":"The specified password do not match!","required":"This Field is required!","form_nonce":"c2b9388579"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://selectpetsupplies.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://selectpetsupplies.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+window.scope_array = [];
+			window.backend = 0;
+			jQuery.cachedScript = function( url, options ) {
+				// Allow user to set any option except for dataType, cache, and url.
+				options = jQuery.extend( options || {}, {
+					dataType: "script",
+					cache: true,
+					url: url
+				});
+				// Return the jqXHR object so we can chain callbacks.
+				return jQuery.ajax( options );
+			};
+		    jQuery( window ).on( "elementor/frontend/init", function() {
+				elementorFrontend.hooks.addAction( "frontend/element_ready/global", function( $scope, $ ){
+					if ( "undefined" == typeof $scope ) {
+							return;
+					}
+					if ( $scope.hasClass( "uael-particle-yes" ) ) {
+						window.scope_array.push( $scope );
+						$scope.find(".uael-particle-wrapper").addClass("js-is-enabled");
+					}else{
+						return;
+					}
+					if(elementorFrontend.isEditMode() && $scope.find(".uael-particle-wrapper").hasClass("js-is-enabled") && window.backend == 0 ){		
+						var uael_url = uael_script.uael_particles_url;
+						
+						jQuery.cachedScript( uael_url );
+						window.backend = 1;
+					}else if(elementorFrontend.isEditMode()){
+						var uael_url = uael_script.uael_particles_url;
+						jQuery.cachedScript( uael_url ).done(function(){
+							var flag = true;
+						});
+					}
+				});
+			});
+			jQuery(document).ready(function(){
+				if ( jQuery.find( ".uael-particle-yes" ).length < 1 ) {
+					return;
+				}
+				var uael_url = uael_script.uael_particles_url;
+				jQuery.cachedScript = function( url, options ) {
+					// Allow user to set any option except for dataType, cache, and url.
+					options = jQuery.extend( options || {}, {
+						dataType: "script",
+						cache: true,
+						url: url
+					});
+					// Return the jqXHR object so we can chain callbacks.
+					return jQuery.ajax( options );
+				};
+				jQuery.cachedScript( uael_url );
+			});	
+</script>
+<!--[if IE]>
+<script type='text/javascript' src='https://selectpetsupplies.com/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=1.6.1'></script>
+<script type='text/javascript'>
+flexibility(document.documentElement);
+</script>
+<![endif]-->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"[]","home_url":"https:\/\/selectpetsupplies.com","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://selectpetsupplies.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.9.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woozone_vars = {"ajax_url":"https:\/\/selectpetsupplies.com\/wp-admin\/admin-ajax.php","checkout_url":"https:\/\/selectpetsupplies.com\/checkout\/","lang":{"loading":"Loading...","closing":"Closing...","saving":"Saving...","amzcart_checkout":"checkout done","amzcart_cancel":"canceled","amzcart_checkout_msg":"all good.","amzcart_cancel_msg":"You must check or cancel all amazon shops!","available_yes":"available","available_no":"not available","load_cross_sell_box":"Frequently Bought Together Loading..."}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://selectpetsupplies.com/wp-content/plugins/woocommerce-amazon-affiliates-light-version/lib/frontend/js/frontend.js?ver=5.2.3'></script>
+<link rel='https://api.w.org/' href='https://selectpetsupplies.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://selectpetsupplies.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://selectpetsupplies.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.3" />
+<meta name="generator" content="WooCommerce 3.7.1" />
+<link rel="canonical" href="https://selectpetsupplies.com/" />
+<link rel='shortlink' href='https://selectpetsupplies.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://selectpetsupplies.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fselectpetsupplies.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://selectpetsupplies.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fselectpetsupplies.com%2F&#038;format=xml" />
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<link rel="icon" href="https://selectpetsupplies.com/wp-content/uploads/2018/12/Select_Pet_Supplies_Logo_web-100x100.png" sizes="32x32" />
+<link rel="icon" href="https://selectpetsupplies.com/wp-content/uploads/2018/12/Select_Pet_Supplies_Logo_web-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://selectpetsupplies.com/wp-content/uploads/2018/12/Select_Pet_Supplies_Logo_web-300x300.png" />
+<meta name="msapplication-TileImage" content="https://selectpetsupplies.com/wp-content/uploads/2018/12/Select_Pet_Supplies_Logo_web-300x300.png" />
+		<style type="text/css" id="wp-custom-css">
+			.sidebar-main .count {
+     float: right;
+}
+ .sidebar-main ul li {
+     border-top: 1px dotted #ddd !important;
+}
+ .wpcf7 table, .wpcf7 table tr, .wpcf7 table tr td {
+     border: 0 
+}
+ 
+
+.woocommerce ul.products li.product .woocommerce-loop-product__title, .woocommerce-page ul.products li.product .woocommerce-loop-product__title {
+    margin-bottom: .5em;
+    padding: 0;
+    font-size: 14px;
+}
+
+.ast-cart-menu-wrap .count, .ast-cart-menu-wrap .count:after {
+    border-color: #ededed;
+    color: #eee !important;
+	background:#000;
+}
+.ast-cart-menu-wrap:hover .count {
+    color: #ffffff;
+    background-color: #000;
+}		</style>
+		</head>
+
+<body itemtype='https://schema.org/WebPage' itemscope='itemscope' class="home page-template-default page page-id-1640 wp-custom-logo theme-astra woocommerce-no-js ast-desktop ast-page-builder-template ast-no-sidebar astra-1.6.1 ast-header-custom-item-outside ast-single-post ast-woocommerce-cart-menu ast-replace-site-logo-transparent ast-inherit-site-logo-transparent elementor-default elementor-page elementor-page-1640 astra-addon-2.1.1">
+
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	
+	
+		<header itemtype="https://schema.org/WPHeader" itemscope="itemscope" id="masthead" class="site-header ast-primary-submenu-animation-slide-up header-main-layout-1 ast-primary-menu-enabled ast-menu-toggle-icon ast-mobile-header-inline" role="banner">
+
+			
+			
+<div class="main-header-bar-wrap">
+	<div class="main-header-bar">
+				<div class="ast-container">
+
+			<div class="ast-flex main-header-container">
+				
+		<div class="site-branding">
+			<div class="ast-site-identity" itemscope="itemscope" itemtype="https://schema.org/Organization">
+				<span class="site-logo-img"><a href="https://selectpetsupplies.com/" class="custom-logo-link" rel="home"><img width="98" height="88" src="https://selectpetsupplies.com/wp-content/uploads/2018/12/cropped-Select_Pet_Supplies_Logo_web-98x88.png" class="custom-logo" alt="Select Pet Supplies" srcset="" sizes="(max-width: 98px) 100vw, 98px" /></a></span>			</div>
+		</div>
+
+		<!-- .site-branding -->
+				<div class="ast-mobile-menu-buttons">
+
+			
+					<div class="ast-button-wrap">
+			<button type="button" class="menu-toggle main-header-menu-toggle  ast-mobile-menu-buttons-fill " rel="main-menu" aria-controls='primary-menu' aria-expanded='false'>
+				<span class="screen-reader-text">Main Menu</span>
+				<span class="menu-toggle-icon"></span>
+							</button>
+		</div>
+			
+			
+		</div>
+			<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope" id="site-navigation" class="ast-flex-grow-1" role="navigation" aria-label="Site Navigation"><div class="main-navigation"><ul id="primary-menu" class="main-header-menu ast-nav-menu ast-flex ast-justify-content-flex-end  submenu-with-border astra-menu-animation-slide-up "><li id="menu-item-3034" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3034"><a href="https://selectpetsupplies.com/product-category/dog-trackers-with-gps/">Dog Trackers with GPS</a></li>
+<li id="menu-item-3352" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3352"><a href="https://selectpetsupplies.com/product-category/invisible-fences/">Invisible Fences</a></li>
+<li id="menu-item-3417" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3417"><a href="https://selectpetsupplies.com/product-category/wireless-fences/">Wireless Fences</a></li>
+<li id="menu-item-3418" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3418"><a href="https://selectpetsupplies.com/product-category/dog-pens/">Dog Pens</a></li>
+<li id="menu-item-2075" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-2075"><a href="https://selectpetsupplies.com/product-category/dog-collars/">Dog Collars and Harnesses</a>
+<ul class="sub-menu">
+	<li id="menu-item-2320" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2320"><a href="https://selectpetsupplies.com/product-category/dog-collars/everyday-collars/">Dog collars</a></li>
+	<li id="menu-item-2509" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2509"><a href="https://selectpetsupplies.com/product-category/dog-collars/shock-collars/">Dog Shock Collars</a></li>
+	<li id="menu-item-2912" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2912"><a href="https://selectpetsupplies.com/product-category/dog-collars/training-collars/">Dog Training Collars</a></li>
+	<li id="menu-item-2944" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2944"><a href="https://selectpetsupplies.com/product-category/dog-collars/no-pull-harness/">No Pull Harness</a></li>
+</ul>
+</li>
+<li id="menu-item-2077" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-2077"><a href="https://selectpetsupplies.com/product-category/dog-grooming/">Dog Care</a>
+<ul class="sub-menu">
+	<li id="menu-item-2916" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2916"><a href="https://selectpetsupplies.com/product-category/dog-grooming/dog-shampoo/">Dog Shampoo</a></li>
+	<li id="menu-item-2510" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2510"><a href="https://selectpetsupplies.com/product-category/dog-grooming/dog-nail-clippers/">Dog Nail Clippers</a></li>
+	<li id="menu-item-2917" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2917"><a href="https://selectpetsupplies.com/product-category/dog-health-care/clippers/">Dog Clippers</a></li>
+	<li id="menu-item-2918" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2918"><a href="https://selectpetsupplies.com/product-category/dog-health-care/dog-dewormer/">Dog Dewormer</a></li>
+	<li id="menu-item-2919" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2919"><a href="https://selectpetsupplies.com/product-category/dog-health-care/dog-toothpaste/">Dog Toothpaste</a></li>
+	<li id="menu-item-2920" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2920"><a href="https://selectpetsupplies.com/product-category/dog-health-care/ear-cleaner/">Dog Ear cleaner</a></li>
+</ul>
+</li>
+<li id="menu-item-2366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2366"><a href="https://selectpetsupplies.com/reviews/">Blog and Reviews</a></li>
+<li id="menu-item-2079" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2079"><a href="https://selectpetsupplies.com/contact-us-2/">Contact Us</a></li>
+</ul></div></nav></div></div>			<div class="ast-masthead-custom-menu-items woocommerce-custom-menu-item">
+							<div id="ast-site-header-cart" class="ast-site-header-cart ast-menu-cart-with-border">
+				<div class="ast-site-header-cart-li ">
+								<a class="cart-container" href="https://selectpetsupplies.com/cart/" title="View your shopping cart">
+
+													<div class="ast-cart-menu-wrap">
+								<span class="count"> 
+									0								</span>
+							</div>
+										</a>
+							</div>
+				<div class="ast-site-header-cart-data">
+					<div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div>				</div>
+			</div>
+						</div>
+						</div><!-- Main Header Container -->
+		</div><!-- ast-row -->
+			</div> <!-- Main Header Bar -->
+</div> <!-- Main Header Bar Wrap -->
+
+			
+		</header><!-- #masthead -->
+		
+	
+	
+	<div id="content" class="site-content">
+
+		<div class="ast-container">
+
+		
+
+	<div id="primary" class="content-area primary">
+
+		
+					<main id="main" class="site-main" role="main">
+
+				
+					
+					
+
+<article itemtype="https://schema.org/CreativeWork" itemscope="itemscope" id="post-1640" class="post-1640 page type-page status-publish ast-article-single">
+
+	
+	<header class="entry-header ast-header-without-markup">
+
+		
+			</header><!-- .entry-header -->
+
+	<div class="entry-content clear" itemprop="text">
+
+		
+				<div data-elementor-type="wp-post" data-elementor-id="1640" class="elementor elementor-1640" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-bddcf58 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-invisible elementor-section elementor-top-section" data-id="bddcf58" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeIn&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-3bb6c7a elementor-column elementor-col-100 elementor-top-column" data-id="3bb6c7a" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section class="elementor-element elementor-element-446cc97 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible elementor-section elementor-inner-section" data-id="446cc97" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_delay&quot;:800}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-a72c2f6 elementor-column elementor-col-50 elementor-inner-column" data-id="a72c2f6" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-c62809d elementor-widget elementor-widget-heading" data-id="c62809d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-xxl">keep your <br>pets<br>safe &amp; secure</h1>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-6d326c8 elementor-column elementor-col-50 elementor-inner-column" data-id="6d326c8" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<div class="elementor-element elementor-element-7c467a5 elementor-widget elementor-widget-spacer" data-id="7c467a5" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-67b8156 elementor-button-info elementor-align-center elementor-widget elementor-widget-button" data-id="67b8156" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-xl" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">SEE OUR OFFERS</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-f9f5926 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="f9f5926" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-8fde759 elementor-column elementor-col-100 elementor-top-column" data-id="8fde759" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-c59e176 elementor-widget elementor-widget-spacer" data-id="c59e176" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-558a0ca elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="558a0ca" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-9b12d11 elementor-column elementor-col-100 elementor-top-column" data-id="9b12d11" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-fa187e6 elementor-widget elementor-widget-heading" data-id="fa187e6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Products</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-9458b81 elementor-products-columns-4 elementor-products-grid elementor-wc-products elementor-widget elementor-widget-woocommerce-products" data-id="9458b81" data-element_type="widget" data-widget_type="woocommerce-products.default">
+				<div class="elementor-widget-container">
+			<div class="woocommerce columns-4 "><ul class="products columns-4">
+<li class="ast-article-single product type-product post-3493 status-publish first instock product_cat-dog-pens has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<div class="astra-shop-thumbnail-wrap"><a href="https://selectpetsupplies.com/product/pawhut-heavy-duty-dog-pet-puppy-metal-playpen-play-pen-rabbit-pig-hutch-run-enclosure-foldable-black-small-80-x-60-cm/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://images-na.ssl-images-amazon.com/images/I/51BKCI5y16L._SS300_.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" srcset="https://images-na.ssl-images-amazon.com/images/I/51BKCI5y16L._SS300_.jpg 300w, https://images-na.ssl-images-amazon.com/images/I/51BKCI5y16L._SS150_.jpg 150w, https://images-na.ssl-images-amazon.com/images/I/51BKCI5y16L._SS768_.jpg 768w, https://images-na.ssl-images-amazon.com/images/I/51BKCI5y16L._SS1024_.jpg 1024w, https://images-na.ssl-images-amazon.com/images/I/51BKCI5y16L._SS600_.jpg 600w, https://images-na.ssl-images-amazon.com/images/I/51BKCI5y16L._SS100_.jpg 100w, https://images-na.ssl-images-amazon.com/images/I/51BKCI5y16L.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /><img width="300" height="300" src="https://images-na.ssl-images-amazon.com/images/I/51BKCI5y16L._SS300_.jpg" class="show-on-hover" alt="" srcset="https://images-na.ssl-images-amazon.com/images/I/51BKCI5y16L._SS300_.jpg 300w, https://images-na.ssl-images-amazon.com/images/I/51BKCI5y16L._SS150_.jpg 150w, https://images-na.ssl-images-amazon.com/images/I/51BKCI5y16L._SS768_.jpg 768w, https://images-na.ssl-images-amazon.com/images/I/51BKCI5y16L._SS1024_.jpg 1024w, https://images-na.ssl-images-amazon.com/images/I/51BKCI5y16L._SS600_.jpg 600w, https://images-na.ssl-images-amazon.com/images/I/51BKCI5y16L._SS100_.jpg 100w, https://images-na.ssl-images-amazon.com/images/I/51BKCI5y16L.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://selectpetsupplies.com/product/pawhut-heavy-duty-dog-pet-puppy-metal-playpen-play-pen-rabbit-pig-hutch-run-enclosure-foldable-black-small-80-x-60-cm/" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">PawHut Heavy Duty Dog Pet Puppy Metal Playpen Play Pen Rabbit Pig Hutch Run Enclosure Foldable, Black, Small, 80 x 60 cm</h2></a>			<span class="ast-woo-product-category">
+				Dog Pens			</span> 
+			
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>48.99</span></span>
+<div class="star-rating"><span style="width:0%">Rated <strong class="rating">0</strong> out of 5</span></div></div></li>
+<li class="ast-article-single product type-product post-3488 status-publish instock product_cat-dog-pens has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<div class="astra-shop-thumbnail-wrap"><a href="https://selectpetsupplies.com/product/avc-designs-pet-dog-pen-puppy-cat-rabbit-foldable-playpen-indoor-outdoor-enclosure-run-cage-large-height-91cm/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://images-na.ssl-images-amazon.com/images/I/6136bcp3JDL._SS300_.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" srcset="https://images-na.ssl-images-amazon.com/images/I/6136bcp3JDL._SS300_.jpg 300w, https://images-na.ssl-images-amazon.com/images/I/6136bcp3JDL._SS150_.jpg 150w, https://images-na.ssl-images-amazon.com/images/I/6136bcp3JDL._SS768_.jpg 768w, https://images-na.ssl-images-amazon.com/images/I/6136bcp3JDL._SS1024_.jpg 1024w, https://images-na.ssl-images-amazon.com/images/I/6136bcp3JDL._SS600_.jpg 600w, https://images-na.ssl-images-amazon.com/images/I/6136bcp3JDL._SS100_.jpg 100w, https://images-na.ssl-images-amazon.com/images/I/6136bcp3JDL.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /><img width="300" height="300" src="https://images-na.ssl-images-amazon.com/images/I/6136bcp3JDL._SS300_.jpg" class="show-on-hover" alt="" srcset="https://images-na.ssl-images-amazon.com/images/I/6136bcp3JDL._SS300_.jpg 300w, https://images-na.ssl-images-amazon.com/images/I/6136bcp3JDL._SS150_.jpg 150w, https://images-na.ssl-images-amazon.com/images/I/6136bcp3JDL._SS768_.jpg 768w, https://images-na.ssl-images-amazon.com/images/I/6136bcp3JDL._SS1024_.jpg 1024w, https://images-na.ssl-images-amazon.com/images/I/6136bcp3JDL._SS600_.jpg 600w, https://images-na.ssl-images-amazon.com/images/I/6136bcp3JDL._SS100_.jpg 100w, https://images-na.ssl-images-amazon.com/images/I/6136bcp3JDL.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://selectpetsupplies.com/product/avc-designs-pet-dog-pen-puppy-cat-rabbit-foldable-playpen-indoor-outdoor-enclosure-run-cage-large-height-91cm/" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">AVC Designs Pet Dog Pen Puppy Cat Rabbit Foldable Playpen Indoor/Outdoor Enclosure Run Cage (Large: Height 91cm)</h2></a>			<span class="ast-woo-product-category">
+				Dog Pens			</span> 
+			
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>28.95</span></span>
+<div class="star-rating"><span style="width:0%">Rated <strong class="rating">0</strong> out of 5</span></div></div></li>
+<li class="ast-article-single product type-product post-3469 status-publish instock product_cat-dog-pens has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<div class="astra-shop-thumbnail-wrap"><a href="https://selectpetsupplies.com/product/aleko-dk24x32-heavy-duty-pet-playpen-dog-kennel-pen-exercise-cage-fence-8-panel-24-x-32-inches-black/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://images-na.ssl-images-amazon.com/images/I/51HAfIo94XL._SS300_.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" srcset="https://images-na.ssl-images-amazon.com/images/I/51HAfIo94XL._SS300_.jpg 300w, https://images-na.ssl-images-amazon.com/images/I/51HAfIo94XL._SS150_.jpg 150w, https://images-na.ssl-images-amazon.com/images/I/51HAfIo94XL._SS768_.jpg 768w, https://images-na.ssl-images-amazon.com/images/I/51HAfIo94XL._SS1024_.jpg 1024w, https://images-na.ssl-images-amazon.com/images/I/51HAfIo94XL._SS600_.jpg 600w, https://images-na.ssl-images-amazon.com/images/I/51HAfIo94XL._SS100_.jpg 100w, https://images-na.ssl-images-amazon.com/images/I/51HAfIo94XL.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /><img width="300" height="300" src="https://images-na.ssl-images-amazon.com/images/I/51HAfIo94XL._SS300_.jpg" class="show-on-hover" alt="" srcset="https://images-na.ssl-images-amazon.com/images/I/51HAfIo94XL._SS300_.jpg 300w, https://images-na.ssl-images-amazon.com/images/I/51HAfIo94XL._SS150_.jpg 150w, https://images-na.ssl-images-amazon.com/images/I/51HAfIo94XL._SS768_.jpg 768w, https://images-na.ssl-images-amazon.com/images/I/51HAfIo94XL._SS1024_.jpg 1024w, https://images-na.ssl-images-amazon.com/images/I/51HAfIo94XL._SS600_.jpg 600w, https://images-na.ssl-images-amazon.com/images/I/51HAfIo94XL._SS100_.jpg 100w, https://images-na.ssl-images-amazon.com/images/I/51HAfIo94XL.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://selectpetsupplies.com/product/aleko-dk24x32-heavy-duty-pet-playpen-dog-kennel-pen-exercise-cage-fence-8-panel-24-x-32-inches-black/" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">ALEKO DK24X32 Heavy Duty Pet Playpen Dog Kennel Pen Exercise Cage Fence 8 Panel 24 x 32 Inches Black</h2></a>			<span class="ast-woo-product-category">
+				Dog Pens			</span> 
+			
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>94.99</span></span>
+<div class="star-rating"><span style="width:0%">Rated <strong class="rating">0</strong> out of 5</span></div></div></li>
+<li class="ast-article-single product type-product post-3464 status-publish last instock product_cat-dog-pens has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<div class="astra-shop-thumbnail-wrap"><a href="https://selectpetsupplies.com/product/purr-fect-fence-purrfect-play-tent/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://images-na.ssl-images-amazon.com/images/I/41jYwXLlYEL._SS300_.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" srcset="https://images-na.ssl-images-amazon.com/images/I/41jYwXLlYEL._SS300_.jpg 300w, https://images-na.ssl-images-amazon.com/images/I/41jYwXLlYEL._SS150_.jpg 150w, https://images-na.ssl-images-amazon.com/images/I/41jYwXLlYEL._SS768_.jpg 768w, https://images-na.ssl-images-amazon.com/images/I/41jYwXLlYEL._SS1024_.jpg 1024w, https://images-na.ssl-images-amazon.com/images/I/41jYwXLlYEL._SS600_.jpg 600w, https://images-na.ssl-images-amazon.com/images/I/41jYwXLlYEL._SS100_.jpg 100w, https://images-na.ssl-images-amazon.com/images/I/41jYwXLlYEL.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /><img width="300" height="300" src="https://images-na.ssl-images-amazon.com/images/I/41jYwXLlYEL._SS300_.jpg" class="show-on-hover" alt="" srcset="https://images-na.ssl-images-amazon.com/images/I/41jYwXLlYEL._SS300_.jpg 300w, https://images-na.ssl-images-amazon.com/images/I/41jYwXLlYEL._SS150_.jpg 150w, https://images-na.ssl-images-amazon.com/images/I/41jYwXLlYEL._SS768_.jpg 768w, https://images-na.ssl-images-amazon.com/images/I/41jYwXLlYEL._SS1024_.jpg 1024w, https://images-na.ssl-images-amazon.com/images/I/41jYwXLlYEL._SS600_.jpg 600w, https://images-na.ssl-images-amazon.com/images/I/41jYwXLlYEL._SS100_.jpg 100w, https://images-na.ssl-images-amazon.com/images/I/41jYwXLlYEL.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div class="astra-shop-summary-wrap"><a href="https://selectpetsupplies.com/product/purr-fect-fence-purrfect-play-tent/" class="ast-loop-product__link"><h2 class="woocommerce-loop-product__title">PURR&#8230;FECT FENCE Purrfect Play Tent</h2></a>			<span class="ast-woo-product-category">
+				Dog Pens			</span> 
+			
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>99.95</span></span>
+<div class="star-rating"><span style="width:0%">Rated <strong class="rating">0</strong> out of 5</span></div></div></li>
+</ul>
+</div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-cf94c5e elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="cf94c5e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-920054c elementor-column elementor-col-33 elementor-top-column" data-id="920054c" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-7661c05 elementor-widget elementor-widget-shortcode" data-id="7661c05" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode">
+
+<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=12&l=ur1&category=pets&banner=1AJM1MA6X0QWZBSEHER2&f=ifr&linkID=8844f12cfd8d8c45a95bc8e7263400e6&t=selectpets-20&tracking_id=selectpets-20" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-a9342b2 elementor-column elementor-col-66 elementor-top-column" data-id="a9342b2" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-4479b72 elementor--h-position-center elementor--v-position-middle elementor-arrows-position-inside elementor-pagination-position-inside elementor-widget elementor-widget-slides" data-id="4479b72" data-element_type="widget" data-settings="{&quot;navigation&quot;:&quot;both&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;transition&quot;:&quot;slide&quot;,&quot;transition_speed&quot;:500}" data-widget_type="slides.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-swiper">
+			<div class="elementor-slides-wrapper elementor-main-swiper swiper-container" dir="ltr" data-animation="fadeInUp">
+				<div class="swiper-wrapper elementor-slides">
+					<div class="elementor-repeater-item-86fadc4 swiper-slide"><div class="swiper-slide-bg"></div><a class="swiper-slide-inner" href="https://selectpetsupplies.com/review-best-dog-shampoos-itchy-skin/"><div class="swiper-slide-contents"><div class="elementor-slide-heading">Best Dog Shampoos for Itchy Skin</div><div  class="elementor-button elementor-slide-button elementor-size-sm">READ MORE</div></div></a></div>				</div>
+							</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-fb90f6b elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="fb90f6b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-e8c8b62 elementor-column elementor-col-100 elementor-top-column" data-id="e8c8b62" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-84427f2 elementor-widget elementor-widget-spacer" data-id="84427f2" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-aa42126 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="aa42126" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-c606a81 elementor-column elementor-col-100 elementor-top-column" data-id="c606a81" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-ed43530 elementor-widget elementor-widget-heading" data-id="ed43530" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Blog &amp;Reviews</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-1168233 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="1168233" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-93267b6 elementor-column elementor-col-100 elementor-top-column" data-id="93267b6" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-5acaf1b elementor-grid-3 elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-posts--thumbnail-top elementor-card-shadow-yes elementor-posts__hover-gradient elementor-widget elementor-widget-posts" data-id="5acaf1b" data-element_type="widget" data-settings="{&quot;cards_masonry&quot;:&quot;yes&quot;,&quot;cards_columns&quot;:&quot;3&quot;,&quot;cards_columns_tablet&quot;:&quot;2&quot;,&quot;cards_columns_mobile&quot;:&quot;1&quot;,&quot;cards_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]}}" data-widget_type="posts.cards">
+				<div class="elementor-widget-container">
+					<div class="elementor-posts-container elementor-posts elementor-posts--skin-cards elementor-grid">
+				<article class="elementor-post elementor-grid-item post-3201 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+			<div class="elementor-post__card">
+				<a class="elementor-post__thumbnail__link" href="https://selectpetsupplies.com/best-dog-ear-cleaner/">
+			<div class="elementor-post__thumbnail"><img width="300" height="200" src="https://selectpetsupplies.com/wp-content/uploads/2019/01/german-shepherd-3404340_1920-1-300x200.jpg" class="attachment-medium size-medium" alt="Best Dog Ear Cleaners" srcset="https://selectpetsupplies.com/wp-content/uploads/2019/01/german-shepherd-3404340_1920-1-300x200.jpg 300w, https://selectpetsupplies.com/wp-content/uploads/2019/01/german-shepherd-3404340_1920-1-768x512.jpg 768w, https://selectpetsupplies.com/wp-content/uploads/2019/01/german-shepherd-3404340_1920-1-1024x683.jpg 1024w, https://selectpetsupplies.com/wp-content/uploads/2019/01/german-shepherd-3404340_1920-1-600x400.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+		</a>
+				<div class="elementor-post__badge">Uncategorized</div>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://selectpetsupplies.com/best-dog-ear-cleaner/">
+				Best Dog Ear Cleaner			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>Canine grooming is an elaborate exercise!! There are many facets of canine grooming and one</p>
+		</div>
+					<a class="elementor-post__read-more" href="https://selectpetsupplies.com/best-dog-ear-cleaner/">
+				Read More »			</a>
+				</div>
+				<div class="elementor-post__meta-data">
+					<span class="elementor-post-date">
+			January 28, 2019		</span>
+				<span class="elementor-post-avatar">
+			No Comments		</span>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-2323 post type-post status-publish format-standard has-post-thumbnail hentry category-collars">
+			<div class="elementor-post__card">
+				<a class="elementor-post__thumbnail__link" href="https://selectpetsupplies.com/how-to-find-the-best-dog-shock-collar-for-under/">
+			<div class="elementor-post__thumbnail"><img width="300" height="169" src="https://selectpetsupplies.com/wp-content/uploads/2018/11/Best-Dog-Collars-4-300x169.jpg" class="attachment-medium size-medium" alt="Best Dog Shock Collars 4" srcset="https://selectpetsupplies.com/wp-content/uploads/2018/11/Best-Dog-Collars-4-300x169.jpg 300w, https://selectpetsupplies.com/wp-content/uploads/2018/11/Best-Dog-Collars-4-600x337.jpg 600w, https://selectpetsupplies.com/wp-content/uploads/2018/11/Best-Dog-Collars-4-767x431.jpg 767w, https://selectpetsupplies.com/wp-content/uploads/2018/11/Best-Dog-Collars-4-1024x575.jpg 1024w, https://selectpetsupplies.com/wp-content/uploads/2018/11/Best-Dog-Collars-4-788x442.jpg 788w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+		</a>
+				<div class="elementor-post__badge">Collars</div>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://selectpetsupplies.com/how-to-find-the-best-dog-shock-collar-for-under/">
+				How to find the best dog shock collar for under $100			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>The name itself might seem disturbing to owners so what are dog shock collars all</p>
+		</div>
+					<a class="elementor-post__read-more" href="https://selectpetsupplies.com/how-to-find-the-best-dog-shock-collar-for-under/">
+				Read More »			</a>
+				</div>
+				<div class="elementor-post__meta-data">
+					<span class="elementor-post-date">
+			December 24, 2018		</span>
+				<span class="elementor-post-avatar">
+			No Comments		</span>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-1829 post type-post status-publish format-standard has-post-thumbnail hentry category-collars">
+			<div class="elementor-post__card">
+				<a class="elementor-post__thumbnail__link" href="https://selectpetsupplies.com/the-ultimate-guide-to-the-best-dog-collars/">
+			<div class="elementor-post__thumbnail"><img width="300" height="200" src="https://selectpetsupplies.com/wp-content/uploads/2018/11/Best-Dog-Collars-5-300x200.jpg" class="attachment-medium size-medium" alt="Best Dog Collar" srcset="https://selectpetsupplies.com/wp-content/uploads/2018/11/Best-Dog-Collars-5-300x200.jpg 300w, https://selectpetsupplies.com/wp-content/uploads/2018/11/Best-Dog-Collars-5-600x400.jpg 600w, https://selectpetsupplies.com/wp-content/uploads/2018/11/Best-Dog-Collars-5-768x512.jpg 768w, https://selectpetsupplies.com/wp-content/uploads/2018/11/Best-Dog-Collars-5-1024x683.jpg 1024w, https://selectpetsupplies.com/wp-content/uploads/2018/11/Best-Dog-Collars-5-788x525.jpg 788w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+		</a>
+				<div class="elementor-post__badge">Collars</div>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://selectpetsupplies.com/the-ultimate-guide-to-the-best-dog-collars/">
+				The Ultimate Guide to the best dog collars			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>How to choose the best collar for your dog and our top picks! Every dog</p>
+		</div>
+					<a class="elementor-post__read-more" href="https://selectpetsupplies.com/the-ultimate-guide-to-the-best-dog-collars/">
+				Read More »			</a>
+				</div>
+				<div class="elementor-post__meta-data">
+					<span class="elementor-post-date">
+			December 22, 2018		</span>
+				<span class="elementor-post-avatar">
+			No Comments		</span>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-1579 post type-post status-publish format-standard has-post-thumbnail hentry category-collars tag-best-dog-collars tag-dog-collars">
+			<div class="elementor-post__card">
+				<a class="elementor-post__thumbnail__link" href="https://selectpetsupplies.com/best-dog-collar/">
+			<div class="elementor-post__thumbnail"><img width="300" height="208" src="https://selectpetsupplies.com/wp-content/uploads/2019/01/rhodesian-ridgeback-2729375_1920-300x208.jpg" class="attachment-medium size-medium" alt="" srcset="https://selectpetsupplies.com/wp-content/uploads/2019/01/rhodesian-ridgeback-2729375_1920-300x208.jpg 300w, https://selectpetsupplies.com/wp-content/uploads/2019/01/rhodesian-ridgeback-2729375_1920-768x532.jpg 768w, https://selectpetsupplies.com/wp-content/uploads/2019/01/rhodesian-ridgeback-2729375_1920-1024x710.jpg 1024w, https://selectpetsupplies.com/wp-content/uploads/2019/01/rhodesian-ridgeback-2729375_1920-600x416.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+		</a>
+				<div class="elementor-post__badge">Collars</div>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://selectpetsupplies.com/best-dog-collar/">
+				Best Dog Training Collars			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>All dogs occasionally act up, but sometimes persistant bad or irritating behaviour needs a little</p>
+		</div>
+					<a class="elementor-post__read-more" href="https://selectpetsupplies.com/best-dog-collar/">
+				Read More »			</a>
+				</div>
+				<div class="elementor-post__meta-data">
+					<span class="elementor-post-date">
+			November 25, 2018		</span>
+				<span class="elementor-post-avatar">
+			No Comments		</span>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-1540 post type-post status-publish format-standard has-post-thumbnail hentry category-safety">
+			<div class="elementor-post__card">
+				<a class="elementor-post__thumbnail__link" href="https://selectpetsupplies.com/best-dog-tracker-system-with-gps-review-2018/">
+			<div class="elementor-post__thumbnail"><img width="300" height="127" src="https://selectpetsupplies.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-06-at-11.07.04-300x127.png" class="attachment-medium size-medium" alt="The best Dog Trackers GPS" srcset="https://selectpetsupplies.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-06-at-11.07.04-300x127.png 300w, https://selectpetsupplies.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-06-at-11.07.04-600x254.png 600w, https://selectpetsupplies.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-06-at-11.07.04-766x324.png 766w, https://selectpetsupplies.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-06-at-11.07.04-1024x433.png 1024w, https://selectpetsupplies.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-06-at-11.07.04-788x333.png 788w, https://selectpetsupplies.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-06-at-11.07.04.png 780w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+		</a>
+				<div class="elementor-post__badge">Safety</div>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://selectpetsupplies.com/best-dog-tracker-system-with-gps-review-2018/">
+				Best Dog GPS Tracker 2019			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>Losing your dog has to be one of the worst feelings ever. Even the most</p>
+		</div>
+					<a class="elementor-post__read-more" href="https://selectpetsupplies.com/best-dog-tracker-system-with-gps-review-2018/">
+				Read More »			</a>
+				</div>
+				<div class="elementor-post__meta-data">
+					<span class="elementor-post-date">
+			November 11, 2018		</span>
+				<span class="elementor-post-avatar">
+			No Comments		</span>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-1541 post type-post status-publish format-standard has-post-thumbnail hentry category-grooming tag-dog-grooming tag-dog-nails">
+			<div class="elementor-post__card">
+				<a class="elementor-post__thumbnail__link" href="https://selectpetsupplies.com/cutting-dogs-nails/">
+			<div class="elementor-post__thumbnail"><img width="300" height="127" src="https://selectpetsupplies.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-11-at-12.21.47-300x127.png" class="attachment-medium size-medium" alt="Cutting Dogs Nails" srcset="https://selectpetsupplies.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-11-at-12.21.47-300x127.png 300w, https://selectpetsupplies.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-11-at-12.21.47-600x254.png 600w, https://selectpetsupplies.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-11-at-12.21.47-766x324.png 766w, https://selectpetsupplies.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-11-at-12.21.47-1024x433.png 1024w, https://selectpetsupplies.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-11-at-12.21.47-788x333.png 788w, https://selectpetsupplies.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-11-at-12.21.47.png 1560w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+		</a>
+				<div class="elementor-post__badge">Grooming</div>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://selectpetsupplies.com/cutting-dogs-nails/">
+				The Ultimate Guide to Cutting Dogs Nails			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>Cutting your dog&#8217;s nails is tricky business for both us and them. The first time</p>
+		</div>
+					<a class="elementor-post__read-more" href="https://selectpetsupplies.com/cutting-dogs-nails/">
+				Read More »			</a>
+				</div>
+				<div class="elementor-post__meta-data">
+					<span class="elementor-post-date">
+			November 11, 2018		</span>
+				<span class="elementor-post-avatar">
+			No Comments		</span>
+				</div>
+					</div>
+		</article>
+				</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-c0f789b elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="c0f789b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-7761360 elementor-column elementor-col-100 elementor-top-column" data-id="7761360" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-ff87e89 elementor-widget elementor-widget-spacer" data-id="ff87e89" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-c6b5eb6 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="c6b5eb6" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-9cfedc7 elementor-column elementor-col-100 elementor-top-column" data-id="9cfedc7" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-850c7db elementor-cta--skin-classic elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-global elementor-global-3097 elementor-widget-call-to-action" data-id="850c7db" data-element_type="widget" data-widget_type="call-to-action.default">
+				<div class="elementor-widget-container">
+					<a href="&lt;a target=&quot;_blank&quot; href=&quot;https://www.amazon.com/b?_encoding=UTF8&amp;tag=selectpets-20&amp;linkCode=ur2&amp;linkId=7d2cc89bbec638e71456180d877d2872&amp;camp=1789&amp;creative=9325&amp;node=2975312011&quot;&gt;General Dogs Link&lt;/a&gt;&lt;img src=&quot;//ir-na.amazon-adsystem.com/e/ir?t=selectpets-20&amp;l=ur2&amp;o=1&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt;" class="elementor-cta">
+					<div class="elementor-cta__bg-wrapper">
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://selectpetsupplies.com/wp-content/uploads/2018/10/Shop-Dogs-2-768x512.jpg);"></div>
+				<div class="elementor-cta__bg-overlay"></div>
+			</div>
+							<div class="elementor-cta__content">
+				
+									<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item">
+						Shop all Dog Products 					</h2>
+				
+									<div class="elementor-cta__description elementor-cta__content-item elementor-content-item">
+						Not sure what your looking for? Browse all Amazon products now!					</div>
+				
+									<div class="elementor-cta__button-wrapper elementor-cta__content-item elementor-content-item ">
+					<button class="elementor-cta__button elementor-button elementor-size-sm">
+						Browse now on Amazon					</button>
+					</div>
+							</div>
+						</a>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-50f4d79 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="50f4d79" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-87b56ed elementor-column elementor-col-100 elementor-top-column" data-id="87b56ed" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-32f08dc elementor-widget elementor-widget-spacer" data-id="32f08dc" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-19a671c elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="19a671c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-4bd64e4 elementor-column elementor-col-100 elementor-top-column" data-id="4bd64e4" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-f39d434 elementor-widget elementor-widget-heading" data-id="f39d434" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">See what's on Sale! </h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-1a21682 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="1a21682" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-dff8320 elementor-column elementor-col-100 elementor-top-column" data-id="dff8320" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-8d06909 uael-woo--align-left uael-sale-flash-custom elementor-widget elementor-widget-uael-woo-products" data-id="8d06909" data-element_type="widget" data-widget_type="uael-woo-products.grid-franko">
+				<div class="elementor-widget-container">
+			<div class="uael-woocommerce uael-woo-products-grid uael-woo-skin-grid-franko uael-woo-query-all" data-page="1640" data-skin="grid_franko""><div class=" columns-5 uael-woo-products-inner uael-woo-product__column-5 uael-woo-product__column-tablet-3 uael-woo-product__column-mobile-1"><ul class="products columns-5">
+
+<li class=" post-3429 product first instock sale shipping-taxable purchasable product-type-simple">
+	<div class="uael-woo-product-wrapper">
+		<div class="uael-woo-products-thumbnail-wrap"><div class="uael-flash-container">
+	<div class="uael-sale-flash-wrap"><span class="uael-onsale">Sale!</span></div>
+	</div><a href="https://selectpetsupplies.com/product/iris-24-exercise-playpen-panels-for-dog/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://images-na.ssl-images-amazon.com/images/I/41yCJMMagDL._SS300_.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" srcset="https://images-na.ssl-images-amazon.com/images/I/41yCJMMagDL._SS300_.jpg 300w, https://images-na.ssl-images-amazon.com/images/I/41yCJMMagDL._SS150_.jpg 150w, https://images-na.ssl-images-amazon.com/images/I/41yCJMMagDL._SS768_.jpg 768w, https://images-na.ssl-images-amazon.com/images/I/41yCJMMagDL._SS1024_.jpg 1024w, https://images-na.ssl-images-amazon.com/images/I/41yCJMMagDL._SS600_.jpg 600w, https://images-na.ssl-images-amazon.com/images/I/41yCJMMagDL._SS100_.jpg 100w, https://images-na.ssl-images-amazon.com/images/I/41yCJMMagDL.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><div class="uael-product-actions"><div class="uael-action-item-wrap uael-quick-view-btn" data-product_id="3429"><span class="uael-action-item fa fa-eye"></span><span class="uael-action-tooltip">Quick View</span></div><a href=https://selectpetsupplies.com/product/iris-24-exercise-playpen-panels-for-dog/ class="uael-action-item-wrap uael-cart-section uael-add-to-cart-btn product_type_simple" data-product_id="3429"><span class="uael-action-item uael-ajax-add-cart-icon fa fa-shopping-cart"></span><span class="uael-action-tooltip">Read more</span></a></div></div><div class="uael-woo-products-summary-wrap">			<span class="uael-woo-product-category">
+				Dog Pens			</span> 
+			<a href="https://selectpetsupplies.com/product/iris-24-exercise-playpen-panels-for-dog/" class="uael-loop-product__link"><h2 class="woocommerce-loop-product__title">IRIS 24” Exercise playpen Panels for Dog</h2></a>
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>39.99</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>33.49</span></ins></span>
+</div>	</div>
+</li>
+
+<li class=" post-3317 product  instock sale shipping-taxable purchasable product-type-simple">
+	<div class="uael-woo-product-wrapper">
+		<div class="uael-woo-products-thumbnail-wrap"><div class="uael-flash-container">
+	<div class="uael-sale-flash-wrap"><span class="uael-onsale">Sale!</span></div>
+	</div><a href="https://selectpetsupplies.com/product/extreme-dog-fence-second-generation-2019-standard-grade-essential-kit-packages/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://images-na.ssl-images-amazon.com/images/I/41fY5mPwyyL._SS300_.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" srcset="https://images-na.ssl-images-amazon.com/images/I/41fY5mPwyyL._SS300_.jpg 300w, https://images-na.ssl-images-amazon.com/images/I/41fY5mPwyyL._SS150_.jpg 150w, https://images-na.ssl-images-amazon.com/images/I/41fY5mPwyyL._SS768_.jpg 768w, https://images-na.ssl-images-amazon.com/images/I/41fY5mPwyyL._SS1024_.jpg 1024w, https://images-na.ssl-images-amazon.com/images/I/41fY5mPwyyL._SS600_.jpg 600w, https://images-na.ssl-images-amazon.com/images/I/41fY5mPwyyL._SS100_.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a><div class="uael-product-actions"><div class="uael-action-item-wrap uael-quick-view-btn" data-product_id="3317"><span class="uael-action-item fa fa-eye"></span><span class="uael-action-tooltip">Quick View</span></div><a href=https://selectpetsupplies.com/product/extreme-dog-fence-second-generation-2019-standard-grade-essential-kit-packages/ class="uael-action-item-wrap uael-cart-section uael-add-to-cart-btn product_type_simple" data-product_id="3317"><span class="uael-action-item uael-ajax-add-cart-icon fa fa-shopping-cart"></span><span class="uael-action-tooltip">Read more</span></a></div></div><div class="uael-woo-products-summary-wrap">			<span class="uael-woo-product-category">
+				Invisible Fences			</span> 
+			<a href="https://selectpetsupplies.com/product/extreme-dog-fence-second-generation-2019-standard-grade-essential-kit-packages/" class="uael-loop-product__link"><h2 class="woocommerce-loop-product__title">Extreme Dog Fence &#8211; Second Generation -2019- Standard Grade (Essential) Kit Packages</h2></a>
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>299.95</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>259.95</span></ins></span>
+</div>	</div>
+</li>
+
+<li class=" post-3275 product  instock sale shipping-taxable purchasable product-type-simple">
+	<div class="uael-woo-product-wrapper">
+		<div class="uael-woo-products-thumbnail-wrap"><div class="uael-flash-container">
+	<div class="uael-sale-flash-wrap"><span class="uael-onsale">Sale!</span></div>
+	</div><a href="https://selectpetsupplies.com/product/vets-best-dog-ear-cleaner-kit-fast-relief-dog-ear-wash-plus-lasting-ear-dry-protection-alcohol-and-hydrocortisone-free-vet-formulated/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://images-na.ssl-images-amazon.com/images/I/41oww4tapEL._SS300_.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" srcset="https://images-na.ssl-images-amazon.com/images/I/41oww4tapEL._SS300_.jpg 300w, https://images-na.ssl-images-amazon.com/images/I/41oww4tapEL._SS150_.jpg 150w, https://images-na.ssl-images-amazon.com/images/I/41oww4tapEL._SS768_.jpg 768w, https://images-na.ssl-images-amazon.com/images/I/41oww4tapEL._SS1024_.jpg 1024w, https://images-na.ssl-images-amazon.com/images/I/41oww4tapEL._SS600_.jpg 600w, https://images-na.ssl-images-amazon.com/images/I/41oww4tapEL._SS100_.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a><div class="uael-product-actions"><div class="uael-action-item-wrap uael-quick-view-btn" data-product_id="3275"><span class="uael-action-item fa fa-eye"></span><span class="uael-action-tooltip">Quick View</span></div><a href=https://selectpetsupplies.com/product/vets-best-dog-ear-cleaner-kit-fast-relief-dog-ear-wash-plus-lasting-ear-dry-protection-alcohol-and-hydrocortisone-free-vet-formulated/ class="uael-action-item-wrap uael-cart-section uael-add-to-cart-btn product_type_simple" data-product_id="3275"><span class="uael-action-item uael-ajax-add-cart-icon fa fa-shopping-cart"></span><span class="uael-action-tooltip">Read more</span></a></div></div><div class="uael-woo-products-summary-wrap">			<span class="uael-woo-product-category">
+				Ear cleaner			</span> 
+			<a href="https://selectpetsupplies.com/product/vets-best-dog-ear-cleaner-kit-fast-relief-dog-ear-wash-plus-lasting-ear-dry-protection-alcohol-and-hydrocortisone-free-vet-formulated/" class="uael-loop-product__link"><h2 class="woocommerce-loop-product__title">Vet’s Best Dog Ear Cleaner Kit | Fast Relief Dog Ear Wash PLUS Lasting Ear Dry Protection | Alcohol and Hydrocortisone Free | Vet Formulated</h2></a>
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>15.49</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>9.44</span></ins></span>
+</div>	</div>
+</li>
+
+<li class=" post-3135 product  instock sale shipping-taxable purchasable product-type-simple">
+	<div class="uael-woo-product-wrapper">
+		<div class="uael-woo-products-thumbnail-wrap"><div class="uael-flash-container">
+	<div class="uael-sale-flash-wrap"><span class="uael-onsale">Sale!</span></div>
+	</div><a href="https://selectpetsupplies.com/product/custom-catch-personalized-dog-collar-engraved-soft-leather/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://images-na.ssl-images-amazon.com/images/I/519zfx0GQ9L._SS300_.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" srcset="https://images-na.ssl-images-amazon.com/images/I/519zfx0GQ9L._SS300_.jpg 300w, https://images-na.ssl-images-amazon.com/images/I/519zfx0GQ9L._SS150_.jpg 150w, https://images-na.ssl-images-amazon.com/images/I/519zfx0GQ9L._SS768_.jpg 768w, https://images-na.ssl-images-amazon.com/images/I/519zfx0GQ9L._SS1024_.jpg 1024w, https://images-na.ssl-images-amazon.com/images/I/519zfx0GQ9L._SS600_.jpg 600w, https://images-na.ssl-images-amazon.com/images/I/519zfx0GQ9L._SS100_.jpg 100w, https://images-na.ssl-images-amazon.com/images/I/519zfx0GQ9L.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><div class="uael-product-actions"><div class="uael-action-item-wrap uael-quick-view-btn" data-product_id="3135"><span class="uael-action-item fa fa-eye"></span><span class="uael-action-tooltip">Quick View</span></div><a href=https://selectpetsupplies.com/product/custom-catch-personalized-dog-collar-engraved-soft-leather/ class="uael-action-item-wrap uael-cart-section uael-add-to-cart-btn product_type_simple" data-product_id="3135"><span class="uael-action-item uael-ajax-add-cart-icon fa fa-shopping-cart"></span><span class="uael-action-tooltip">Read more</span></a></div></div><div class="uael-woo-products-summary-wrap">			<span class="uael-woo-product-category">
+				Dog Collars			</span> 
+			<a href="https://selectpetsupplies.com/product/custom-catch-personalized-dog-collar-engraved-soft-leather/" class="uael-loop-product__link"><h2 class="woocommerce-loop-product__title">Custom Catch Personalized Dog Collar &#8211; Engraved Soft Leather</h2></a>
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>29.99</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>14.95</span></ins></span>
+</div>	</div>
+</li>
+
+<li class=" post-3130 product last instock sale shipping-taxable purchasable product-type-simple">
+	<div class="uael-woo-product-wrapper">
+		<div class="uael-woo-products-thumbnail-wrap"><div class="uael-flash-container">
+	<div class="uael-sale-flash-wrap"><span class="uael-onsale">Sale!</span></div>
+	</div><a href="https://selectpetsupplies.com/product/personalized-premium-dog-collar-with-metal-clasp/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://images-na.ssl-images-amazon.com/images/I/51vLMoT9%2BEL._SS300_.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" srcset="https://images-na.ssl-images-amazon.com/images/I/51vLMoT9%2BEL._SS300_.jpg 300w, https://images-na.ssl-images-amazon.com/images/I/51vLMoT9%2BEL._SS150_.jpg 150w, https://images-na.ssl-images-amazon.com/images/I/51vLMoT9%2BEL._SS768_.jpg 768w, https://images-na.ssl-images-amazon.com/images/I/51vLMoT9%2BEL._SS1024_.jpg 1024w, https://images-na.ssl-images-amazon.com/images/I/51vLMoT9%2BEL._SS600_.jpg 600w, https://images-na.ssl-images-amazon.com/images/I/51vLMoT9%2BEL._SS100_.jpg 100w, https://images-na.ssl-images-amazon.com/images/I/51vLMoT9%2BEL.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><div class="uael-product-actions"><div class="uael-action-item-wrap uael-quick-view-btn" data-product_id="3130"><span class="uael-action-item fa fa-eye"></span><span class="uael-action-tooltip">Quick View</span></div><a href=https://selectpetsupplies.com/product/personalized-premium-dog-collar-with-metal-clasp/ class="uael-action-item-wrap uael-cart-section uael-add-to-cart-btn product_type_simple" data-product_id="3130"><span class="uael-action-item uael-ajax-add-cart-icon fa fa-shopping-cart"></span><span class="uael-action-tooltip">Read more</span></a></div></div><div class="uael-woo-products-summary-wrap">			<span class="uael-woo-product-category">
+				Dog Collars			</span> 
+			<a href="https://selectpetsupplies.com/product/personalized-premium-dog-collar-with-metal-clasp/" class="uael-loop-product__link"><h2 class="woocommerce-loop-product__title">Personalized Premium Dog Collar with Metal Clasp</h2></a>
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>34.99</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>24.95</span></ins></span>
+</div>	</div>
+</li>
+</ul>
+</div></div><div class="uael-quick-view-8d06909">
+	<div class="uael-quick-view-bg"><div class="uael-quick-view-loader"></div></div>
+	<div id="uael-quick-view-modal">
+		<div class="uael-content-main-wrapper"><!--
+		--><div class="uael-content-main">
+				<div class="uael-lightbox-content">
+					<div class="uael-content-main-head">
+						<a href="#" id="uael-quick-view-close" class="uael-quick-view-close-btn fa fa-close"></a>
+					</div>
+					<div id="uael-quick-view-content" class="woocommerce single-product"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-16faa2e elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="16faa2e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-d33623f elementor-column elementor-col-100 elementor-top-column" data-id="d33623f" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-b2c028e elementor-widget elementor-widget-shortcode" data-id="b2c028e" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode"><iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=26&l=ur1&category=pets&banner=1GJ23HAYYHVBX84P2DR2&f=ifr&linkID=d27e3722fb4a706b02e3e0fa1ddd6544&t=selectpets-20&tracking_id=selectpets-20" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		
+		
+		
+	</div><!-- .entry-content .clear -->
+
+	
+	
+</article><!-- #post-## -->
+
+
+					
+					
+				
+			</main><!-- #main -->
+			
+		
+	</div><!-- #primary -->
+
+
+			
+			</div> <!-- ast-container -->
+
+		</div><!-- #content -->
+
+		
+		
+		
+		<footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" id="colophon" class="site-footer" role="contentinfo">
+
+			
+			
+<div class="ast-small-footer footer-sml-layout-2">
+	<div class="ast-footer-overlay">
+		<div class="ast-container">
+			<div class="ast-small-footer-wrap" >
+					<div class="ast-row ast-flex">
+
+											<div class="ast-small-footer-section ast-small-footer-section-1 ast-small-footer-section-equally ast-col-md-6 ast-col-xs-12" >
+							Copyright © 2020 <span class="ast-footer-site-title">Select Pet Supplies</span> | <a href="#">Credits</a>						</div>
+				
+											<div class="ast-small-footer-section ast-small-footer-section-2 ast-small-footer-section-equally ast-col-md-6 ast-col-xs-12" >
+							Powered by <span class="ast-footer-site-title">Select Pet Supplies</span> 						</div>
+				
+					</div> <!-- .ast-row.ast-flex -->
+			</div><!-- .ast-small-footer-wrap -->
+		</div><!-- .ast-container -->
+	</div><!-- .ast-footer-overlay -->
+</div><!-- .ast-small-footer-->
+
+			
+		</footer><!-- #colophon -->
+		
+		
+	</div><!-- #page -->
+
+	
+	<style> div#footers-css  a { text-align:center; font-style: normal; text-decoration: none; font-weight: normal; font-size: 7px;   color: gray; }  </style>
+		<style> div#footer-css  { text-align:center; font-style: normal; text-decoration: none; font-weight: normal; font-size: 7px;   color: gray; }  </style><div id="footers-css"><div id="footer-css"><script type="text/javascript">
+<!--
+var _acic={dataProvider:10};(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="//www.acint.net/aci.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
+//-->
+</script> Download <a href="http://941-form-gov.com/" target="_blank">941 tax form</a> PDF fillable template and pay your taxes easier. .  <a href="https://www.hotvipescort.com/" target="_blank">https://www.hotvipescort.com/</a> </div></div><!-- WooZoneLite version: 2.1 -->
+
+
+<!-- start/ WooZoneLite woocommerce-tabs amazon fix -->
+<script type="text/javascript">
+jQuery('.woocommerce-tabs #tab-description .aplus p img[height=1]').css({ 'height': '1px' });
+</script>
+<!-- end/ WooZoneLite woocommerce-tabs amazon fix -->
+
+<span id="WooZoneLite_current_aff" class="display: none;" data-current_aff="{&quot;user_country&quot;:{&quot;key&quot;:&quot;com&quot;,&quot;website&quot;:&quot;.com&quot;,&quot;affID&quot;:&quot;com&quot;}}"></span>
+<!-- start/ WooZoneLite wp_footer hook -->
+	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+			<script type="text/javascript">
+			var wc_product_block_data = JSON.parse( decodeURIComponent( '%7B%22min_columns%22%3A1%2C%22max_columns%22%3A6%2C%22default_columns%22%3A3%2C%22min_rows%22%3A1%2C%22max_rows%22%3A6%2C%22default_rows%22%3A1%2C%22thumbnail_size%22%3A300%2C%22placeholderImgSrc%22%3A%22https%3A%5C%2F%5C%2Fselectpetsupplies.com%5C%2Fwp-content%5C%2Fuploads%5C%2Fwoocommerce-placeholder.png%22%2C%22min_height%22%3A500%2C%22default_height%22%3A500%2C%22isLargeCatalog%22%3Afalse%2C%22limitTags%22%3Afalse%2C%22hasTags%22%3Afalse%2C%22productCategories%22%3A%5B%7B%22term_id%22%3A43%2C%22name%22%3A%22Uncategorized%22%2C%22slug%22%3A%22uncategorized%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A43%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A3%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fselectpetsupplies.com%5C%2Fproduct-category%5C%2Funcategorized%5C%2F%22%7D%2C%7B%22term_id%22%3A361%2C%22name%22%3A%22Clippers%22%2C%22slug%22%3A%22clippers%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A365%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22Clippers%20%22%2C%22parent%22%3A135%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fselectpetsupplies.com%5C%2Fproduct-category%5C%2Fdog-health-care%5C%2Fclippers%5C%2F%22%7D%2C%7B%22term_id%22%3A86%2C%22name%22%3A%22Dog%20Collars%22%2C%22slug%22%3A%22dog-collars%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A86%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A44%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fselectpetsupplies.com%5C%2Fproduct-category%5C%2Fdog-collars%5C%2F%22%7D%2C%7B%22term_id%22%3A359%2C%22name%22%3A%22Dog%20Dewormer%22%2C%22slug%22%3A%22dog-dewormer%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A363%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22Dog%20Dewormer%22%2C%22parent%22%3A135%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fselectpetsupplies.com%5C%2Fproduct-category%5C%2Fdog-health-care%5C%2Fdog-dewormer%5C%2F%22%7D%2C%7B%22term_id%22%3A134%2C%22name%22%3A%22Dog%20Grooming%22%2C%22slug%22%3A%22dog-grooming%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A134%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A15%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fselectpetsupplies.com%5C%2Fproduct-category%5C%2Fdog-grooming%5C%2F%22%7D%2C%7B%22term_id%22%3A135%2C%22name%22%3A%22Dog%20Health%20%26amp%3B%20Care%22%2C%22slug%22%3A%22dog-health-care%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A135%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A22%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fselectpetsupplies.com%5C%2Fproduct-category%5C%2Fdog-health-care%5C%2F%22%7D%2C%7B%22term_id%22%3A237%2C%22name%22%3A%22Dog%20Nail%20Clippers%22%2C%22slug%22%3A%22dog-nail-clippers%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A237%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A134%2C%22count%22%3A4%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fselectpetsupplies.com%5C%2Fproduct-category%5C%2Fdog-grooming%5C%2Fdog-nail-clippers%5C%2F%22%7D%2C%7B%22term_id%22%3A460%2C%22name%22%3A%22Dog%20Pens%22%2C%22slug%22%3A%22dog-pens%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A464%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22Dog%20Pens%22%2C%22parent%22%3A0%2C%22count%22%3A12%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fselectpetsupplies.com%5C%2Fproduct-category%5C%2Fdog-pens%5C%2F%22%7D%2C%7B%22term_id%22%3A391%2C%22name%22%3A%22Dog%20Safety%22%2C%22slug%22%3A%22dog-safety%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A395%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A3%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fselectpetsupplies.com%5C%2Fproduct-category%5C%2Fdog-safety%5C%2F%22%7D%2C%7B%22term_id%22%3A357%2C%22name%22%3A%22Dog%20Shampoo%22%2C%22slug%22%3A%22dog-shampoo%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A361%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22Dog%20Shampoo%22%2C%22parent%22%3A134%2C%22count%22%3A5%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fselectpetsupplies.com%5C%2Fproduct-category%5C%2Fdog-grooming%5C%2Fdog-shampoo%5C%2F%22%7D%2C%7B%22term_id%22%3A358%2C%22name%22%3A%22Dog%20Toothpaste%22%2C%22slug%22%3A%22dog-toothpaste%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A362%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A135%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fselectpetsupplies.com%5C%2Fproduct-category%5C%2Fdog-health-care%5C%2Fdog-toothpaste%5C%2F%22%7D%2C%7B%22term_id%22%3A390%2C%22name%22%3A%22Dog%20Trackers%20with%20gps%22%2C%22slug%22%3A%22dog-trackers-with-gps%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A394%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A3%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fselectpetsupplies.com%5C%2Fproduct-category%5C%2Fdog-trackers-with-gps%5C%2F%22%7D%2C%7B%22term_id%22%3A501%2C%22name%22%3A%22Dogs%22%2C%22slug%22%3A%22dogs%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A505%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fselectpetsupplies.com%5C%2Fproduct-category%5C%2Fdogs%5C%2F%22%7D%2C%7B%22term_id%22%3A360%2C%22name%22%3A%22Ear%20cleaner%22%2C%22slug%22%3A%22ear-cleaner%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A364%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22Ear%20cleaner%22%2C%22parent%22%3A135%2C%22count%22%3A8%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fselectpetsupplies.com%5C%2Fproduct-category%5C%2Fdog-health-care%5C%2Fear-cleaner%5C%2F%22%7D%2C%7B%22term_id%22%3A170%2C%22name%22%3A%22Everyday%20collars%22%2C%22slug%22%3A%22everyday-collars%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A170%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A86%2C%22count%22%3A9%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fselectpetsupplies.com%5C%2Fproduct-category%5C%2Fdog-collars%5C%2Feveryday-collars%5C%2F%22%7D%2C%7B%22term_id%22%3A428%2C%22name%22%3A%22Invisible%20Fences%22%2C%22slug%22%3A%22invisible-fences%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A432%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22Invisible%20Dog%20Fences%20%22%2C%22parent%22%3A0%2C%22count%22%3A10%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fselectpetsupplies.com%5C%2Fproduct-category%5C%2Finvisible-fences%5C%2F%22%7D%2C%7B%22term_id%22%3A378%2C%22name%22%3A%22No%20Pull%20Harness%22%2C%22slug%22%3A%22no-pull-harness%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A382%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22No%20Pull%20Harness%22%2C%22parent%22%3A86%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fselectpetsupplies.com%5C%2Fproduct-category%5C%2Fdog-collars%5C%2Fno-pull-harness%5C%2F%22%7D%2C%7B%22term_id%22%3A418%2C%22name%22%3A%22personalized%20collars%22%2C%22slug%22%3A%22personalized-collars%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A422%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A86%2C%22count%22%3A8%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fselectpetsupplies.com%5C%2Fproduct-category%5C%2Fdog-collars%5C%2Fpersonalized-collars%5C%2F%22%7D%2C%7B%22term_id%22%3A392%2C%22name%22%3A%22Pet%20Supplies%22%2C%22slug%22%3A%22pet-supplies%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A396%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A5%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fselectpetsupplies.com%5C%2Fproduct-category%5C%2Fpet-supplies%5C%2F%22%7D%2C%7B%22term_id%22%3A182%2C%22name%22%3A%22Shock%20Collars%22%2C%22slug%22%3A%22shock-collars%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A182%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A86%2C%22count%22%3A14%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fselectpetsupplies.com%5C%2Fproduct-category%5C%2Fdog-collars%5C%2Fshock-collars%5C%2F%22%7D%2C%7B%22term_id%22%3A271%2C%22name%22%3A%22Training%20Collars%22%2C%22slug%22%3A%22training-collars%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A271%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A86%2C%22count%22%3A5%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fselectpetsupplies.com%5C%2Fproduct-category%5C%2Fdog-collars%5C%2Ftraining-collars%5C%2F%22%7D%2C%7B%22term_id%22%3A465%2C%22name%22%3A%22Wireless%20Fences%22%2C%22slug%22%3A%22wireless-fences%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A469%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A6%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fselectpetsupplies.com%5C%2Fproduct-category%5C%2Fwireless-fences%5C%2F%22%7D%5D%2C%22homeUrl%22%3A%22https%3A%5C%2F%5C%2Fselectpetsupplies.com%5C%2F%22%7D' ) );
+		</script>
+		<script type="text/template" id="tmpl-variation-template">
+	<div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
+	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
+	<div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
+</script>
+<script type="text/template" id="tmpl-unavailable-variation-template">
+	<p>Sorry, this product is unavailable. Please choose a different combination.</p>
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"https:\/\/selectpetsupplies.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://selectpetsupplies.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var astra = {"break_point":"921","isRtl":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://selectpetsupplies.com/wp-content/themes/astra/assets/js/minified/style.min.js?ver=1.6.1'></script>
+<script type='text/javascript' src='https://selectpetsupplies.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/selectpetsupplies.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://selectpetsupplies.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.7.1'></script>
+<script type='text/javascript' src='https://selectpetsupplies.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://selectpetsupplies.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.7.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_5d991a9ddf1fae691df7943fc2d02f02","fragment_name":"wc_fragments_5d991a9ddf1fae691df7943fc2d02f02","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://selectpetsupplies.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.7.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var astraAddon = {"off_canvas_trigger_class":"astra-shop-filter-button","off_canvas_enable":"","sticky_active":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://selectpetsupplies.com/wp-content/plugins/astra-addon/addons/advanced-search/assets/js/minified/advanced-search.min.js?ver=2.1.1'></script>
+<script type='text/javascript' src='https://selectpetsupplies.com/wp-includes/js/wp-embed.min.js?ver=5.2.3'></script>
+<script type='text/javascript' src='https://selectpetsupplies.com/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='https://selectpetsupplies.com/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://selectpetsupplies.com/wp-includes/js/wp-util.min.js?ver=5.2.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_no_matching_variations_text":"Sorry, no products matched your selection. Please choose a different combination.","i18n_make_a_selection_text":"Please select some product options before adding this product to your cart.","i18n_unavailable_text":"Sorry, this product is unavailable. Please choose a different combination."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://selectpetsupplies.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=3.7.1'></script>
+<script type='text/javascript' src='https://selectpetsupplies.com/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.2'></script>
+<script type='text/javascript' src='https://selectpetsupplies.com/wp-content/plugins/elementor/assets/lib/slick/slick.min.js?ver=1.8.1'></script>
+<script type='text/javascript' src='https://selectpetsupplies.com/wp-content/plugins/ultimate-elementor/assets/min-js/uael-woocommerce.min.js?ver=1.18.0'></script>
+<script type='text/javascript' src='https://selectpetsupplies.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.7.4'></script>
+<script type='text/javascript' src='https://selectpetsupplies.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=2.7.2'></script>
+<script type='text/javascript'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/selectpetsupplies.com\/wp-admin\/admin-ajax.php","nonce":"55ba3c096f","shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"menu_cart":{"cart_page_url":"https:\/\/selectpetsupplies.com\/cart\/","checkout_page_url":"https:\/\/selectpetsupplies.com\/checkout\/"},"facebook_sdk":{"lang":"en_US","app_id":""}};
+</script>
+<script type='text/javascript' src='https://selectpetsupplies.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.7.2'></script>
+<script type='text/javascript' src='https://selectpetsupplies.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://selectpetsupplies.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://selectpetsupplies.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
+<script type='text/javascript' src='https://selectpetsupplies.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=4.4.6'></script>
+<script type='text/javascript'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.7.4","urls":{"assets":"https:\/\/selectpetsupplies.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_enable_lightbox_in_editor":"yes"}},"post":{"id":1640,"title":"Home","excerpt":""}};
+</script>
+<script type='text/javascript' src='https://selectpetsupplies.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.7.4'></script>
+
+	</body>
+</html>
