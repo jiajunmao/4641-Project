@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useRef} from "react";
 
 
 interface SidebarProps {
@@ -7,6 +7,18 @@ interface SidebarProps {
 }
 
 let Sidebar = (props: any) => {
+  
+  let cur = useRef<HTMLInputElement>(null);
+
+  let reader = new FileReader();
+  reader.onload = function(){
+    props.upload(reader.result)
+  };
+  
+  function upload(e : any) {
+    reader.readAsDataURL(e.current.files[0]);  
+  }  
+
   return (
     <div className="SidebarContainer box">
       <div className="card">
@@ -62,7 +74,7 @@ let Sidebar = (props: any) => {
                 <a href="/#">View Your Report</a>
               </li>
               <li>
-                <a href="/#" onClick={props.uploader}>Generate new Report</a>
+              <input type="file" accept='image/*' ref={cur} onChange={() => upload(cur)}/>
               </li>
             </ul>
           </li>

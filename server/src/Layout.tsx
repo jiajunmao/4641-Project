@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState} from "react";
 import ReactGridLayout, { WidthProvider } from "react-grid-layout";
 import Header from "./Components/Header";
 import Sidebar from "./Components/Sidebar";
@@ -82,10 +82,15 @@ let Layout = () => {
   };
 
   let Sidebars;
+  
+  let [Image, setImage] = useState(null);
 
-  function upload() {
-    console.log("Upload!")
-  }
+  function uploader(e:any) {
+    setImage(e);
+    let img = document.createElement('img');
+    img.src = e;
+    predict(img)
+  };
 
   if (SidebarOn) {
     Sidebars = (
@@ -94,7 +99,7 @@ let Layout = () => {
         username={faker.name.firstName()}
         avatar={faker.image.avatar()}
         jobtitle={faker.name.jobTitle()}
-        uploader={upload}
+        upload={uploader}
       />
     );
   } else {
@@ -109,6 +114,19 @@ let Layout = () => {
       <i className="fas fa-bars"></i>
     </button>
   );
+
+  let mobilenet = require('@tensorflow-models/mobilenet');
+
+  async function predict(e :any) {
+    // Load the model.
+    let model = await mobilenet.load();
+
+    // Classify the image.
+    let predictions = await model.classify(e);
+
+    console.log('Predictions: ');
+    console.log(predictions);
+  }
 
   return (
     <div className="layout">
@@ -125,7 +143,7 @@ let Layout = () => {
           <Header SidebarToggler={SidebarButton} />
         </div>
         <div key="2">
-          <Content/>
+          <Content image={Image}/>
         </div>
       </GridLayout>
     </div>
