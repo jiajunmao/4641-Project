@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?php //PHP ADODB document - made with PHAkt 3.7.1?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Search Error | Down the Lane</title>
+<meta name="description" content="Apologies for not reaching your page">
+<meta name="keywords" content="search">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="/css1.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="960" border="0" cellpadding="0" cellspacing="0" id="container">
+  <tr>
+    <td colspan="3" id="header-index"><p id="dtl">Down the lane</p>
+        <p id="tagline">Searching for a simpler lifestyle</p></td>
+  </tr>
+  <?php include("includes/extras-top-menu.php"); ?>
+  <tr>
+    <td id="topleftcellblank"><h1 align="center">&nbsp;</h1>
+      <p align="center">&nbsp;</p>
+      <h1 align="center">We apologize</h1>
+      <p align="center" class="bigbold">It appears the page you are looking for has either been changed for is no longer reachable.</p>
+      <p align="center" class="bigbold">Please go to out home page and start your search again.</p>
+      <p align="center" class="bigbold">Many thanks and we apologize for the inconvenience      </p>
+      <p align="center" class="bigbold"><a href="http://www.downthelane.net">Down the Lane Home Page</a></p>
+     </td>
+<?php include("includes/extras-bottom-menu.php"); ?> 
+    <?php include("includes/footer.php"); ?></
+</table>
+</body>
+</html>
+
+
+

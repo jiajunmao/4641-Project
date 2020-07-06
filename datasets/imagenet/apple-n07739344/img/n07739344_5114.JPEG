@@ -1,0 +1,774 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=device-width, initial-scale=0.6666, maximum-scale=1.0, minimum-scale=0.6666" /><meta name="generator" content="Plone - http://plone.org" />
+  
+
+  <title>County Extension Offices — NDSU Extension </title><style type="text/css" media="all">@import url(https://www.ag.ndsu.edu/extension/portal_css/Sunburst%20Theme/resourceeasyslideshowslideshow-cachekey-037114d13e894b6bd855b42f5f867810.css);</style><script type="text/javascript" src="https://www.ag.ndsu.edu/extension/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-0aed53ea4580f768537441474fe64e1a.js"></script><script type="text/javascript" src="https://www.ag.ndsu.edu/extension/portal_javascripts/Sunburst%20Theme/plone_javascript_variables.js"></script><script type="text/javascript" src="https://www.ag.ndsu.edu/extension/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquerytools-cachekey-7fc6cb2b7d09d953237466107c5ef986.js"></script><script type="text/javascript" src="https://www.ag.ndsu.edu/extension/portal_javascripts/Sunburst%20Theme/resourcecollective.flowplayerflowplayer.min-cachekey-fce9d55d5717332cd2b7f4090f437d96.js"></script><script type="text/javascript" src="https://www.ag.ndsu.edu/extension/portal_javascripts/Sunburst%20Theme/kss-bbb-cachekey-0ec72995e678e02490c5b8b36ccaa6b8.js"></script><script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional[''],
+                {dateFormat: 'mm/dd/yy'}));
+            }
+        });
+        </script><link rel="stylesheet" type="text/css" media="screen" href="https://www.ag.ndsu.edu/extension/portal_css/Sunburst%20Theme/reset-cachekey-76a321200840537509342edfd94f1734.css" /><link rel="stylesheet" type="text/css" media="screen" href="https://www.ag.ndsu.edu/extension/portal_css/Sunburst%20Theme/base-cachekey-d2b1bb072f45863cf741fce1bf828d13.css" /><link rel="stylesheet" type="text/css" media="screen" href="https://www.ag.ndsu.edu/extension/portal_css/Sunburst%20Theme/collective.js.jqueryui.custom.min-cachekey-96a4c31c9702afa3c939ec3766588e27.css" /><link rel="stylesheet" type="text/css" media="screen" href="https://www.ag.ndsu.edu/extension/portal_css/Sunburst%20Theme/columns-cachekey-b1a7aa899710a1dee14c5c01837ecbd9.css" /><link rel="stylesheet" type="text/css" href="https://www.ag.ndsu.edu/extension/portal_css/Sunburst%20Theme/authoring-cachekey-032dced5caa4635db3e2a0d7e863714f.css" /><link rel="stylesheet" type="text/css" href="https://www.ag.ndsu.edu/extension/portal_css/Sunburst%20Theme/resourcecollective.flowplayer.cssflowplayer-cachekey-fcebdff3e19cefc5bb08a6eafbee8cee.css" /><link rel="stylesheet" type="text/css" media="screen" href="https://www.ag.ndsu.edu/extension/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-96a754b73bead35bb3d7338f432b1765.css" /><link rel="stylesheet" type="text/css" media="all" href="https://www.ag.ndsu.edu/extension/portal_css/Sunburst%20Theme/ploneCustom-cachekey-69483720cefcef56036b050cf7690fce.css" /><link rel="search" href="https://www.ag.ndsu.edu/extension/@@search" title="Search this site" /><link rel="canonical" href="https://www.ag.ndsu.edu/extension/county-extension-offices" />
+
+  
+  
+  <link href="//www.ag.ndsu.edu/assets/css/desktop.00019.css" media="screen" rel="stylesheet" />
+  <link href="//www.ag.ndsu.edu/assets/css/print.00001.css" media="print" rel="stylesheet" />
+
+  <!-- leave this here so it can be removed by rules.xml -->
+  <link href="//www.ag.ndsu.edu/assets/css/three-cols.00002.css" media="all" rel="stylesheet" />
+
+  <!--[if lt IE 9]>
+    <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="//css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+  <![endif]-->
+
+  <link href="//www.ag.ndsu.edu/assets/images/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+
+<base href="https://www.ag.ndsu.edu/extension/county-extension-offices" /></head>
+
+<body class="template-document_view portaltype-document site-extension section-county-extension-offices icons-on userrole-anonymous" dir="ltr"><div id="fb-root"></div><script async="" defer="defer" crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v3.3&amp;appId=357292684317703&amp;autoLogAppEvents=1"></script><!-- header area --><div id="header">
+
+    <div id="top_bar_container">
+      <div id="top_bar">
+        <h1><a href="https://www.ndsu.edu/" title="North Dakota State University"><span class="visuallyhidden">North Dakota State University</span><img src="//www.ag.ndsu.edu/assets/images/ndsu-print.png" alt=" " title="" /></a></h1>
+        
+        <ul id="ndsu-links">
+          <li><a href="https://www.ndsu.edu/about/" title="NDSU at a glance">About NDSU</a></li>
+          <li><a href="https://www.ndsu.edu/academics/" title="Academic programs (majors)">Academics</a></li>
+
+          <li><a href="https://www.ndsu.edu/admission/" title="Office of Admission">Admission</a></li>
+          <li><a href="http://www.gobison.com/" rel="external" title="Bison Athletics">Athletics</a></li>
+        </ul>
+        <br class="clear" />
+      </div><!--/top_bar-->
+    </div><!--top_bar_container-->
+
+  </div><!-- header --><div id="container" role="main" class="desktop">
+
+    <div id="univservices">
+      <div class="contentwrapper">
+
+        <h2 id="bannerwords"><a href="https://www.ag.ndsu.edu/extension">NDSU Extension</a></h2>
+        <div id="widgets">
+          <p id="textresize">
+            <a title="Accessibility" accesskey="0" href="accessibility-info">Accessibility</a>
+          </p>
+
+          <div id="portal-searchbox">
+
+  <script>
+    (function() {
+      var cx = '018281009562415871852:jpqauwrs0sa';
+      var gcse = document.createElement('script');
+      gcse.type = 'text/javascript';
+      gcse.async = true;
+      gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(gcse, s);
+    })();
+  </script>
+  <div class="gcse-searchbox-only" data-resultsurl="https://www.ag.ndsu.edu/extension/gsearch">
+  </div>
+
+</div>
+        </div><!--/widgets-->
+      </div><!--/contentwrapper-->
+      <br class="clear" />
+    </div><!--/univservices-->
+
+    <div id="typo3content">
+      <div class="contentwrapper">
+
+        <div id="breadcrumbs">
+          <span id="breadcrumbs-ndsu">
+            <a title="NDSU" href="https://www.ndsu.edu/">NDSU</a>
+            <span class="breadcrumbSeparator"> › </span>
+          </span>
+          <span id="breadcrumbs-home">
+            <a href="https://www.ag.ndsu.edu/extension">NDSU Extension</a>
+            <span id="breadcrumbs-home-separator" class="breadcrumbSeparator"> › </span>
+          </span>
+        <span id="breadcrumbs-1" dir="ltr">
+        
+            
+            
+            <span id="breadcrumbs-current">County Extension Offices</span>
+         
+    </span></div><!--/breadcrumbs-->
+ 
+        <div class="clear"></div>
+
+        <!-- left-hand sidebar -->
+        <div id="sitenav"><div class="portletWrapper" data-portlethash="706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6d6973632d73697465732f657874656e73696f6e0a6e617669676174696f6e" id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6d6973632d73697465732f657874656e73696f6e0a6e617669676174696f6e">
+<dl class="portlet portletNavigationTree">
+
+    <dt class="portletHeader">
+        
+        
+        
+    </dt>
+
+    <dd class="portletItem lastItem">
+        <ul class="navTree navTreeLevel0">
+            <li class="navTreeItem navTreeTopNode nav-section-ndsu-extension">
+                <div>
+                   <a href="https://www.ag.ndsu.edu/extension" class="contenttype-folder" title="">
+                   
+                   
+                   NDSU Extension 
+                   </a>
+                </div>
+            </li>
+            
+
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-about-us">
+
+    
+
+
+        <a href="https://www.ag.ndsu.edu/extension/about-us" class="state-published navTreeFolderish contenttype-folder" title="">
+            
+            <span>About Us</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-directory">
+
+    
+
+
+        <a href="https://www.ag.ndsu.edu/extension/directory" class="state-published navTreeFolderish contenttype-folder" title="">
+            
+            <span>Directory</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeCurrentNode section-county-extension-offices">
+
+    
+
+
+        <a href="https://www.ag.ndsu.edu/extension/county-extension-offices" class="state-published navTreeCurrentItem navTreeCurrentNode contenttype-document" title="">
+            
+            <span>County Extension Offices</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-employment">
+
+    
+
+
+        <a href="http://www.ag.ndsu.edu/careers/" class="state-published contenttype-link" title="">
+            
+            <span>Employment</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-research-extension-centers">
+
+    
+
+
+        <a href="http://www.ag.ndsu.edu/research/research-extension-centers" class="state-published contenttype-link" title="">
+            
+            <span>Research Extension Centers</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-departments-schools">
+
+    
+
+
+        <a href="https://www.ag.ndsu.edu/extension/departments-schools" class="state-published contenttype-document" title="">
+            
+            <span>Academics &amp; Research </span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-labs-centers-institutes">
+
+    
+
+
+        <a href="https://www.ag.ndsu.edu/extension/labs-centers-institutes" class="state-published contenttype-document" title="">
+            
+            <span>Labs, Centers &amp; Institutes</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-upcoming-events">
+
+    
+
+
+        <a href="http://www.ag.ndsu.edu/info/cal" class="state-published contenttype-link" title="">
+            
+            <span>Upcoming Events</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-impact-stories">
+
+    
+
+
+        <a href="https://www.ag.ndsu.edu/extension/impact-stories" class="state-published navTreeFolderish contenttype-folder" title="">
+            
+            <span>Impact Stories</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-publications">
+
+    
+
+
+        <a href="https://www.ag.ndsu.edu/extension/publications" class="state-published navTreeFolderish contenttype-folder" title="NDSU Extension Service Publications">
+            
+            <span>Publications</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-annual-highlights">
+
+    
+
+
+        <a href="http://www.ndsu.edu/vpag/annual_highlights/" class="state-published contenttype-link" title="">
+            
+            <span>Annual Highlights</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+
+
+        </ul>
+        
+        
+    </dd>
+</dl>
+
+</div><div class="portletWrapper" data-portlethash="706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6d6973632d73697465732f657874656e73696f6e0a657874656e73696f6e2d696e666f" id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6d6973632d73697465732f657874656e73696f6e0a657874656e73696f6e2d696e666f">
+<dl class="portlet portletStaticText portlet-static-extension-info">
+
+    <dt class="portletHeader">
+        
+        <span>
+           Extension Info
+        </span>
+        
+    </dt>
+
+    <dd class="portletItem odd">
+        <ul>
+<li><a class="external-link" href="http://www.ndsu.edu/4h">4-H Youth Development</a></li>
+<li><a class="external-link" href="http://www.ag.ndsu.edu/ndsuag/crops">Crops</a></li>
+<li><a title="" href="https://www.ag.ndsu.edu/extension/family" class="internal-link" target="_self">Children, Families &amp; Finances</a></li>
+<li><a class="external-link" href="https://www.ag.ndsu.edu/disasters" target="_self" title=""><span class="external-link">Disasters</span></a></li>
+<li><a href="https://www.ag.ndsu.edu/extension/aue/energy" class="external-link">Energy</a></li>
+<li><a class="external-link" href="http://www.ag.ndsu.edu/ndsuag/environment-natural-resources">Environment &amp; Natural Resources</a></li>
+<li><a class="external-link" href="http://www.ag.ndsu.edu/ndsuag/farm-family-economics">Farm Economics</a></li>
+<li><a class="external-link" href="http://www.ag.ndsu.edu/ndsuag/food-nutrition">Food &amp; Nutrition</a></li>
+<li><a class="external-link" href="http://www.ag.ndsu.edu/horticulture">Lawns, Gardens &amp; Trees</a></li>
+<li><a class="external-link" href="http://www.ag.ndsu.edu/ccv">Leadership &amp; Civic Engagement</a></li>
+<li><a class="external-link" href="https://www.ag.ndsu.edu/cattledocs" target="_self" title="">Livestock</a></li>
+</ul>
+        
+            
+            
+        
+    </dd>
+    
+    
+
+</dl>
+</div><div class="portletWrapper" data-portlethash="706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6d6973632d73697465732f657874656e73696f6e0a666f722d656d706c6f79656573" id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6d6973632d73697465732f657874656e73696f6e0a666f722d656d706c6f79656573"><div class="portletStaticText portlet-static-for-employees">
+<h3 align="center"><a class="external-link" href="http://www.ag.ndsu.edu/ext-emp">For Employees</a><br /></h3>
+</div>
+
+</div><div class="portletWrapper" data-portlethash="706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6d6973632d73697465732f657874656e73696f6e0a66616365626f6f6b2d6c696b652d626f78" id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6d6973632d73697465732f657874656e73696f6e0a66616365626f6f6b2d6c696b652d626f78"><dl class="portlet portletFacebookFanBox">
+    <dt class="portletHeader hiddenStructure">
+        
+        <span>Facebook Like Box</span>
+        
+    </dt>
+    <dd class="portletItem">
+
+        <div class="fb-page" data-href="http://www.facebook.com/NDSUExtension" data-adapt-container-width="true" data-hide-cover="false" data-height="500" data-tabs="timeline" data-small-header="false" data-show-facepile="true">
+            <blockquote cite="https://www.facebook.com/NDSUAgCommWebServices/" class="fb-xfbml-parse-ignore">
+                <a href="https://www.facebook.com/NDSUAgCommWebServices/">NDSU Ag Comm Web Services</a>
+            </blockquote>
+        </div>
+    </dd>
+</dl>
+
+</div></div>
+
+        <!-- main content area -->
+        <div id="mainborder">
+
+          <!-- right-hand sidebar -->
+          <div id="sidebar2"><div class="portletWrapper" data-portlethash="706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f6d6973632d73697465732f657874656e73696f6e0a737563636573732d73746f72696573" id="portletwrapper-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f6d6973632d73697465732f657874656e73696f6e0a737563636573732d73746f72696573"><dl class="portlet portletfeedmixer">
+
+    <dt class="portletHeader">
+        
+        <span>Success Stories</span>
+        
+    </dt>
+
+    
+        <dd class="portletItem odd">
+
+            <a href="https://www.ag.ndsu.edu/impactstatements/impact-statements/2020-impact-statements/20sargent-klapperich-nfsh.pdf/view" title="Sargent County Children are On the Move to Better Health, 2018-2019">
+                Sargent County Children are On the Move to Better Health, 2018-2019
+                <span class="portletItemDetails">Jun 02, 2020</span>
+            </a>
+        </dd>
+    
+    
+        <dd class="portletItem even">
+
+            <a href="https://www.ag.ndsu.edu/impactstatements/impact-statements/2020-impact-statements/20sargent-klapperich-4h.pdf/view" title="Youth Leadership Development: Sargent County 4-H Teen Ambassador Program">
+                Youth Leadership Development: Sargent County 4-H Teen Ambassador Program
+                <span class="portletItemDetails">Jun 02, 2020</span>
+            </a>
+        </dd>
+    
+    
+        <dd class="portletItem odd">
+
+            <a href="https://www.ag.ndsu.edu/impactstatements/impact-statements/2020-impact-statements/20sargent-klapperich-nfsh2.pdf/view" title="Addressing the Public Disconnect with Ag: Sargent County Ag Day 2019">
+                Addressing the Public Disconnect with Ag: Sargent County Ag Day 2019
+                <span class="portletItemDetails">Jun 02, 2020</span>
+            </a>
+        </dd>
+    
+    
+    <dd class="portletFooter">
+      <a href="https://www.ag.ndsu.edu/extension/++contextportlets++plone.rightcolumn/success-stories/full_feed" class="tile">More…</a>
+        
+        
+    </dd>
+
+</dl>
+</div><div class="portletWrapper" data-portlethash="706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f6d6973632d73697465732f657874656e73696f6e0a696d706163742d6c696e6b" id="portletwrapper-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f6d6973632d73697465732f657874656e73696f6e0a696d706163742d6c696e6b"><div class="portletStaticText portlet-static-impact-link"><p align="center"><a class="external-link" href="https://www.ag.ndsu.edu/impactstatements/impact-statements" target="_self" title="">View All Impact Statements</a></p></div>
+
+</div><div class="portletWrapper" data-portlethash="706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f6d6973632d73697465732f657874656e73696f6e0a6e6473752d657874656e73696f6e2d6c6f676f" id="portletwrapper-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f6d6973632d73697465732f657874656e73696f6e0a6e6473752d657874656e73696f6e2d6c6f676f"><div class="portletStaticText portlet-static-ndsu-extension-logo"><p align="center"><a class="external-link" href="https://www.ag.ndsu.edu/extension" target="_self" title=""><img src="https://www.ag.ndsu.edu/extension/images/NDSU_Extension_black.jpg" title="NDSU Ext logo" height="55" width="202" alt="NDSU Ext logo" class="image-inline" /></a></p></div>
+
+</div><div class="portletWrapper" data-portlethash="706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f6d6973632d73697465732f657874656e73696f6e0a6e6473752d657874656e73696f6e2d6e657773" id="portletwrapper-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f6d6973632d73697465732f657874656e73696f6e0a6e6473752d657874656e73696f6e2d6e657773"><dl class="portlet portletfeedmixer">
+
+    <dt class="portletHeader">
+        
+        <span>NDSU Extension News</span>
+        
+    </dt>
+
+    
+        <dd class="portletItem odd">
+
+            <a href="https://www.ag.ndsu.edu/news/columns/prairie-fare/prairie-fare-are-you-ready-for-a-safe-picnic" title="Prairie Fare: Are You Ready for a Safe Picnic?">
+                Prairie Fare: Are You Ready for a Safe Picnic?
+                <span class="portletItemDetails">Jul 02, 2020</span>
+            </a>
+        </dd>
+    
+    
+        <dd class="portletItem even">
+
+            <a href="https://www.ag.ndsu.edu/news/newsreleases/2020/june-29-2020/ndsu-agronomy-seed-farm-field-day-to-be-virtual" title="NDSU Agronomy Seed Farm Field Day to Be Virtual">
+                NDSU Agronomy Seed Farm Field Day to Be Virtual
+                <span class="portletItemDetails">Jun 30, 2020</span>
+            </a>
+        </dd>
+    
+    
+        <dd class="portletItem odd">
+
+            <a href="https://www.ag.ndsu.edu/news/columns/dakota-gardener/dakota-gardener-the-power-of-observation" title="Dakota Gardener: The Power of Observation">
+                Dakota Gardener: The Power of Observation
+                <span class="portletItemDetails">Jun 30, 2020</span>
+            </a>
+        </dd>
+    
+    
+    <dd class="portletFooter">
+      <a href="https://www.ag.ndsu.edu/extension/++contextportlets++plone.rightcolumn/ndsu-extension-news/full_feed" class="tile">More…</a>
+        
+        
+    </dd>
+
+</dl>
+</div><div class="portletWrapper" data-portlethash="706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f6d6973632d73697465732f657874656e73696f6e0a6e6577732d6c696e6b" id="portletwrapper-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f6d6973632d73697465732f657874656e73696f6e0a6e6577732d6c696e6b"><div class="portletStaticText portlet-static-news-link">
+<p align="center"><a class="external-link" href="http://www.ag.ndsu.edu/news">More News 
+Releases &amp; Columns</a></p>
+</div>
+
+</div></div>
+
+          <div id="main"><div id="viewlet-above-content">    
+
+
+
+
+<div id="portlets-above" class="row">
+    
+    
+</div>
+
+
+</div><div class="">
+
+                    
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+
+
+                    
+                        <div id="content">
+
+                            
+
+                            
+
+                             <div id="viewlet-above-content-title"><!-- AddThis Button BEGIN -->
+
+
+<div class="addthis_toolbox addthis_default_style">
+
+
+<a addthis:title="County Extension Offices" class="addthis_button_facebook" addthis:description="" addthis:url="https://www.ag.ndsu.edu/extension/county-extension-offices"></a>
+
+
+<a addthis:title="County Extension Offices" class="addthis_button_twitter" addthis:description="" addthis:url="https://www.ag.ndsu.edu/extension/county-extension-offices"></a>
+
+
+<span class="addthis_separator">|</span>
+
+<a href="//www.addthis.com/bookmark.php?v=250&amp;username=ndsuext" addthis:title="County Extension Offices" class="addthis_button_compact" addthis:url="https://www.ag.ndsu.edu/extension/county-extension-offices">Share</a>
+
+</div>
+
+
+<!-- AddThis Button END -->
+
+</div>
+                             
+                                 
+                                 
+            
+                <h1 id="parent-fieldname-title" class="documentFirstHeading">
+                    County Extension Offices
+                </h1>
+            
+            
+        
+                             
+                             <div id="viewlet-below-content-title">
+
+<div id="portlets-below" class="row">
+
+     
+     
+</div>
+
+
+</div>
+
+                             
+                                 
+                                 
+            
+                
+            
+            
+        
+                             
+
+                             <div id="viewlet-above-content-body">
+
+</div>
+                             <div id="content-core">
+                                 
+    
+        
+        <div class="" id="parent-fieldname-text-57f2f8ba3dfa0d3a80cd0872e438ec26">
+            <h2 style="text-align: center; "><a class="anchor-link" href="#a" target="_self" title="A">A</a>-<a href="#b" title="B">B</a>-<a href="#c" title="C">C</a>-<a href="#d" title="D">D</a>-<a href="#e" title="E">E</a>-<a href="#f" title="F">F</a>-<a href="#g" title="G">G</a>-<a href="#h" title="H">H</a>-<a href="#k" title="K">K</a>-<a href="#l" title="L">L</a>-<a href="#m" title="M">M</a>-<a href="#n" title="N">N</a>-<a href="#o" title="O">O</a>-<a href="#p" title="P">P</a>-<a href="#r" title="R">R</a>-<a href="#s" title="S">S</a>-<a href="#t" title="T">T</a>-<a href="#w" title="W">W</a></h2>
+<p style="text-align: left; "> </p>
+<p style="text-align: center; "><iframe height="480" src="https://www.google.com/maps/d/u/0/embed?mid=zOILbE3nDl84.kCuyW2WxLLSk" width="640"></iframe></p>
+<h2 style="text-align: left; "><a name="a" id="a"></a>A</h2>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/adamscountyextension" target="_self" title="">Adams County Extension</a></p>
+<h2 style="text-align: left; "><a name="b" id="b"></a>B</h2>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/barnescountyextension" target="_self" title="">Barnes County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/bensoncountyextension/">Benson County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/starkcountyextension/">Billings County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/bottineaucountyextension" target="_self" title="">Bottineau County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/bowmancountyextension/">Bowman County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/burkecountyextension/">Burke County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/burleighcountyextension" target="_self" title="">Burleigh County Extension</a></p>
+<h2 style="text-align: left; "><a name="c" id="c"></a>C</h2>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/casscountyextension/">Cass County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/cavaliercountyextension" target="_self" title="">Cavalier County Extension</a></p>
+<h2 style="text-align: left; "><a name="d" id="d"></a>D</h2>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/county/dickey/">Dickey County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/dividecountyextension" target="_self" title="">Divide County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/dunncountyextension" target="_self" title="">Dunn County Extension</a></p>
+<h2 style="text-align: left; "><a name="e" id="e"></a>E</h2>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/eddycountyextension" target="_self" title="">Eddy County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/EmmonsCountyExtension/">Emmons County Extension</a></p>
+<h2 style="text-align: left; "><a name="f" id="f"></a>F</h2>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/fortbertholdextension">Fort Berthold Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/fostercountyextension" target="_self" title="">Foster County Extension</a></p>
+<h2 style="text-align: left; "><a name="g" id="g"></a>G</h2>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/goldenvalleycountyextension" target="_self" title="">Golden Valley County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/grandforkscountyextension/">Grand Forks County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/grantcountyextension" target="_self" title="">Grant County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/griggscountyextension" target="_self" title="">Griggs County Extension</a></p>
+<h2 style="text-align: left; "><a name="h" id="h"></a>H</h2>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/hettingercountyextension" target="_self" title="">Hettinger County Extension</a></p>
+<h2 style="text-align: left; "><a name="k" id="k"></a>K</h2>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/county/kidder/" target="_self" title=""> Kidder County Extension </a></p>
+<h2 style="text-align: left; "><a name="l" id="l"></a>L</h2>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/lamourecountyextension" target="_self" title="">LaMoure County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/logancountyextension/" target="_self" title="">Logan County Extension</a></p>
+<h2 style="text-align: left; "><a name="m" id="m"></a>M</h2>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/mchenrycountyextension" target="_self" title="">McHenry County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/county/mcintosh/" target="_self" title="">McIntosh County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/mckenziecountyextension" target="_self" title="">McKenzie County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/mcleancountyextension" target="_self" title="">McLean County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/mercercountyextension/" target="_self" title="">Mercer County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/mortoncountyextension" target="_self" title="">Morton County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/county/mountrail/" target="_self" title="">Mountrail County Extension</a></p>
+<h2 style="text-align: left; "><a name="n" id="n"></a>N</h2>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/NelsonCountyExtension/" target="_self" title="">Nelson County Extension</a></p>
+<h2 style="text-align: left; "><a name="o" id="o"></a>O</h2>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/OliverCountyExtension/" target="_self" title="">Oliver County Extension</a></p>
+<h2 style="text-align: left; "><a name="p" id="p"></a>P</h2>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/pembinacountyextension" target="_self" title="">Pembina County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/piercecountyextension" target="_self" title="">Pierce County Extension</a></p>
+<h2 style="text-align: left; "><a name="r" id="r"></a>R</h2>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/ramseycountyextension/" target="_self" title="">Ramsey County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/county/ransom/" target="_self" title="">Ransom County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/renvillecountyextension" target="_self" title="">Renville County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/richlandcountyextension/" target="_self" title="">Richland County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/rolettecountyextension" target="_self" title="">Rolette County Extension</a></p>
+<h2 style="text-align: left; "><a name="s" id="s"></a>S</h2>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/sargentcountyextension" target="_self" title="">Sargent County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/sheridancountyextension" target="_self" title="">Sheridan County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/siouxcountyextension" target="_self" title="">Sioux County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/slopecountyextension" target="_self" title="">Slope County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/starkcountyextension/" target="_self" title="">Stark County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/steelecountyextension/" target="_self" title="">Steele County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/stutsmancountyextension" target="_self" title="">Stutsman County Extension</a></p>
+<h2 style="text-align: left; "><a name="t" id="t"></a>T</h2>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/county/towner/" target="_self" title="">Towner County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/traillcountyextension" target="_self" title="">Traill County Extension</a></p>
+<h2 style="text-align: left; "><a name="w" id="w"></a>W</h2>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/walshcountyextension" target="_self" title="">Walsh County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/wardcountyextension/" target="_self" title="">Ward County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/wellscountyextension" target="_self" title="">Wells County Extension</a></p>
+<p style="text-align: left; "><a class="external-link" href="http://www.ag.ndsu.edu/williamscountyextension/" target="_self" title="">Williams County Extension</a></p>
+            
+        </div>
+    
+    
+
+                             </div>
+                             <div id="viewlet-below-content-body">
+
+    <div class="visualClear"><!-- --></div>
+
+    
+
+
+
+</div>
+
+                            
+                        </div>
+                    
+
+                    
+                </div><div id="viewlet-below-content">
+
+
+
+
+
+
+<div id="portlets-below" class="row">
+     
+     
+</div>
+
+
+</div></div>
+
+          <div class="agcms-clear"></div>
+
+          <div id="creative-commons">
+            <div class="cc-image">
+              <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license"><img src="//www.ag.ndsu.edu/assets/images/88x31.png" alt="Creative Commons License" /></a>
+            </div>
+            <div class="cc-text">
+              Feel free to use and share this content, but please do so under the conditions of our <a class="external-link" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons</a> license and our <a href="/agcomm/creative-commons">Rules for Use</a>. Thanks.
+            </div>
+            <br class="clear" />
+          </div>
+        </div><!--/mainborder-->
+
+        <div class="agcms-clear"></div>
+
+      </div><!--/contentwrapper-->
+    </div><!--/typo3content-->
+
+  </div><div id="footer">
+
+    <div id="sflgru"><p>Student Focused. Land Grant. Research Institution.</p></div>
+
+    <div id="navfooter">
+      <ul>
+        <li><a href="https://www.ndsu.edu/pubweb/homepage/CampusMap_2pg.pdf" title="Map">Map</a></li>
+        <li><a href="https://jobs.ndsu.edu/" title="Employment opportunities at NDSU">Employment</a></li>
+        <li><a href="https://www.ndsu.edu/directory/" title="Directory">Phone/Email Directory</a></li>
+        <li><a href="http://www.ag.ndsu.edu/ndsuag/gsearch" title="Search">Search</a></li>
+        <li><a href="privacy" title="Privacy">Privacy</a></li>
+	<li><a href="https://www.ndsu.edu/equity/required_non_discrimination_statement/" title="Nondiscrimination statement">Nondiscrimination</a></li>
+      </ul>
+    </div><!--/navfooter-->
+
+    <div id="typo3footers"><div id="ndsu-siteinfo">
+
+      <div id="contact">
+          <a id="switch2mobile" title="Mobile view" href="">Mobile Site</a>
+          <address>
+            <p>
+              <a href="https://www.ag.ndsu.edu/extension" title="Link to Agriculture and University Extension" class="external-link contactfooter__link">NDSU Extension </a>
+            </p>
+            
+              
+                <p class="contactfooter_text">NDSU Dept. 7000</p>
+              
+              
+                <p class="contactfooter_text">311 Morrill Hall, P.O. Box 6050</p>
+              
+              
+                <p class="contactfooter_text">Fargo, ND 58108-6050</p>
+              
+            
+            
+          </address>
+      </div>
+
+      <div id="lastupdate">
+        <div class="contactfooter__sitemanager">
+          <div class="contactfooter__text contactfooter__text-sitemanager">Site Manager:</div>
+          <div class="contactfooter__text">
+              <a href="mailto:Robert.Bertsch@ndsu.edu" title="NDSU link" class="mail-link contactfooter__link">Bob Bertsch</a><br />
+              
+          </div>
+        </div>
+      </div>
+
+      <br class="clear" />
+
+    </div></div><!--/typo3footers-->
+  </div><!-- footer --><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#username=ndsuext"></script><script type="text/javascript" src="//www.ag.ndsu.edu/assets/js/agcms-desktop.00003.js"></script><div id="fb-root"></div><script type="text/javascript">
+  /*<![CDATA[*/
+  SimpleSocial.addSettings({"like_button_available": false, "like_button_color_scheme": "light", "channel_url": "https://www.ag.ndsu.edu/extension/@@facebook-channel", "app_id": "312360538846885", "post_to_page_available": true, "like_button_types": ["Document", "Event", "News Item"], "like_button_action": "like", "like_button_width": 450, "like_button_show_faces": true, "like_button_layout": "standard"});
+  window.fbAsyncInit = function() {
+    if (navigator.appVersion.indexOf('MSIE') != -1) {
+        version = parseFloat(navigator.appVersion.split('MSIE')[1]);
+        if (version <= 6) return;
+    }
+    SimpleSocial.connect(function(response) {
+        if (response.connected) {
+            SimpleSocial.processQueue();
+        }
+    });
+  };
+  (function(d){
+    var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+    if (d.getElementById(id)) {return;}
+    js = d.createElement('script'); js.id = id; js.async = true;
+    js.src = '//connect.facebook.net/en_US/all.js';
+    ref.parentNode.insertBefore(js, ref);
+  }(document));
+  /*]]>*/
+</script><script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-9112773-1', 'ndsu.edu');
+ga('require', 'displayfeatures');
+ga('send', 'pageview');
+</script></body>
+</html>
