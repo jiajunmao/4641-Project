@@ -1,0 +1,15 @@
+.layout {
+    padding: 0.5em;
+}
+.grid {
+    background-image: url("https://images.wallpapersden.com/image/download/smooth-crimson-texture_63986_3840x2160.jpg");
+}
+.SidebarToggler {
+    border-radius: 0 50% 50% 0;
+    margin-top: 0.5em;
+}
+
+@import "sidebar";
+@import "header";
+@import "content";
+@import "modal";
