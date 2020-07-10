@@ -92,7 +92,7 @@ let Layout = () => {
     let list = [];
     for (let key in json) {
       if (json.hasOwnProperty(key)) {
-        if (key !== "Description") {
+        if (key !== "Description" && key !== "ID") {
           let data = {
             "name": "",
             "value": 0,
