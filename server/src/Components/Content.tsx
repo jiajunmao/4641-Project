@@ -29,60 +29,31 @@ let ContentItem1 = {
   i: "1",
   x: 0,
   y: 0,
-  w: 2,
-  h: 2,
+  w: 6,
+  h: 2.5,
 };
 
 let ContentItem2 = {
   title: "header",
   i: "2",
-  x: 0,
+  x: 6,
   y: 0,
-  w: 2,
-  h: 2,
+  w: 6,
+  h: 2.5,
 };
 
-let data = [
-  {
-    name: "Page A",
-    uv: 4000,
-    pv: 2400,
-  },
-  {
-    name: "Page B",
-    uv: 3000,
-    pv: 1398,
-  },
-  {
-    name: "Page C",
-    uv: 2000,
-    pv: 9800,
-  },
-  {
-    name: "Page D",
-    uv: 2780,
-    pv: 3908,
-  },
-  {
-    name: "Page E",
-    uv: 1890,
-    pv: 4800,
-  },
-  {
-    name: "Page F",
-    uv: 2390,
-    pv: 3800,
-  },
-  {
-    name: "Page G",
-    uv: 3490,
-    pv: 4300,
-  },
-];
+let ContentItem3 = {
+  title: "header",
+  i: "3",
+  x: 0,
+  y: 2.5,
+  w: 12,
+  h: 2.5,
+};
 
 let ContentContainer = WidthProvider(ReactGridLayout);
 
-let ItemList = [ContentItem1, ContentItem2];
+let ItemList = [ContentItem1, ContentItem2, ContentItem3];
 
 let Content = (props: any) => {
   let resizeEvent = new Event('resize');
@@ -100,22 +71,25 @@ let Content = (props: any) => {
       <ContentContainer layout={ItemList}>
         <div key="1" className="item">
           <div className="ContentBox box">
-          <ResponsiveContainer>
-            <BarChart width={730} height={250} data={data}>
+          <img alt="" src={props.image} id="img"></img>
+          </div>
+        </div>
+        <div key="2" className="item">
+          <div className="ContentBox box">
+          </div>
+        </div>
+        <div key="3" className="item">
+          <div className="ContentBox box">        
+            <ResponsiveContainer>
+            <BarChart width={730} height={250} data={props.data}>
               <CartesianGrid strokeDasharray="3 3" />
               <XAxis dataKey="name" />
               <YAxis />
               <Tooltip />
               <Legend />
-              <Bar dataKey="pv" fill="#8884d8" />
-              <Bar dataKey="uv" fill="#82ca9d" />
+              <Bar dataKey="value" fill="#8884d8" />
             </BarChart>
             </ResponsiveContainer>
-          </div>
-        </div>
-        <div key="2" className="item">
-          <div className="ContentBox box">
-            <img alt="" src={props.image} id="img"></img>
           </div>
         </div>
       </ContentContainer>

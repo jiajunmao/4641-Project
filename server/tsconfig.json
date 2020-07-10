@@ -11,10 +11,12 @@
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
     "strict": true,
+    "experimentalDecorators": true,
     "forceConsistentCasingInFileNames": true,
     "module": "esnext",
     "moduleResolution": "node",
     "resolveJsonModule": true,
+    "emitDecoratorMetadata":true,
     "isolatedModules": true,
     "noEmit": true,
     "jsx": "react"

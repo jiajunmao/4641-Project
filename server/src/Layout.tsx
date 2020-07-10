@@ -4,6 +4,7 @@ import Header from "./Components/Header";
 import Sidebar from "./Components/Sidebar";
 import Content from "./Components/Content";
 import faker from "faker";
+import usda from "./usda.json";
 
 let layout1 = [
   {
@@ -84,6 +85,30 @@ let Layout = () => {
   let Sidebars;
   
   let [Image, setImage] = useState(null);
+  
+  let beef = usda.find(el => el.Description === "BUTTER,WITH SALT");
+
+  function filter(json: any) {
+    let list = [];
+    for (let key in json) {
+      if (json.hasOwnProperty(key)) {
+        if (key !== "Description") {
+          let data = {
+            "name": "",
+            "value": 0,
+          }; 
+          data["name"] = key;
+          data["value"] = json[key];
+          list.push(data);
+        }
+        }    
+    }
+    return list;
+  }
+
+  let list = filter(beef);
+
+  console.log(list)
 
   function uploader(e:any) {
     setImage(e);
@@ -143,7 +168,7 @@ let Layout = () => {
           <Header SidebarToggler={SidebarButton} />
         </div>
         <div key="2">
-          <Content image={Image}/>
+          <Content image={Image} data={list}/>
         </div>
       </GridLayout>
     </div>
