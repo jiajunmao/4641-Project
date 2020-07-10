@@ -30,7 +30,7 @@ let ContentItem1 = {
   x: 0,
   y: 0,
   w: 6,
-  h: 2.5,
+  h: 2,
 };
 
 let ContentItem2 = {
@@ -39,16 +39,16 @@ let ContentItem2 = {
   x: 6,
   y: 0,
   w: 6,
-  h: 2.5,
+  h: 2,
 };
 
 let ContentItem3 = {
   title: "header",
   i: "3",
   x: 0,
-  y: 2.5,
+  y: 2,
   w: 12,
-  h: 2.5,
+  h: 3,
 };
 
 let ContentContainer = WidthProvider(ReactGridLayout);
