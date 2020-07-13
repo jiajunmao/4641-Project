@@ -112,25 +112,27 @@ let Layout = () => {
     return list;
   }
 
+  function lister(json: any) {
+    let list = [];
+    for (let key in json) {
+      if (json.hasOwnProperty(key)) {
+        if (key !== "name" && key !== "description") {
+          list.push(json[key]);
+        }
+      }    
+    }
+    return list;
+  }
+
   let [Name, setName] = useState("Your result of prediction is: Avocado");
   let [List, setList] = useState(filter(fact.find(el => el.name === "Avocado")));
-  let val: any[] = [];
-  List.forEach(function(element: any) {
-    let value = element["value"];
-    val.push(value);
-  })
-  let [Values, setValues] = useState(val);
+  let [Data, setData] = useState(lister(fact.find(el => el.name === "Avocado")));
 
   function updater(e: any) {
     e = e.replace(/\s+/g,"");
     setName("Your result of prediction is: " + e)
     setList(filter(fact.find(el => el.name === e)));
-    let val: any[] = [];
-    List.forEach(function(element: any) {
-      let value = element["value"];
-      val.push(value);
-    })
-    setValues(val);
+    setData(lister(fact.find(el => el.name === e)));
   }
 
   if (SidebarOn) {
@@ -173,7 +175,7 @@ let Layout = () => {
           <Header SidebarToggler={SidebarButton} />
         </div>
         <div key="2">
-          <Content image={Image} data={List} value={Values} name={Name}/>
+          <Content image={Image} data={List} list={Data} name={Name}/>
         </div>
       </GridLayout>
     </div>
