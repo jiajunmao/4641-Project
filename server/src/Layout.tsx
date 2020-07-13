@@ -1,4 +1,4 @@
-import React, { useState} from "react";
+import React, { useState, useEffect } from "react";
 import ReactGridLayout, { WidthProvider } from "react-grid-layout";
 import Header from "./Components/Header";
 import Sidebar from "./Components/Sidebar";
@@ -134,7 +134,7 @@ let Layout = () => {
     setList(filter(fact.find(el => el.name === e)));
     setData(lister(fact.find(el => el.name === e)));
   }
-
+  
   if (SidebarOn) {
     Sidebars = (
       <Sidebar
@@ -160,6 +160,16 @@ let Layout = () => {
     </button>
   );
 
+  let resizeEvent = new Event('resize');
+
+  function resize() {
+    window.dispatchEvent(resizeEvent);
+  }
+
+  useEffect(() => {
+    resize()
+   });
+
   return (
     <div className="layout">
       <GridLayout
@@ -175,7 +185,7 @@ let Layout = () => {
           <Header SidebarToggler={SidebarButton} />
         </div>
         <div key="2">
-          <Content image={Image} data={List} list={Data} name={Name}/>
+          <Content layout = {GridLayout} image={Image} data={List} list={Data} name={Name}/>
         </div>
       </GridLayout>
     </div>

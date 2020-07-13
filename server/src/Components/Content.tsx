@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import ReactGridLayout, {WidthProvider } from "react-grid-layout";
+
 import {
   BarChart,
   Bar,
@@ -51,7 +51,7 @@ let ContentItem3 = {
   h: 3,
 };
 
-let ContentContainer = WidthProvider(ReactGridLayout);
+
 
 let ItemList = [ContentItem1, ContentItem2, ContentItem3];
 
@@ -62,6 +62,8 @@ function update() {
 }
 
 let Content = (props: any) => {
+  
+  let ContentContainer = props.layout;
   
   useEffect(() => {
     update()
@@ -117,7 +119,7 @@ let Content = (props: any) => {
         <div key="3" className="item">
           <div className="ContentBox box">        
             <ResponsiveContainer>
-            <BarChart width={730} height={250} data={props.data}>
+            <BarChart data={props.data}>
               <CartesianGrid strokeDasharray="3 3" />
               <XAxis dataKey="name" />
               <YAxis />
