@@ -79,38 +79,38 @@ let Content = (props: any) => {
         </div>
         <div key="2" className="item">
           <div className="ContentBox box table-container">
-          <table className="table is-fullwidth is-hoverable">
-            <thead>Hello!</thead>
+          <p className="panel-heading">Your result of prediction is: {props.name}</p>
+          <table className="table is-fullwidth is-hoverable">   
             <tbody>
               <tr>
                 <th>Calories (kJ)</th>
-                <td>Value</td>
+                <td>{props.value[0]}</td>
                 <th>Protein (g)</th>
-                <td>Value</td>
+                <td>{props.value[1]}</td>
                 <th>TotalFat (g)</th>
-                <td>Value</td>
+                <td>{props.value[2]}</td>
                 <th>Carbohydrate</th>
-                <td>Value</td>
+                <td>{props.value[3]}</td>
               </tr>
               <tr>
                 <th>Sodium(mg)</th>
-                <td>Value</td>
+                <td>{props.value[4]}</td>
                 <th>SaturatedFat</th>
-                <td>Value</td>
+                <td>{props.value[5]}</td>
                 <th>Sugar(g)</th>
-                <td>Value</td>
+                <td>{props.value[6]}</td>
                 <th>Calcium(mg)</th>
-                <td>Value</td>
+                <td>{props.value[7]}</td>
               </tr>
               <tr>
                 <th>Iron(mg)</th>
-                <td>Value</td>
+                <td>{props.value[8]}</td>
                 <th>Potassium(mg)</th>
-                <td>Value</td>
+                <td>{props.value[9]}</td>
                 <th>VitaminC(mg)</th>
-                <td>Value</td>
+                <td>{props.value[10]}</td>
                 <th>VitaminE(mg)</th>
-                <td>Value</td>
+                <td>{props.value[11]}</td>
               </tr>
             </tbody>
           </table>

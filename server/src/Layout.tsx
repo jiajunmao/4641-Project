@@ -84,8 +84,16 @@ let Layout = () => {
 
   let Sidebars;
   
+  //image
   let [Image, setImage] = useState(null);
+  
+  function uploader(e:any) {
+    setImage(e);
+    let img = document.createElement('img');
+    img.src = e;
+  };
 
+  //chart && table
   function filter(json: any) {
     let list = [];
     for (let key in json) {
@@ -104,17 +112,25 @@ let Layout = () => {
     return list;
   }
 
+  let [Name, setName] = useState("Avocado");
   let [List, setList] = useState(filter(fact.find(el => el.name === "Avocado")));
-
-  function uploader(e:any) {
-    setImage(e);
-    let img = document.createElement('img');
-    img.src = e;
-  };
+  let val: any[] = [];
+  List.forEach(function(element: any) {
+    let value = element["value"];
+    val.push(value);
+  })
+  let [Values, setValues] = useState(val);
 
   function updater(e: any) {
     e = e.replace(/\s+/g,"");
+    setName(e)
     setList(filter(fact.find(el => el.name === e)));
+    let val: any[] = [];
+    List.forEach(function(element: any) {
+      let value = element["value"];
+      val.push(value);
+    })
+    setValues(val);
   }
 
   if (SidebarOn) {
@@ -156,7 +172,7 @@ let Layout = () => {
           <Header SidebarToggler={SidebarButton} />
         </div>
         <div key="2">
-          <Content image={Image} data={List}/>
+          <Content image={Image} data={List} value={Values} name={Name}/>
         </div>
       </GridLayout>
     </div>
