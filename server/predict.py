@@ -28,13 +28,13 @@ if __name__ == "__main__":
 
     classes = np.load("classes.npy")
     classes.sort()
-    print(classes)
+    #print(classes)
     
     # model = keras.applications.VGG16()
     # model.load_weights("../Downloads/vgg16.h5")
 
     model = keras.models.load_model("model4_dropout.h5")
-    model.summary()
+    #model.summary()
 
     # model.summary()
     # img = load_img("4_100_6.jpg", target_size=IMG_SIZE)
@@ -65,7 +65,7 @@ if __name__ == "__main__":
 
     sample_val_images, label = next(val_data_gen)
     one_img = sample_val_images
-    print(one_img.shape)
+    #print(one_img.shape)
 
     # one_class = label[5]
     # print(one_img.shape)
@@ -73,8 +73,8 @@ if __name__ == "__main__":
 
     # one_img = np.load("test.npy")
 
-    plt.imshow(one_img[0])
-    plt.show()
+    #plt.imshow(one_img[0])
+    #plt.show()
 
     # plt.imshow(one_img)
     # plt.show()
@@ -111,8 +111,8 @@ if __name__ == "__main__":
     # print(np.sum(predicted_batch))
 
     predicted_ids = np.argmax(predicted_batch, axis=-1)
-    print(predicted_batch.shape, predicted_ids.shape, predicted_ids)
-    print("predicted: ", classes[predicted_ids])
+    #print(predicted_batch.shape, predicted_ids.shape, predicted_ids)
+    print(classes[predicted_ids], flush=True)
 
     # print("expected: ", classes[np.argmax(one_class)])
     # raise Exception
