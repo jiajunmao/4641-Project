@@ -12,6 +12,7 @@ app.post('/upload', function(req, res) {
     const pythonProcess = spawn('python',['predict.py']);
     pythonProcess.stdout.on('data', (data) => {
         // Do something with the data returned from python script
+        console.log(data.toString());
         res.send(data.toString())
     });
   });

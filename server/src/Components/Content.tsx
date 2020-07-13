@@ -78,7 +78,42 @@ let Content = (props: any) => {
           </div>
         </div>
         <div key="2" className="item">
-          <div className="ContentBox box">
+          <div className="ContentBox box table-container">
+          <table className="table is-fullwidth is-hoverable">
+            <thead>Hello!</thead>
+            <tbody>
+              <tr>
+                <th>Calories (kJ)</th>
+                <td>Value</td>
+                <th>Protein (g)</th>
+                <td>Value</td>
+                <th>TotalFat (g)</th>
+                <td>Value</td>
+                <th>Carbohydrate</th>
+                <td>Value</td>
+              </tr>
+              <tr>
+                <th>Sodium(mg)</th>
+                <td>Value</td>
+                <th>SaturatedFat</th>
+                <td>Value</td>
+                <th>Sugar(g)</th>
+                <td>Value</td>
+                <th>Calcium(mg)</th>
+                <td>Value</td>
+              </tr>
+              <tr>
+                <th>Iron(mg)</th>
+                <td>Value</td>
+                <th>Potassium(mg)</th>
+                <td>Value</td>
+                <th>VitaminC(mg)</th>
+                <td>Value</td>
+                <th>VitaminE(mg)</th>
+                <td>Value</td>
+              </tr>
+            </tbody>
+          </table>
           </div>
         </div>
         <div key="3" className="item">

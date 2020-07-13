@@ -23,7 +23,9 @@ let Header = (props: any) => {
             </a>
           </div>
           <div className="navbar-item is-hoverable">
-            <a href="/#" className="navbar-item">
+            <a href="/#" className="navbar-item" onClick={() => {
+              window.open("https://github.com/jiajunmao/4641-Project", "_blank"); 
+            }}>
               Documentation
             </a>
           </div>

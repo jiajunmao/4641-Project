@@ -86,8 +86,7 @@ let Sidebar = (props: any) => {
               </li>
               <li>
                 <form id='uploadForm' method="post" action='upload' encType="multipart/form-data">
-                <input type="file" name="sampleFile" accept='image/*' ref={cur} onChange={() => upload(cur)}/>
-                <input hidden id="sub" type="submit"></input>
+                <input className="input" type="file" name="sampleFile" accept='image/*' ref={cur} onChange={() => upload(cur)}/>
                 </form>
               </li>
             </ul>
