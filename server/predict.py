@@ -10,6 +10,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Input,Dense, Conv2D, Flatten, Dropout, MaxPooling2D,GlobalAveragePooling2D
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.applications.mobilenet_v2 import MobileNetV2
+from tensorflow.keras import regularizers
 from tensorflow.keras.models import Model
 
 from keras.preprocessing.image import load_img, img_to_array
@@ -27,8 +28,13 @@ if __name__ == "__main__":
 
     classes = np.load("classes.npy")
     classes.sort()
+    print(classes)
     
+    # model = keras.applications.VGG16()
+    # model.load_weights("../Downloads/vgg16.h5")
+
     model = keras.models.load_model("model4_dropout.h5")
+    model.summary()
 
     # model.summary()
     # img = load_img("4_100_6.jpg", target_size=IMG_SIZE)
@@ -41,13 +47,13 @@ if __name__ == "__main__":
     # print(result_index)
     # print(classes[result_index[0]])
 
-    # image_gen_val = ImageDataGenerator(rescale=1./255)
-    # val_data_gen = image_gen_val.flow_from_directory(
-    #     batch_size=32,
-    #     directory=val_dir,
-    #     target_size=(224, 224),
-    #     class_mode='categorical'
-    # )
+    image_gen_val = ImageDataGenerator(rescale=1./255)
+    val_data_gen = image_gen_val.flow_from_directory(
+        batch_size=1,
+        directory="test_images",
+        target_size=(224, 224),
+        class_mode='categorical'
+    )
 
     # for i in range(5):
     #     sample_val_images, label = next(val_data_gen) 
@@ -57,43 +63,46 @@ if __name__ == "__main__":
     # input_image = load_img("test.jpg", target_size=(224, 224))
     # one_img = np.array(input_image)
 
-    # one_img = sample_val_images[5]
+    sample_val_images, label = next(val_data_gen)
+    one_img = sample_val_images
+    print(one_img.shape)
+
     # one_class = label[5]
     # print(one_img.shape)
     # np.save("test.npy", one_img)
 
     # one_img = np.load("test.npy")
 
-    # plt.imshow(one_img)
-    # plt.show()
+    plt.imshow(one_img[0])
+    plt.show()
 
     # plt.imshow(one_img)
     # plt.show()
 
     # matplotlib.image.imsave("test.bmp", one_img)
-    two_img = load_img("99_100_82.jpg", target_size=IMG_SIZE)
-    two_img = np.array(two_img)
+    # two_img = load_img("22_100_20.jpg", target_size=IMG_SIZE)
+    # two_img = np.array(two_img)
     # two_img = two_img[:, :, ::-1]
 
 
-    #print(two_img)
+    # print(two_img)
 
-    #print(two_img.shape)
-    #plt.imshow(two_img)
-    #plt.show()
+    # print(two_img.shape)
+    # plt.imshow(two_img)
+    # plt.show()
 
     # compare = one_img == two_img
     # print(compare.all())
     # print(np.sum(one_img - two_img))
 
     # one_img = np.ones((224, 224, 3)) * 255
-    two_img = np.expand_dims(two_img, axis=0)
+    # two_img = np.expand_dims(two_img, axis=0)
     # one_img = np.expand_dims(one_img, axis=0)
 
     # plt.imshow(one_img[0])
     # plt.show()
 
-    predicted_batch = model.predict(two_img, batch_size=1)
+    predicted_batch = model.predict(one_img, batch_size=1)
     predicted_batch = tf.squeeze(predicted_batch).numpy()
 
     # predicted_batch.sort()
@@ -102,8 +111,8 @@ if __name__ == "__main__":
     # print(np.sum(predicted_batch))
 
     predicted_ids = np.argmax(predicted_batch, axis=-1)
-    #print(predicted_batch.shape, predicted_ids.shape, predicted_ids)
-    print(classes[predicted_ids], file=sys.stdout, flush=True)
+    print(predicted_batch.shape, predicted_ids.shape, predicted_ids)
+    print("predicted: ", classes[predicted_ids])
 
     # print("expected: ", classes[np.argmax(one_class)])
     # raise Exception
@@ -130,4 +139,3 @@ if __name__ == "__main__":
     #     plt.imshow(sample_val_images[n])
     #     plt.title(predicted_class_names[n].title())
     # plt.show()
-

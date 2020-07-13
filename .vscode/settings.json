@@ -1,3 +1,4 @@
 {
-    "python.dataScience.jupyterServerURI": "https://thinkpad.kentailab.org:8888"
+    "python.dataScience.jupyterServerURI": "https://thinkpad.kentailab.org:8888",
+    "git.ignoreLimitWarning": true
 }

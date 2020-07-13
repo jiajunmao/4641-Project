@@ -7,7 +7,7 @@ app.use(fileUpload());
 app.post('/upload', function(req, res) {
     // The name of the input field (i.e. "sampleFile") is used to retrieve the uploaded file
     let sampleFile = req.files.sampleFile;
-    sampleFile.mv('./99_100_82.jpg');
+    sampleFile.mv('./test_images_test/1.jpg');
     const { spawn } = require('child_process');
     const pythonProcess = spawn('python',['predict.py']);
     pythonProcess.stdout.on('data', (data) => {
