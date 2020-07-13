@@ -112,7 +112,7 @@ let Layout = () => {
     return list;
   }
 
-  let [Name, setName] = useState("Avocado");
+  let [Name, setName] = useState("Your result of prediction is: Avocado");
   let [List, setList] = useState(filter(fact.find(el => el.name === "Avocado")));
   let val: any[] = [];
   List.forEach(function(element: any) {
@@ -123,7 +123,7 @@ let Layout = () => {
 
   function updater(e: any) {
     e = e.replace(/\s+/g,"");
-    setName(e)
+    setName("Your result of prediction is: " + e)
     setList(filter(fact.find(el => el.name === e)));
     let val: any[] = [];
     List.forEach(function(element: any) {
@@ -142,6 +142,7 @@ let Layout = () => {
         jobtitle={faker.name.jobTitle()}
         upload={uploader}
         update={updater}
+        setName={setName}
       />
     );
   } else {

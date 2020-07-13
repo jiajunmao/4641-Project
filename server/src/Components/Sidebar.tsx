@@ -17,6 +17,7 @@ let Sidebar = (props: any) => {
   
   function upload(e : any) {
     reader.readAsDataURL(e.current.files[0]);
+    props.setName("Predicting...")
     let myForm = document.getElementById('uploadForm') as HTMLFormElement;
     let formData = new FormData(myForm);
     fetch('/upload', {

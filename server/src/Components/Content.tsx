@@ -79,7 +79,7 @@ let Content = (props: any) => {
         </div>
         <div key="2" className="item">
           <div className="ContentBox box table-container">
-          <p className="panel-heading">Your result of prediction is: {props.name}</p>
+          <p className="panel-heading">{props.name}</p>
           <table className="table is-fullwidth is-hoverable">   
             <tbody>
               <tr>
