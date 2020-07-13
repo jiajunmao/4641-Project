@@ -7,7 +7,7 @@ interface SidebarProps {
 }
 
 let Sidebar = (props: any) => {
-  
+
   let cur = useRef<HTMLInputElement>(null);
 
   let reader = new FileReader();
@@ -16,7 +16,18 @@ let Sidebar = (props: any) => {
   };
   
   function upload(e : any) {
-    reader.readAsDataURL(e.current.files[0]);  
+    reader.readAsDataURL(e.current.files[0]);
+    let myForm = document.getElementById('uploadForm') as HTMLFormElement;
+    let formData = new FormData(myForm);
+    fetch('/upload', {
+      method: 'post',
+      body: formData
+    }).then(res => {
+      return res.text();
+    }).then(data => {
+      let item = data;
+      props.update(item);
+    })
   }  
 
   return (
@@ -74,7 +85,10 @@ let Sidebar = (props: any) => {
                 <a href="/#">View Your Report</a>
               </li>
               <li>
-              <input type="file" accept='image/*' ref={cur} onChange={() => upload(cur)}/>
+                <form id='uploadForm' method="post" action='upload' encType="multipart/form-data">
+                <input type="file" name="sampleFile" accept='image/*' ref={cur} onChange={() => upload(cur)}/>
+                <input hidden id="sub" type="submit"></input>
+                </form>
               </li>
             </ul>
           </li>

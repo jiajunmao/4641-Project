@@ -3,4 +3,8 @@
     .ContentBox {
        height: 100%
     }
+    .img {
+        max-height: 100%;
+        overflow: hidden;
+    }
 }

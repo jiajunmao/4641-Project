@@ -29,7 +29,7 @@ let ContentItem1 = {
   i: "1",
   x: 0,
   y: 0,
-  w: 6,
+  w: 4,
   h: 2,
 };
 
@@ -38,7 +38,7 @@ let ContentItem2 = {
   i: "2",
   x: 6,
   y: 0,
-  w: 6,
+  w: 8,
   h: 2,
 };
 
@@ -55,13 +55,16 @@ let ContentContainer = WidthProvider(ReactGridLayout);
 
 let ItemList = [ContentItem1, ContentItem2, ContentItem3];
 
+let resizeEvent = new Event('resize');
+
+function update() {
+  window.dispatchEvent(resizeEvent);
+}
+
+update()
+
 let Content = (props: any) => {
-  let resizeEvent = new Event('resize');
-
-  function update() {
-    window.dispatchEvent(resizeEvent);
-  }
-
+  update()
   useEffect(() => {
     update()
    });
@@ -71,7 +74,7 @@ let Content = (props: any) => {
       <ContentContainer layout={ItemList}>
         <div key="1" className="item">
           <div className="ContentBox box">
-          <img alt="" src={props.image} id="img"></img>
+          <img alt="" src={props.image} id="img" className="img"></img>
           </div>
         </div>
         <div key="2" className="item">

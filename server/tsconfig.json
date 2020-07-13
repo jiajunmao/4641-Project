@@ -18,6 +18,8 @@
     "resolveJsonModule": true,
     "emitDecoratorMetadata":true,
     "isolatedModules": true,
+    "strictPropertyInitialization": false,
+    "strictNullChecks": false,
     "noEmit": true,
     "jsx": "react"
   },

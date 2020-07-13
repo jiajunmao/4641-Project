@@ -4,7 +4,7 @@ import Header from "./Components/Header";
 import Sidebar from "./Components/Sidebar";
 import Content from "./Components/Content";
 import faker from "faker";
-import usda from "./usda.json";
+import fact from "./fact.json";
 
 let layout1 = [
   {
@@ -85,14 +85,12 @@ let Layout = () => {
   let Sidebars;
   
   let [Image, setImage] = useState(null);
-  
-  let beef = usda.find(el => el.Description === "BUTTER,WITH SALT");
 
   function filter(json: any) {
     let list = [];
     for (let key in json) {
       if (json.hasOwnProperty(key)) {
-        if (key !== "Description" && key !== "ID") {
+        if (key !== "name" && key !== "description") {
           let data = {
             "name": "",
             "value": 0,
@@ -106,16 +104,18 @@ let Layout = () => {
     return list;
   }
 
-  let list = filter(beef);
-
-  console.log(list)
+  let [List, setList] = useState(filter(fact.find(el => el.name === "Avocado")));
 
   function uploader(e:any) {
     setImage(e);
     let img = document.createElement('img');
     img.src = e;
-    predict(img)
   };
+
+  function updater(e: any) {
+    e = e.replace(/\s+/g,"");
+    setList(filter(fact.find(el => el.name === e)));
+  }
 
   if (SidebarOn) {
     Sidebars = (
@@ -125,6 +125,7 @@ let Layout = () => {
         avatar={faker.image.avatar()}
         jobtitle={faker.name.jobTitle()}
         upload={uploader}
+        update={updater}
       />
     );
   } else {
@@ -139,19 +140,6 @@ let Layout = () => {
       <i className="fas fa-bars"></i>
     </button>
   );
-
-  let mobilenet = require('@tensorflow-models/mobilenet');
-
-  async function predict(e :any) {
-    // Load the model.
-    let model = await mobilenet.load();
-
-    // Classify the image.
-    let predictions = await model.classify(e);
-
-    console.log('Predictions: ');
-    console.log(predictions);
-  }
 
   return (
     <div className="layout">
@@ -168,7 +156,7 @@ let Layout = () => {
           <Header SidebarToggler={SidebarButton} />
         </div>
         <div key="2">
-          <Content image={Image} data={list}/>
+          <Content image={Image} data={List}/>
         </div>
       </GridLayout>
     </div>
