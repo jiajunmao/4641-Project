@@ -32,22 +32,22 @@
         <p class="has-line-data" data-line-start="24" data-line-end="25"><img src="image_1.png" alt="image alt text"></p>
         <p class="has-line-data" data-line-start="26" data-line-end="27">The nutrient facts dataset was obtained from NSDA and some other datasets found online. For some of the fruits that were not in the dataset, the values were manually searched and inputted.</p>
         <h4 class="code-line" data-line-start=28 data-line-end=29><a id="212_Dataset_characteristics_the_original_dataset_28"></a>2.1.2 Dataset characteristics (the original dataset)</h4>
-        <p class="has-line-data" data-line-start="30" data-line-end="46">&lt;table&gt;<br>
-        &lt;tr&gt;<br>
-        &lt;td&gt;Total number of images&lt;/td&gt;<br>
-        &lt;td&gt;Training set size&lt;/td&gt;<br>
-        &lt;td&gt;Test set size&lt;/td&gt;<br>
-        &lt;td&gt;image size&lt;/td&gt;<br>
-        &lt;td&gt;Total number of classes&lt;/td&gt;<br>
-        &lt;/tr&gt;<br>
-        &lt;tr&gt;<br>
-        &lt;td&gt;90483&lt;/td&gt;<br>
-        &lt;td&gt;67692&lt;/td&gt;<br>
-        &lt;td&gt;22688&lt;/td&gt;<br>
-        &lt;td&gt;100x100 pixels&lt;/td&gt;<br>
-        &lt;td&gt;131&lt;/td&gt;<br>
-        &lt;/tr&gt;<br>
-        &lt;/table&gt;</p>
+        <table>
+          <tr>
+          <td>Total number of images</td>
+          <td>Training set size</td>
+          <td>Test set size</td>
+          <td>image size</td>
+          <td>Total number of classes</td>
+          </tr>
+          <tr>
+          <td>90483</td>
+          <td>67692</td>
+          <td>22688</td>
+          <td>100x100 pixels</td>
+          <td>131</td>
+          </tr>
+          </table>
         <h3 class="code-line" data-line-start=48 data-line-end=49><a id="22_Data_preprocessing_48"></a>2.2 Data preprocessing</h3>
         <p class="has-line-data" data-line-start="50" data-line-end="51">Since there are some fruits in the dataset that are not commonly seen in daily life, we decided to merge those varieties into one class such as group Kumquats with Orange so that the training process would be easier. After cleaning, we have 28 classes in total for both training and testing. Due to combing different classes together, depending on the class the number of images in one class vary from 103 to 11*103.</p>
         <p class="has-line-data" data-line-start="52" data-line-end="53">After cleaning our dataset, we need to connect the nutrient facts table to the classes. In the nutrient chart, we have 12 categories associated with each class.</p>
