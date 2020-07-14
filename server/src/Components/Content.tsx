@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import ReactGridLayout, {WidthProvider } from "react-grid-layout";
+
 import {
   BarChart,
   Bar,
@@ -51,7 +51,7 @@ let ContentItem3 = {
   h: 3,
 };
 
-let ContentContainer = WidthProvider(ReactGridLayout);
+
 
 let ItemList = [ContentItem1, ContentItem2, ContentItem3];
 
@@ -61,10 +61,10 @@ function update() {
   window.dispatchEvent(resizeEvent);
 }
 
-update()
-
 let Content = (props: any) => {
-  update()
+  
+  let ContentContainer = props.layout;
+  
   useEffect(() => {
     update()
    });
@@ -84,33 +84,33 @@ let Content = (props: any) => {
             <tbody>
               <tr>
                 <th>Calories (kJ)</th>
-                <td>{props.value[0]}</td>
+                <td>{props.list[0]}</td>
                 <th>Protein (g)</th>
-                <td>{props.value[1]}</td>
+                <td>{props.list[1]}</td>
                 <th>TotalFat (g)</th>
-                <td>{props.value[2]}</td>
+                <td>{props.list[2]}</td>
                 <th>Carbohydrate</th>
-                <td>{props.value[3]}</td>
+                <td>{props.list[3]}</td>
               </tr>
               <tr>
                 <th>Sodium(mg)</th>
-                <td>{props.value[4]}</td>
+                <td>{props.list[4]}</td>
                 <th>SaturatedFat</th>
-                <td>{props.value[5]}</td>
+                <td>{props.list[5]}</td>
                 <th>Sugar(g)</th>
-                <td>{props.value[6]}</td>
+                <td>{props.list[6]}</td>
                 <th>Calcium(mg)</th>
-                <td>{props.value[7]}</td>
+                <td>{props.list[7]}</td>
               </tr>
               <tr>
                 <th>Iron(mg)</th>
-                <td>{props.value[8]}</td>
+                <td>{props.list[8]}</td>
                 <th>Potassium(mg)</th>
-                <td>{props.value[9]}</td>
+                <td>{props.list[9]}</td>
                 <th>VitaminC(mg)</th>
-                <td>{props.value[10]}</td>
+                <td>{props.list[10]}</td>
                 <th>VitaminE(mg)</th>
-                <td>{props.value[11]}</td>
+                <td>{props.list[11]}</td>
               </tr>
             </tbody>
           </table>
@@ -119,7 +119,7 @@ let Content = (props: any) => {
         <div key="3" className="item">
           <div className="ContentBox box">        
             <ResponsiveContainer>
-            <BarChart width={730} height={250} data={props.data}>
+            <BarChart data={props.data}>
               <CartesianGrid strokeDasharray="3 3" />
               <XAxis dataKey="name" />
               <YAxis />
