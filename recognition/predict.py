@@ -5,6 +5,11 @@ import matplotlib.pyplot as plt
 
 from keras.preprocessing.image import ImageDataGenerator
 
+"""
+[USAGE]: python3 predict.py
+"""
+
+### CONSTANTS ###
 IMG_SIZE = (224, 224)  # MobileNetV2 Input Size
 
 if __name__ == "__main__":
