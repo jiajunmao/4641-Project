@@ -7,6 +7,8 @@ from keras.preprocessing.image import ImageDataGenerator
 
 """
 [USAGE]: python3 predict.py
+This one used model4_dropout.h5.
+This is the overall best version.
 """
 
 ### CONSTANTS ###
@@ -34,6 +36,9 @@ if __name__ == "__main__":
 
     # let ImageDataGenerator generate the image for predition
     img, label = next(val_data_gen)  # label is just a placeholder
+    
+    plt.imshow(img[0])
+    plt.show()
 
     results = model.predict(img, batch_size=1)
     results = tf.squeeze(results).numpy()
