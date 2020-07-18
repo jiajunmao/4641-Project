@@ -69,8 +69,6 @@ base_model = keras.applications.MobileNetV2(
     include_top=False
 )
 
-base_model.input
-
 # Freeze MobileNetV2 weights besides last layer
 for layer in base_model.layers:
     layer.trainable = False
@@ -85,7 +83,7 @@ out = Dense(28, activation='softmax', activity_regularizer=regularizers.l2(0.01)
 # Integrate with base model to get complete model
 complete_model = Model(base_model.input, out)
 complete_model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=["accuracy"])  
-complete_model.summary()
+# complete_model.summary()
 
 history = complete_model.fit(
     train_data_gen,
@@ -96,7 +94,7 @@ history = complete_model.fit(
 )
 
 # Save model 
-complete_model.save("model6_tatch1.h5")
+complete_model.save("model6.h5")
 
 # Visualize training results
 loss = history.history['loss']
