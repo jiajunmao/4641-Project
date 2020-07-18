@@ -73,7 +73,7 @@ base_model.input
 
 # Freeze MobileNetV2 weights besides last layer
 for layer in base_model.layers:
-    layer.trainable=False
+    layer.trainable = False
 
 # Create custom layers to base model
 x = base_model.output
